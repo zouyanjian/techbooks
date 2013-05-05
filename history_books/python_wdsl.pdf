@@ -1,0 +1,6111 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages
+/Count 11
+/Kids [20 0 R 64 0 R 66 0 R 68 0 R 71 0 R 73 0 R 75 0 R 105 0 R 107 0 R 109 0 R 117 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Info
+/Producer (FOP-0_14_0) >>
+endobj
+4 0 obj
+<< 
+/Font << /F11 5 0 R /F10 6 0 R /F9 7 0 R /F8 8 0 R /F7 9 0 R /F6 10 0 R /F5 11 0 R /F4 12 0 R /F3 13 0 R /F2 14 0 R /F1 15 0 R /F14 16 0 R /F13 17 0 R /F12 18 0 R >> 
+/ProcSet [ /PDF /ImageC /Text ] /XObject <</Im1 70 0 R 
+ >>
+>> 
+endobj
+5 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F11
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F10
+/BaseFont /Courier-Oblique
+/Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F9
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F8
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding >>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F7
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding >>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F6
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding >>
+endobj
+11 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding >>
+endobj
+12 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding >>
+endobj
+13 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding >>
+endobj
+14 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding >>
+endobj
+15 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding >>
+endobj
+16 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F14
+/BaseFont /ZapfDingbats
+/Encoding /StandardEncoding >>
+endobj
+17 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F13
+/BaseFont /Symbol
+/Encoding /StandardEncoding >>
+endobj
+18 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F12
+/BaseFont /Courier-BoldOblique
+/Encoding /WinAnsiEncoding >>
+endobj
+19 0 obj
+<< /Length 3539 >>
+stream
+BT
+/F3 24 Tf
+0 g
+1 0 0 1 136.311 752.388 Tm (Processing) Tj
+0 g
+1 0 0 1 272.367 752.388 Tm (WSDL) Tj
+0 g
+1 0 0 1 349.695 752.388 Tm (in) Tj
+0 g
+1 0 0 1 377.703 752.388 Tm (Python) Tj
+/F1 14 Tf
+0 g
+1 0 0 1 108.99 716.368 Tm (Presented) Tj
+0 g
+1 0 0 1 176.694 716.368 Tm (by) Tj
+0 g
+1 0 0 1 195.37 716.368 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 304.29 716.368 Tm (your) Tj
+0 g
+1 0 0 1 335.412 716.368 Tm (source) Tj
+0 g
+1 0 0 1 381.318 716.368 Tm (for) Tj
+0 g
+1 0 0 1 401.548 716.368 Tm (great) Tj
+0 g
+1 0 0 1 437.346 716.368 Tm (tutorials) Tj
+/F11 14 Tf
+0 g
+1 0 0 1 205.275 689.706 Tm (ibm.com/developerWorks) Tj
+ET
+q
+0 G
+70.875 650.218 m 524.475 650.218 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 629.794 Tm (Table) Tj
+0 g
+1 0 0 1 120.897 629.794 Tm (of) Tj
+0 g
+1 0 0 1 140.913 629.794 Tm (Contents) Tj
+/F1 8 Tf
+0 g
+1 0 0 1 70.875 605.324 Tm (If) Tj
+0 g
+1 0 0 1 77.547 605.324 Tm (you're) Tj
+0 g
+1 0 0 1 101.307 605.324 Tm (viewing) Tj
+0 g
+1 0 0 1 130.203 605.324 Tm (this) Tj
+0 g
+1 0 0 1 144.875 605.324 Tm (document) Tj
+0 g
+1 0 0 1 182.227 605.324 Tm (online,) Tj
+0 g
+1 0 0 1 208.019 605.324 Tm (you) Tj
+0 g
+1 0 0 1 223.139 605.324 Tm (can) Tj
+0 g
+1 0 0 1 238.259 605.324 Tm (click) Tj
+0 g
+1 0 0 1 256.035 605.324 Tm (any) Tj
+0 g
+1 0 0 1 271.155 605.324 Tm (of) Tj
+0 g
+1 0 0 1 280.051 605.324 Tm (the) Tj
+0 g
+1 0 0 1 293.395 605.324 Tm (topics) Tj
+0 g
+1 0 0 1 316.515 605.324 Tm (below) Tj
+0 g
+1 0 0 1 339.635 605.324 Tm (to) Tj
+0 g
+1 0 0 1 348.531 605.324 Tm (link) Tj
+0 g
+1 0 0 1 362.755 605.324 Tm (directly) Tj
+0 g
+1 0 0 1 390.315 605.324 Tm (to) Tj
+0 g
+1 0 0 1 399.211 605.324 Tm (that) Tj
+0 g
+1 0 0 1 414.779 605.324 Tm (section.) Tj
+/F1 14 Tf
+0 0 1  rg 
+1 0 0 1 70.875 575.616 Tm (1.) Tj
+0 0 1  rg 
+1 0 0 1 86.443 575.616 Tm (Introduction) Tj
+0 0 1  rg 
+1 0 0 1 480.307 575.616 Tm (2) Tj
+0 0 1  rg 
+1 0 0 1 70.875 553.666 Tm (2.) Tj
+0 0 1  rg 
+1 0 0 1 86.443 553.666 Tm (Getting) Tj
+0 0 1  rg 
+1 0 0 1 135.471 553.666 Tm (started) Tj
+0 0 1  rg 
+1 0 0 1 480.307 553.666 Tm (3) Tj
+0 0 1  rg 
+1 0 0 1 70.875 531.716 Tm (3.) Tj
+0 0 1  rg 
+1 0 0 1 86.443 531.716 Tm (Reading) Tj
+0 0 1  rg 
+1 0 0 1 142.471 531.716 Tm (and) Tj
+0 0 1  rg 
+1 0 0 1 169.715 531.716 Tm (examining) Tj
+0 0 1  rg 
+1 0 0 1 237.405 531.716 Tm (descriptions) Tj
+0 0 1  rg 
+1 0 0 1 480.307 531.716 Tm (4) Tj
+0 0 1  rg 
+1 0 0 1 70.875 509.766 Tm (4.) Tj
+0 0 1  rg 
+1 0 0 1 86.443 509.766 Tm (Generating) Tj
+0 0 1  rg 
+1 0 0 1 159.593 509.766 Tm (and) Tj
+0 0 1  rg 
+1 0 0 1 186.837 509.766 Tm (modifying) Tj
+0 0 1  rg 
+1 0 0 1 250.635 509.766 Tm (WSDL) Tj
+0 0 1  rg 
+1 0 0 1 480.307 509.766 Tm (7) Tj
+0 0 1  rg 
+1 0 0 1 70.875 487.816 Tm (5.) Tj
+0 0 1  rg 
+1 0 0 1 86.443 487.816 Tm (Notes) Tj
+0 0 1  rg 
+1 0 0 1 126.903 487.816 Tm (from) Tj
+0 0 1  rg 
+1 0 0 1 158.795 487.816 Tm (implementation) Tj
+0 0 1  rg 
+1 0 0 1 480.307 487.816 Tm (9) Tj
+0 0 1  rg 
+1 0 0 1 70.875 465.866 Tm (6.) Tj
+0 0 1  rg 
+1 0 0 1 86.443 465.866 Tm (Web) Tj
+0 0 1  rg 
+1 0 0 1 119.119 465.866 Tm (services) Tj
+0 0 1  rg 
+1 0 0 1 174.349 465.866 Tm (easy) Tj
+0 0 1  rg 
+1 0 0 1 207.809 465.866 Tm (as) Tj
+0 0 1  rg 
+1 0 0 1 226.485 465.866 Tm (py) Tj
+0 0 1  rg 
+1 0 0 1 480.307 465.866 Tm (10) Tj
+0 0 1  rg 
+1 0 0 1 70.875 443.916 Tm (7.) Tj
+0 0 1  rg 
+1 0 0 1 86.443 443.916 Tm (resources) Tj
+0 0 1  rg 
+1 0 0 1 480.307 443.916 Tm (11) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (1) Tj
+ET
+
+endstream
+endobj
+20 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 19 0 R
+/Annots 21 0 R
+>>
+endobj
+21 0 obj
+[
+22 0 R
+24 0 R
+25 0 R
+26 0 R
+28 0 R
+29 0 R
+30 0 R
+31 0 R
+33 0 R
+34 0 R
+35 0 R
+36 0 R
+37 0 R
+38 0 R
+40 0 R
+41 0 R
+42 0 R
+43 0 R
+44 0 R
+45 0 R
+47 0 R
+48 0 R
+49 0 R
+50 0 R
+51 0 R
+53 0 R
+54 0 R
+55 0 R
+56 0 R
+57 0 R
+58 0 R
+59 0 R
+61 0 R
+62 0 R
+]
+endobj
+22 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 584.668 82.551 570.668 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 23 0 R
+/H /I
+>>
+endobj
+23 0 obj
+<<
+/S /GoTo
+/D [64 0 R /XYZ 65.875 776.12 null]
+>>
+endobj
+24 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 86.443 584.668 159.593 570.668 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 23 0 R
+/H /I
+>>
+endobj
+25 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 480.307 584.668 491.983 570.668 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 23 0 R
+/H /I
+>>
+endobj
+26 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 562.718 82.551 548.718 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 27 0 R
+/H /I
+>>
+endobj
+27 0 obj
+<<
+/S /GoTo
+/D [66 0 R /XYZ 65.875 776.12 null]
+>>
+endobj
+28 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 86.443 562.718 131.579 548.718 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 27 0 R
+/H /I
+>>
+endobj
+29 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 135.471 562.718 178.269 548.718 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 27 0 R
+/H /I
+>>
+endobj
+30 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 480.307 562.718 491.983 548.718 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 27 0 R
+/H /I
+>>
+endobj
+31 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 540.768 82.551 526.768 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 32 0 R
+/H /I
+>>
+endobj
+32 0 obj
+<<
+/S /GoTo
+/D [68 0 R /XYZ 65.875 776.12 null]
+>>
+endobj
+33 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 86.443 540.768 138.579 526.768 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 32 0 R
+/H /I
+>>
+endobj
+34 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 142.471 540.768 165.823 526.768 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 32 0 R
+/H /I
+>>
+endobj
+35 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 169.715 540.768 233.513 526.768 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 32 0 R
+/H /I
+>>
+endobj
+36 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 237.405 540.768 312.095 526.768 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 32 0 R
+/H /I
+>>
+endobj
+37 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 480.307 540.768 491.983 526.768 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 32 0 R
+/H /I
+>>
+endobj
+38 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 518.818 82.551 504.818 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 39 0 R
+/H /I
+>>
+endobj
+39 0 obj
+<<
+/S /GoTo
+/D [75 0 R /XYZ 65.875 776.12 null]
+>>
+endobj
+40 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 86.443 518.818 155.701 504.818 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 39 0 R
+/H /I
+>>
+endobj
+41 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 159.593 518.818 182.945 504.818 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 39 0 R
+/H /I
+>>
+endobj
+42 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 186.837 518.818 246.743 504.818 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 39 0 R
+/H /I
+>>
+endobj
+43 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 250.635 518.818 291.081 504.818 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 39 0 R
+/H /I
+>>
+endobj
+44 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 480.307 518.818 491.983 504.818 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 39 0 R
+/H /I
+>>
+endobj
+45 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 496.868 82.551 482.868 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 46 0 R
+/H /I
+>>
+endobj
+46 0 obj
+<<
+/S /GoTo
+/D [107 0 R /XYZ 65.875 776.12 null]
+>>
+endobj
+47 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 86.443 496.868 123.011 482.868 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 46 0 R
+/H /I
+>>
+endobj
+48 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 126.903 496.868 154.903 482.868 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 46 0 R
+/H /I
+>>
+endobj
+49 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 158.795 496.868 253.715 482.868 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 46 0 R
+/H /I
+>>
+endobj
+50 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 480.307 496.868 491.983 482.868 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 46 0 R
+/H /I
+>>
+endobj
+51 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 474.918 82.551 460.918 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 52 0 R
+/H /I
+>>
+endobj
+52 0 obj
+<<
+/S /GoTo
+/D [109 0 R /XYZ 65.875 776.12 null]
+>>
+endobj
+53 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 86.443 474.918 115.227 460.918 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 52 0 R
+/H /I
+>>
+endobj
+54 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 119.119 474.918 170.457 460.918 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 52 0 R
+/H /I
+>>
+endobj
+55 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 174.349 474.918 203.917 460.918 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 52 0 R
+/H /I
+>>
+endobj
+56 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 207.809 474.918 222.593 460.918 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 52 0 R
+/H /I
+>>
+endobj
+57 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 226.485 474.918 241.269 460.918 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 52 0 R
+/H /I
+>>
+endobj
+58 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 480.307 474.918 491.983 460.918 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 52 0 R
+/H /I
+>>
+endobj
+59 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 452.968 82.551 438.968 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 60 0 R
+/H /I
+>>
+endobj
+60 0 obj
+<<
+/S /GoTo
+/D [117 0 R /XYZ 65.875 776.12 null]
+>>
+endobj
+61 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 86.443 452.968 147.903 438.968 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 60 0 R
+/H /I
+>>
+endobj
+62 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 480.307 452.968 491.983 438.968 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 60 0 R
+/H /I
+>>
+endobj
+63 0 obj
+<< /Length 5495 >>
+stream
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 756.696 Tm (Section) Tj
+0 g
+1 0 0 1 135.909 756.696 Tm (1.) Tj
+0 g
+1 0 0 1 155.925 756.696 Tm (Introduction) Tj
+0 g
+1 0 0 1 70.875 725.046 Tm (Tutorial) Tj
+0 g
+1 0 0 1 135.891 725.046 Tm (purpose) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 701.422 Tm (Web) Tj
+0 g
+1 0 0 1 96.549 701.422 Tm (Services) Tj
+0 g
+1 0 0 1 141.781 701.422 Tm (Description) Tj
+0 g
+1 0 0 1 199.85 701.422 Tm (Language) Tj
+0 g
+1 0 0 1 251.836 701.422 Tm (\(WDSL\),) Tj
+0 g
+1 0 0 1 297.057 701.422 Tm (originally) Tj
+0 g
+1 0 0 1 343.51 701.422 Tm (developed) Tj
+0 g
+1 0 0 1 397.322 701.422 Tm (by) Tj
+0 g
+1 0 0 1 411.996 701.422 Tm (IBM,) Tj
+0 g
+1 0 0 1 437.67 701.422 Tm (Microsoft,) Tj
+0 g
+1 0 0 1 488.402 701.422 Tm (and) Tj
+0 g
+1 0 0 1 70.875 688.247 Tm (others,) Tj
+0 g
+1 0 0 1 107.56 688.247 Tm (is) Tj
+0 g
+1 0 0 1 118.56 688.247 Tm (an) Tj
+0 g
+1 0 0 1 133.85 688.247 Tm (XML) Tj
+0 g
+1 0 0 1 159.524 688.247 Tm (format) Tj
+0 g
+1 0 0 1 193.756 688.247 Tm (for) Tj
+0 g
+1 0 0 1 209.651 688.247 Tm (technical) Tj
+0 g
+1 0 0 1 256.115 688.247 Tm (description) Tj
+0 g
+1 0 0 1 312.358 688.247 Tm (of) Tj
+0 g
+1 0 0 1 324.59 688.247 Tm (Web) Tj
+0 g
+1 0 0 1 350.264 688.247 Tm (services.) Tj
+0 g
+1 0 0 1 396.717 688.247 Tm (In) Tj
+0 g
+1 0 0 1 408.949 688.247 Tm (this) Tj
+0 g
+1 0 0 1 429.123 688.247 Tm (tutorial,) Tj
+0 g
+1 0 0 1 468.25 688.247 Tm (Mike) Tj
+0 g
+1 0 0 1 494.529 688.247 Tm (Olson) Tj
+0 g
+1 0 0 1 70.875 675.072 Tm (and) Tj
+0 g
+1 0 0 1 92.281 675.072 Tm (Uche) Tj
+0 g
+1 0 0 1 121.013 675.072 Tm (Ogbuji) Tj
+0 g
+1 0 0 1 155.861 675.072 Tm (introduce) Tj
+0 g
+1 0 0 1 204.162 675.072 Tm (WSDL4Py,) Tj
+0 g
+1 0 0 1 261.01 675.072 Tm (an) Tj
+0 g
+1 0 0 1 276.3 675.072 Tm (open-source) Tj
+0 g
+1 0 0 1 343.257 675.072 Tm (Python) Tj
+0 g
+1 0 0 1 380.558 675.072 Tm (library) Tj
+0 g
+1 0 0 1 413.558 675.072 Tm (for) Tj
+0 g
+1 0 0 1 429.453 675.072 Tm (WSDL) Tj
+0 g
+1 0 0 1 464.29 675.072 Tm (1.1) Tj
+0 g
+1 0 0 1 482.638 675.072 Tm (hosted) Tj
+0 g
+1 0 0 1 70.875 661.897 Tm (by) Tj
+0 g
+1 0 0 1 85.549 661.897 Tm (IBM) Tj
+0 g
+1 0 0 1 108.165 661.897 Tm (developerWork's) Tj
+0 g
+1 0 0 1 192.788 661.897 Tm (open-source) Tj
+0 g
+1 0 0 1 259.745 661.897 Tm (zone.) Tj
+0 g
+1 0 0 1 289.709 661.897 Tm (Usage) Tj
+0 g
+1 0 0 1 324.557 661.897 Tm (of) Tj
+0 g
+1 0 0 1 336.789 661.897 Tm (the) Tj
+0 g
+1 0 0 1 355.137 661.897 Tm (library) Tj
+0 g
+1 0 0 1 388.137 661.897 Tm (is) Tj
+0 g
+1 0 0 1 399.137 661.897 Tm (explained,) Tj
+0 g
+1 0 0 1 452.333 661.897 Tm (as) Tj
+0 g
+1 0 0 1 467.007 661.897 Tm (well) Tj
+0 g
+1 0 0 1 489.007 661.897 Tm (as) Tj
+0 g
+1 0 0 1 70.875 648.722 Tm (discussion) Tj
+0 g
+1 0 0 1 125.281 648.722 Tm (of) Tj
+0 g
+1 0 0 1 137.513 648.722 Tm (its) Tj
+0 g
+1 0 0 1 151.571 648.722 Tm (development.) Tj
+ET
+q
+0 G
+70.875 627.945 m 524.475 627.945 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 598.521 Tm (About) Tj
+0 g
+1 0 0 1 122.913 598.521 Tm (the) Tj
+0 g
+1 0 0 1 152.937 598.521 Tm (authors) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 574.897 Tm (Mike) Tj
+0 g
+1 0 0 1 97.154 574.897 Tm (Olson) Tj
+0 g
+1 0 0 1 128.944 574.897 Tm (and) Tj
+0 g
+1 0 0 1 150.35 574.897 Tm (Uche) Tj
+0 g
+1 0 0 1 179.082 574.897 Tm (Ogbuji) Tj
+0 g
+1 0 0 1 213.93 574.897 Tm (are) Tj
+0 g
+1 0 0 1 232.883 574.897 Tm (co-founders) Tj
+0 g
+1 0 0 1 296.782 574.897 Tm (of) Tj
+0 g
+1 0 0 1 309.014 574.897 Tm (and) Tj
+0 g
+1 0 0 1 330.42 574.897 Tm (principal) Tj
+0 g
+1 0 0 1 374.431 574.897 Tm (consultants) Tj
+0 g
+1 0 0 1 433.127 574.897 Tm (at) Tj
+0 g
+1 0 0 1 445.359 574.897 Tm (Fourthought) Tj
+0 g
+1 0 0 1 70.875 561.722 Tm (Inc.) Tj
+0 g
+1 0 0 1 91.665 561.722 Tm (where) Tj
+0 g
+1 0 0 1 124.676 561.722 Tm (they) Tj
+0 g
+1 0 0 1 148.524 561.722 Tm (develop) Tj
+0 g
+1 0 0 1 190.104 561.722 Tm (the) Tj
+0 g
+1 0 0 1 208.452 561.722 Tm (open-source) Tj
+0 g
+1 0 0 1 275.409 561.722 Tm (tools) Tj
+0 g
+1 0 0 1 301.699 561.722 Tm (4Suite) Tj
+0 g
+1 0 0 1 335.942 561.722 Tm (and) Tj
+0 g
+1 0 0 1 357.348 561.722 Tm (4Suite) Tj
+0 g
+1 0 0 1 391.591 561.722 Tm (Server,) Tj
+0 g
+1 0 0 1 430.102 561.722 Tm (and) Tj
+0 g
+1 0 0 1 451.508 561.722 Tm (provide) Tj
+0 g
+1 0 0 1 70.875 548.547 Tm (commercial) Tj
+0 g
+1 0 0 1 130.154 548.547 Tm (consulting,) Tj
+0 g
+1 0 0 1 185.792 548.547 Tm (training) Tj
+0 g
+1 0 0 1 224.919 548.547 Tm (and) Tj
+0 g
+1 0 0 1 246.325 548.547 Tm (4Suite) Tj
+0 g
+1 0 0 1 280.568 548.547 Tm (customization) Tj
+0 g
+1 0 0 1 350.869 548.547 Tm (for) Tj
+0 g
+1 0 0 1 366.764 548.547 Tm (clients) Tj
+0 g
+1 0 0 1 400.996 548.547 Tm (working) Tj
+0 g
+1 0 0 1 441.949 548.547 Tm (with) Tj
+0 g
+1 0 0 1 464.565 548.547 Tm (XML) Tj
+0 g
+1 0 0 1 490.239 548.547 Tm (and) Tj
+0 g
+1 0 0 1 70.875 535.372 Tm (Web) Tj
+0 g
+1 0 0 1 96.549 535.372 Tm (services.) Tj
+0 g
+1 0 0 1 143.002 535.372 Tm (They) Tj
+0 g
+1 0 0 1 170.513 535.372 Tm (reside) Tj
+0 g
+1 0 0 1 203.524 535.372 Tm (in) Tj
+0 g
+1 0 0 1 215.14 535.372 Tm (Boulder,) Tj
+0 g
+1 0 0 1 259.162 535.372 Tm (Colorado.) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (2) Tj
+ET
+
+endstream
+endobj
+64 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 63 0 R
+>>
+endobj
+65 0 obj
+<< /Length 6913 >>
+stream
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 756.696 Tm (Section) Tj
+0 g
+1 0 0 1 135.909 756.696 Tm (2.) Tj
+0 g
+1 0 0 1 155.925 756.696 Tm (Getting) Tj
+0 g
+1 0 0 1 218.961 756.696 Tm (started) Tj
+0 g
+1 0 0 1 70.875 725.046 Tm (Setting) Tj
+0 g
+1 0 0 1 131.913 725.046 Tm (up) Tj
+0 g
+1 0 0 1 156.933 725.046 Tm (WSDL4Py) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 701.422 Tm (The) Tj
+0 g
+1 0 0 1 92.886 701.422 Tm (prerequisites) Tj
+0 g
+1 0 0 1 158.908 701.422 Tm (for) Tj
+0 g
+1 0 0 1 174.803 701.422 Tm (using) Tj
+0 g
+1 0 0 1 204.151 701.422 Tm (the) Tj
+0 g
+1 0 0 1 222.499 701.422 Tm (WSDL4Py) Tj
+0 g
+1 0 0 1 276.289 701.422 Tm (library) Tj
+0 g
+1 0 0 1 309.289 701.422 Tm (and) Tj
+0 g
+1 0 0 1 330.695 701.422 Tm (the) Tj
+0 g
+1 0 0 1 349.043 701.422 Tm (examples) Tj
+0 g
+1 0 0 1 399.17 701.422 Tm (in) Tj
+0 g
+1 0 0 1 410.786 701.422 Tm (this) Tj
+0 g
+1 0 0 1 430.96 701.422 Tm (tutorial) Tj
+0 g
+1 0 0 1 467.029 701.422 Tm (are) Tj
+0 g
+1 0 0 1 485.982 701.422 Tm (as) Tj
+0 g
+1 0 0 1 70.875 688.247 Tm (follows:) Tj
+0 g
+1 0 0 1 70.875 661.072 Tm (*) Tj
+0 g
+1 0 0 1 94.875 661.072 Tm (A) Tj
+0 g
+1 0 0 1 105.27 661.072 Tm (working) Tj
+0 g
+1 0 0 1 146.223 661.072 Tm (knowledge) Tj
+0 g
+1 0 0 1 201.861 661.072 Tm (of) Tj
+0 g
+1 0 0 1 214.093 661.072 Tm (the) Tj
+0 g
+1 0 0 1 232.441 661.072 Tm (Python) Tj
+0 g
+1 0 0 1 269.742 661.072 Tm (programming) Tj
+0 g
+1 0 0 1 337.59 661.072 Tm (language,) Tj
+0 g
+1 0 0 1 388.96 661.072 Tm (and) Tj
+0 g
+1 0 0 1 410.366 661.072 Tm (WSDL.) Tj
+0 g
+1 0 0 1 70.875 647.897 Tm (*) Tj
+0 g
+1 0 0 1 94.875 647.897 Tm (Python:) Tj
+0 g
+1 0 0 1 135.234 647.897 Tm (version) Tj
+0 g
+1 0 0 1 173.745 647.897 Tm (2.0) Tj
+0 g
+1 0 0 1 192.093 647.897 Tm (or) Tj
+0 g
+1 0 0 1 204.93 647.897 Tm (more) Tj
+0 g
+1 0 0 1 233.046 647.897 Tm (recent) Tj
+0 g
+1 0 0 1 266.673 647.897 Tm (is) Tj
+0 g
+1 0 0 1 277.673 647.897 Tm (highly) Tj
+0 g
+1 0 0 1 309.463 647.897 Tm (recommended,) Tj
+0 g
+1 0 0 1 385.88 647.897 Tm (but) Tj
+0 g
+1 0 0 1 404.228 647.897 Tm (1.5.2) Tj
+0 g
+1 0 0 1 431.75 647.897 Tm (will) Tj
+0 g
+1 0 0 1 450.076 647.897 Tm (work) Tj
+0 g
+1 0 0 1 476.355 647.897 Tm (as) Tj
+0 g
+1 0 0 1 491.029 647.897 Tm (well.) Tj
+0 g
+1 0 0 1 70.875 634.722 Tm (*) Tj
+0 g
+1 0 0 1 94.875 634.722 Tm (4Suite:) Tj
+0 g
+1 0 0 1 132.176 634.722 Tm (version) Tj
+0 g
+1 0 0 1 170.687 634.722 Tm (0.11) Tj
+0 g
+1 0 0 1 195.151 634.722 Tm (or) Tj
+0 g
+1 0 0 1 207.988 634.722 Tm (more) Tj
+0 g
+1 0 0 1 236.104 634.722 Tm (recent.) Tj
+0 g
+1 0 0 1 70.875 607.547 Tm (The) Tj
+0 g
+1 0 0 1 92.886 607.547 Tm (software) Tj
+0 g
+1 0 0 1 137.513 607.547 Tm (should) Tj
+0 g
+1 0 0 1 172.977 607.547 Tm (work) Tj
+0 g
+1 0 0 1 199.256 607.547 Tm (under) Tj
+0 g
+1 0 0 1 230.441 607.547 Tm (UNIX) Tj
+0 g
+1 0 0 1 259.778 607.547 Tm (and) Tj
+0 g
+1 0 0 1 281.184 607.547 Tm (Windows.) Tj
+0 g
+1 0 0 1 331.916 607.547 Tm (Unfortunately,) Tj
+0 g
+1 0 0 1 403.449 607.547 Tm (Macintosh) Tj
+0 g
+1 0 0 1 456.634 607.547 Tm (users) Tj
+0 g
+1 0 0 1 486.587 607.547 Tm (must) Tj
+0 g
+1 0 0 1 70.875 594.372 Tm (wait) Tj
+0 g
+1 0 0 1 93.491 594.372 Tm (for) Tj
+0 g
+1 0 0 1 109.386 594.372 Tm (someone) Tj
+0 g
+1 0 0 1 157.687 594.372 Tm (to) Tj
+0 g
+1 0 0 1 169.919 594.372 Tm (port) Tj
+0 g
+1 0 0 1 191.93 594.372 Tm (the) Tj
+0 g
+1 0 0 1 210.278 594.372 Tm (XPath) Tj
+0 g
+1 0 0 1 243.3 594.372 Tm (library) Tj
+0 g
+1 0 0 1 276.3 594.372 Tm (of) Tj
+0 g
+1 0 0 1 288.532 594.372 Tm (4Suite) Tj
+0 g
+1 0 0 1 322.775 594.372 Tm (to) Tj
+0 g
+1 0 0 1 335.007 594.372 Tm (that) Tj
+0 g
+1 0 0 1 356.413 594.372 Tm (platform,) Tj
+0 g
+1 0 0 1 402.261 594.372 Tm (or) Tj
+0 g
+1 0 0 1 415.098 594.372 Tm (wait) Tj
+0 g
+1 0 0 1 437.714 594.372 Tm (for) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 70.875 582.176 Tm (4Suite-0.11.1) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 159.733 582.176 Tm (that) Tj
+0 g
+1 0 0 1 181.139 582.176 Tm (will) Tj
+0 g
+1 0 0 1 199.465 582.176 Tm (have) Tj
+0 g
+1 0 0 1 226.371 582.176 Tm (a) Tj
+0 g
+1 0 0 1 235.545 582.176 Tm (pure) Tj
+0 g
+1 0 0 1 260.614 582.176 Tm (Python) Tj
+0 g
+1 0 0 1 297.915 582.176 Tm (XPath) Tj
+0 g
+1 0 0 1 330.937 582.176 Tm (parser) Tj
+0 g
+1 0 0 1 70.875 555.551 Tm (Installation) Tj
+0 g
+1 0 0 1 126.513 555.551 Tm (is) Tj
+0 g
+1 0 0 1 137.513 555.551 Tm (quite) Tj
+0 g
+1 0 0 1 164.419 555.551 Tm (simple.) Tj
+0 g
+1 0 0 1 202.314 555.551 Tm (Download) Tj
+0 g
+1 0 0 1 254.278 555.551 Tm (and) Tj
+0 g
+1 0 0 1 275.684 555.551 Tm (unpack) Tj
+0 g
+1 0 0 1 314.206 555.551 Tm (the) Tj
+0 g
+1 0 0 1 332.554 555.551 Tm (archive,) Tj
+0 g
+1 0 0 1 374.123 555.551 Tm (then) Tj
+0 g
+1 0 0 1 398.587 555.551 Tm (run) Tj
+0 g
+1 0 0 1 417.54 555.551 Tm (the) Tj
+0 g
+1 0 0 1 435.888 555.551 Tm (command) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 70.875 543.355 Tm (python) Tj
+0 g
+1 0 0 1 117.075 543.355 Tm (setup.py) Tj
+0 g
+1 0 0 1 176.475 543.355 Tm (install) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 222.675 543.355 Tm (,) Tj
+0 g
+1 0 0 1 228.791 543.355 Tm (which) Tj
+0 g
+1 0 0 1 259.965 543.355 Tm (will) Tj
+0 g
+1 0 0 1 278.291 543.355 Tm (copy) Tj
+0 g
+1 0 0 1 304.581 543.355 Tm (the) Tj
+0 g
+1 0 0 1 322.929 543.355 Tm (library) Tj
+0 g
+1 0 0 1 355.929 543.355 Tm (to) Tj
+0 g
+1 0 0 1 368.161 543.355 Tm (the) Tj
+0 g
+1 0 0 1 386.509 543.355 Tm (appropriate) Tj
+0 g
+1 0 0 1 445.205 543.355 Tm (location) Tj
+0 g
+1 0 0 1 486.169 543.355 Tm (in) Tj
+0 g
+1 0 0 1 497.785 543.355 Tm (your) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 70.875 531.709 Tm (PYTHONPATH) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 136.875 531.709 Tm (.) Tj
+0 g
+1 0 0 1 142.991 531.709 Tm (To) Tj
+0 g
+1 0 0 1 158.886 531.709 Tm (test) Tj
+0 g
+1 0 0 1 179.676 531.709 Tm (the) Tj
+0 g
+1 0 0 1 198.024 531.709 Tm (installation,) Tj
+0 g
+1 0 0 1 256.104 531.709 Tm (run) Tj
+0 g
+1 0 0 1 275.057 531.709 Tm (the) Tj
+0 g
+1 0 0 1 293.405 531.709 Tm (following) Tj
+0 g
+1 0 0 1 339.253 531.709 Tm (command:) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 152.475 507.95 Tm ($) Tj
+0 g
+1 0 0 1 162.075 507.95 Tm (python) Tj
+0 g
+1 0 0 1 195.675 507.95 Tm (-c) Tj
+0 g
+1 0 0 1 210.075 507.95 Tm ("import) Tj
+0 g
+1 0 0 1 248.475 507.95 Tm (wsdllib") Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 475.508 Tm (If) Tj
+0 g
+1 0 0 1 80.049 475.508 Tm (you) Tj
+0 g
+1 0 0 1 100.839 475.508 Tm (see) Tj
+0 g
+1 0 0 1 121.629 475.508 Tm (no) Tj
+0 g
+1 0 0 1 136.919 475.508 Tm (error) Tj
+0 g
+1 0 0 1 163.198 475.508 Tm (messages,) Tj
+0 g
+1 0 0 1 219.441 475.508 Tm (you're) Tj
+0 g
+1 0 0 1 252.111 475.508 Tm (ready) Tj
+0 g
+1 0 0 1 282.68 475.508 Tm (to) Tj
+0 g
+1 0 0 1 294.912 475.508 Tm (go.) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (3) Tj
+ET
+
+endstream
+endobj
+66 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 65 0 R
+>>
+endobj
+67 0 obj
+<< /Length 15834 >>
+stream
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 756.696 Tm (Section) Tj
+0 g
+1 0 0 1 135.909 756.696 Tm (3.) Tj
+0 g
+1 0 0 1 155.925 756.696 Tm (Reading) Tj
+0 g
+1 0 0 1 227.961 756.696 Tm (and) Tj
+0 g
+1 0 0 1 262.989 756.696 Tm (examining) Tj
+0 g
+1 0 0 1 350.019 756.696 Tm (descriptions) Tj
+0 g
+1 0 0 1 70.875 725.046 Tm (Reading) Tj
+0 g
+1 0 0 1 142.911 725.046 Tm (WSDL) Tj
+0 g
+1 0 0 1 199.917 725.046 Tm (descriptions) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 701.422 Tm (WSDL) Tj
+0 g
+1 0 0 1 105.712 701.422 Tm (provides) Tj
+0 g
+1 0 0 1 150.339 701.422 Tm (the) Tj
+0 g
+1 0 0 1 168.687 701.422 Tm (means) Tj
+0 g
+1 0 0 1 204.756 701.422 Tm (of) Tj
+0 g
+1 0 0 1 216.988 701.422 Tm (giving) Tj
+0 g
+1 0 0 1 248.778 701.422 Tm (descriptions) Tj
+0 g
+1 0 0 1 310.521 701.422 Tm (to) Tj
+0 g
+1 0 0 1 322.753 701.422 Tm (Web) Tj
+0 g
+1 0 0 1 348.427 701.422 Tm (services.) Tj
+0 g
+1 0 0 1 394.88 701.422 Tm (These) Tj
+0 g
+1 0 0 1 428.507 701.422 Tm (descriptions) Tj
+0 g
+1 0 0 1 490.25 701.422 Tm (are) Tj
+0 g
+1 0 0 1 70.875 688.247 Tm (normally) Tj
+0 g
+1 0 0 1 115.491 688.247 Tm (stored) Tj
+0 g
+1 0 0 1 149.118 688.247 Tm (in) Tj
+0 g
+1 0 0 1 160.734 688.247 Tm (a) Tj
+0 g
+1 0 0 1 169.908 688.247 Tm (UDDI) Tj
+0 g
+1 0 0 1 199.85 688.247 Tm (registry) Tj
+0 g
+1 0 0 1 238.966 688.247 Tm (so) Tj
+0 g
+1 0 0 1 253.64 688.247 Tm (that) Tj
+0 g
+1 0 0 1 275.046 688.247 Tm (they) Tj
+0 g
+1 0 0 1 298.894 688.247 Tm (can) Tj
+0 g
+1 0 0 1 319.684 688.247 Tm (be) Tj
+0 g
+1 0 0 1 334.974 688.247 Tm (looked) Tj
+0 g
+1 0 0 1 370.438 688.247 Tm (up) Tj
+0 g
+1 0 0 1 385.728 688.247 Tm (by) Tj
+0 g
+1 0 0 1 400.402 688.247 Tm (other) Tj
+0 g
+1 0 0 1 428.529 688.247 Tm (services.) Tj
+0 g
+1 0 0 1 474.982 688.247 Tm (For) Tj
+0 g
+1 0 0 1 494.54 688.247 Tm (the) Tj
+0 g
+1 0 0 1 70.875 675.072 Tm (sake) Tj
+0 g
+1 0 0 1 97.165 675.072 Tm (of) Tj
+0 g
+1 0 0 1 109.397 675.072 Tm (simplicity) Tj
+0 g
+1 0 0 1 157.06 675.072 Tm (in) Tj
+0 g
+1 0 0 1 168.676 675.072 Tm (our) Tj
+0 g
+1 0 0 1 187.629 675.072 Tm (examples,) Tj
+0 g
+1 0 0 1 240.814 675.072 Tm (we) Tj
+0 g
+1 0 0 1 257.93 675.072 Tm (will) Tj
+0 g
+1 0 0 1 276.256 675.072 Tm (consider) Tj
+0 g
+1 0 0 1 320.883 675.072 Tm (a) Tj
+0 g
+1 0 0 1 330.057 675.072 Tm (standalone) Tj
+0 g
+1 0 0 1 386.927 675.072 Tm (implementation) Tj
+0 g
+1 0 0 1 464.565 675.072 Tm (without) Tj
+0 g
+1 0 0 1 502.471 675.072 Tm (the) Tj
+0 g
+1 0 0 1 70.875 661.897 Tm (use) Tj
+0 g
+1 0 0 1 91.665 661.897 Tm (of) Tj
+0 g
+1 0 0 1 103.897 661.897 Tm (a) Tj
+0 g
+1 0 0 1 113.071 661.897 Tm (UDDI) Tj
+0 g
+1 0 0 1 143.013 661.897 Tm (registry.) Tj
+0 g
+1 0 0 1 70.875 634.722 Tm (The) Tj
+0 g
+1 0 0 1 92.886 634.722 Tm (first) Tj
+0 g
+1 0 0 1 113.665 634.722 Tm (use) Tj
+0 g
+1 0 0 1 134.455 634.722 Tm (of) Tj
+0 g
+1 0 0 1 146.687 634.722 Tm (the) Tj
+0 g
+1 0 0 1 165.035 634.722 Tm (WSDL) Tj
+0 g
+1 0 0 1 199.872 634.722 Tm (library) Tj
+0 g
+1 0 0 1 232.872 634.722 Tm (implemented) Tj
+0 g
+1 0 0 1 298.894 634.722 Tm (in) Tj
+0 g
+1 0 0 1 310.51 634.722 Tm (our) Tj
+0 g
+1 0 0 1 329.463 634.722 Tm (project) Tj
+0 g
+1 0 0 1 365.532 634.722 Tm (is) Tj
+0 g
+1 0 0 1 376.532 634.722 Tm (to) Tj
+0 g
+1 0 0 1 388.764 634.722 Tm (read) Tj
+0 g
+1 0 0 1 413.833 634.722 Tm (and) Tj
+0 g
+1 0 0 1 435.239 634.722 Tm (parse) Tj
+0 g
+1 0 0 1 465.808 634.722 Tm (the) Tj
+0 g
+1 0 0 1 70.875 621.547 Tm (contents) Tj
+0 g
+1 0 0 1 115.513 621.547 Tm (of) Tj
+0 g
+1 0 0 1 127.745 621.547 Tm (the) Tj
+0 g
+1 0 0 1 146.093 621.547 Tm (WSDL) Tj
+0 g
+1 0 0 1 180.93 621.547 Tm (description) Tj
+0 g
+1 0 0 1 237.173 621.547 Tm (for) Tj
+0 g
+1 0 0 1 253.068 621.547 Tm (a) Tj
+0 g
+1 0 0 1 262.242 621.547 Tm (service.) Tj
+ET
+q
+0 G
+70.875 600.77 m 524.475 600.77 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 571.346 Tm (Reading) Tj
+0 g
+1 0 0 1 142.911 571.346 Tm (and) Tj
+0 g
+1 0 0 1 177.939 571.346 Tm (examining) Tj
+0 g
+1 0 0 1 264.969 571.346 Tm (descriptions) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 547.722 Tm (You) Tj
+0 g
+1 0 0 1 93.502 547.722 Tm (can) Tj
+0 g
+1 0 0 1 114.292 547.722 Tm (read) Tj
+0 g
+1 0 0 1 139.361 547.722 Tm (in) Tj
+0 g
+1 0 0 1 150.977 547.722 Tm (WSDL) Tj
+0 g
+1 0 0 1 185.814 547.722 Tm (from) Tj
+0 g
+1 0 0 1 210.872 547.722 Tm (external) Tj
+0 g
+1 0 0 1 253.057 547.722 Tm (sources) Tj
+0 g
+1 0 0 1 294.626 547.722 Tm (in) Tj
+0 g
+1 0 0 1 306.242 547.722 Tm (stream,) Tj
+0 g
+1 0 0 1 345.974 547.722 Tm (string,) Tj
+0 g
+1 0 0 1 378.985 547.722 Tm (or) Tj
+0 g
+1 0 0 1 391.822 547.722 Tm (content) Tj
+0 g
+1 0 0 1 430.96 547.722 Tm (retrieved) Tj
+0 g
+1 0 0 1 476.808 547.722 Tm (from) Tj
+0 g
+1 0 0 1 501.866 547.722 Tm (URI.) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 523.413 Tm (#import) Tj
+0 g
+1 0 0 1 114.075 523.413 Tm (the) Tj
+0 g
+1 0 0 1 133.275 523.413 Tm (library) Tj
+0 g
+1 0 0 1 75.675 514.125 Tm (import) Tj
+0 g
+1 0 0 1 109.275 514.125 Tm (wsdllib) Tj
+0 g
+1 0 0 1 75.675 495.549 Tm (#Read) Tj
+0 g
+1 0 0 1 104.475 495.549 Tm (the) Tj
+0 g
+1 0 0 1 123.675 495.549 Tm (WSDL) Tj
+0 g
+1 0 0 1 147.675 495.549 Tm (source) Tj
+0 g
+1 0 0 1 181.275 495.549 Tm (directly) Tj
+0 g
+1 0 0 1 224.475 495.549 Tm (from) Tj
+0 g
+1 0 0 1 248.475 495.549 Tm (URI) Tj
+0 g
+1 0 0 1 75.675 486.261 Tm (wsdl) Tj
+0 g
+1 0 0 1 99.675 486.261 Tm (=) Tj
+0 g
+1 0 0 1 109.275 486.261 Tm (wsdllib.ReadFromUri\('http://uche.ogbuji.net/articles/wsdl/endorsementservice.xml'\)) Tj
+0 g
+1 0 0 1 75.675 467.685 Tm (#Open) Tj
+0 g
+1 0 0 1 104.475 467.685 Tm (the) Tj
+0 g
+1 0 0 1 123.675 467.685 Tm (URI) Tj
+0 g
+1 0 0 1 142.875 467.685 Tm (directly) Tj
+0 g
+1 0 0 1 186.075 467.685 Tm (as) Tj
+0 g
+1 0 0 1 200.475 467.685 Tm (a) Tj
+0 g
+1 0 0 1 210.075 467.685 Tm (stream,) Tj
+0 g
+1 0 0 1 248.475 467.685 Tm (and) Tj
+0 g
+1 0 0 1 267.675 467.685 Tm (read) Tj
+0 g
+1 0 0 1 291.675 467.685 Tm (the) Tj
+0 g
+1 0 0 1 310.875 467.685 Tm (WSDL) Tj
+0 g
+1 0 0 1 334.875 467.685 Tm (source) Tj
+0 g
+1 0 0 1 368.475 467.685 Tm (therefrom) Tj
+0 g
+1 0 0 1 75.675 458.397 Tm (import) Tj
+0 g
+1 0 0 1 109.275 458.397 Tm (urllib) Tj
+0 g
+1 0 0 1 75.675 449.109 Tm (stream) Tj
+0 g
+1 0 0 1 109.275 449.109 Tm (=) Tj
+0 g
+1 0 0 1 118.875 449.109 Tm (urllib.urlopen\('http://uche.ogbuji.net/articles/wsdl/endorsementservice.xml'\)) Tj
+0 g
+1 0 0 1 75.675 439.821 Tm (wsdl) Tj
+0 g
+1 0 0 1 99.675 439.821 Tm (=) Tj
+0 g
+1 0 0 1 109.275 439.821 Tm (wsdllib.ReadFromStream\(stream\)) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 70.875 407.379 Tm (ReadFromUri) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 146.533 407.379 Tm (and) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 167.939 407.379 Tm (ReadFromStream) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 263.397 407.379 Tm (are) Tj
+0 g
+1 0 0 1 282.35 407.379 Tm (factory) Tj
+0 g
+1 0 0 1 318.419 407.379 Tm (functions) Tj
+0 g
+1 0 0 1 365.499 407.379 Tm (that) Tj
+0 g
+1 0 0 1 386.905 407.379 Tm (return) Tj
+0 g
+1 0 0 1 418.695 407.379 Tm (a) Tj
+0 g
+1 0 0 1 427.869 407.379 Tm (new) Tj
+0 g
+1 0 0 1 451.101 407.379 Tm (object) Tj
+0 g
+1 0 0 1 483.507 407.379 Tm (of) Tj
+0 g
+1 0 0 1 495.739 407.379 Tm (class) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 70.875 395.183 Tm (Wsdl) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 97.275 395.183 Tm (.) Tj
+0 g
+1 0 0 1 103.391 395.183 Tm (This) Tj
+0 g
+1 0 0 1 127.228 395.183 Tm (class) Tj
+0 g
+1 0 0 1 155.344 395.183 Tm (is) Tj
+0 g
+1 0 0 1 166.344 395.183 Tm (the) Tj
+0 g
+1 0 0 1 184.692 395.183 Tm (core) Tj
+0 g
+1 0 0 1 209.145 395.183 Tm (of) Tj
+0 g
+1 0 0 1 221.377 395.183 Tm (the) Tj
+0 g
+1 0 0 1 239.725 395.183 Tm (library:) Tj
+0 g
+1 0 0 1 275.783 395.183 Tm (each) Tj
+0 g
+1 0 0 1 302.689 395.183 Tm (instance) Tj
+0 g
+1 0 0 1 346.711 395.183 Tm (represents) Tj
+0 g
+1 0 0 1 401.733 395.183 Tm (a) Tj
+0 g
+1 0 0 1 410.907 395.183 Tm (separate) Tj
+0 g
+1 0 0 1 456.766 395.183 Tm (WSDL) Tj
+0 g
+1 0 0 1 70.875 382.558 Tm (description) Tj
+0 g
+1 0 0 1 127.118 382.558 Tm (and) Tj
+0 g
+1 0 0 1 148.524 382.558 Tm (provides) Tj
+0 g
+1 0 0 1 193.151 382.558 Tm (methods) Tj
+0 g
+1 0 0 1 238.394 382.558 Tm (for) Tj
+0 g
+1 0 0 1 254.289 382.558 Tm (examining) Tj
+0 g
+1 0 0 1 307.474 382.558 Tm (and) Tj
+0 g
+1 0 0 1 328.88 382.558 Tm (modifying) Tj
+0 g
+1 0 0 1 379.007 382.558 Tm (the) Tj
+0 g
+1 0 0 1 397.355 382.558 Tm (description.) Tj
+0 g
+1 0 0 1 70.875 355.383 Tm (If) Tj
+0 g
+1 0 0 1 80.049 355.383 Tm (you) Tj
+0 g
+1 0 0 1 100.839 355.383 Tm (have) Tj
+0 g
+1 0 0 1 127.745 355.383 Tm (the) Tj
+0 g
+1 0 0 1 146.093 355.383 Tm (WSDL) Tj
+0 g
+1 0 0 1 180.93 355.383 Tm (information) Tj
+0 g
+1 0 0 1 238.394 355.383 Tm (in) Tj
+0 g
+1 0 0 1 250.01 355.383 Tm (string) Tj
+0 g
+1 0 0 1 279.963 355.383 Tm (form,) Tj
+0 g
+1 0 0 1 308.079 355.383 Tm (the) Tj
+0 g
+1 0 0 1 326.427 355.383 Tm (factory) Tj
+0 g
+1 0 0 1 362.496 355.383 Tm (function) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 404.076 355.383 Tm (ReadFromString) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 499.534 355.383 Tm (is) Tj
+0 g
+1 0 0 1 70.875 342.208 Tm (similar) Tj
+0 g
+1 0 0 1 105.701 342.208 Tm (to) Tj
+0 g
+1 0 0 1 117.933 342.208 Tm (the) Tj
+0 g
+1 0 0 1 136.281 342.208 Tm (above.) Tj
+ET
+q
+0 G
+70.875 321.431 m 524.475 321.431 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 292.007 Tm (Wsdl) Tj
+0 g
+1 0 0 1 115.875 292.007 Tm (instances) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 268.383 Tm (Each) Tj
+0 g
+1 0 0 1 99.002 268.383 Tm (instance) Tj
+0 g
+1 0 0 1 143.024 268.383 Tm (of) Tj
+0 g
+1 0 0 1 155.256 268.383 Tm (the) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 173.604 268.383 Tm (Wsdl) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 203.062 268.383 Tm (class) Tj
+0 g
+1 0 0 1 231.178 268.383 Tm (contains) Tj
+0 g
+1 0 0 1 275.2 268.383 Tm (the) Tj
+0 g
+1 0 0 1 293.548 268.383 Tm (components) Tj
+0 g
+1 0 0 1 356.523 268.383 Tm (of) Tj
+0 g
+1 0 0 1 368.755 268.383 Tm (the) Tj
+0 g
+1 0 0 1 387.103 268.383 Tm (WSDL) Tj
+0 g
+1 0 0 1 421.94 268.383 Tm (description) Tj
+0 g
+1 0 0 1 478.183 268.383 Tm (as) Tj
+0 g
+1 0 0 1 70.875 255.208 Tm (illustrated) Tj
+0 g
+1 0 0 1 121.002 255.208 Tm (in) Tj
+0 g
+1 0 0 1 132.618 255.208 Tm (Figure) Tj
+0 g
+1 0 0 1 166.85 255.208 Tm (1) Tj
+0 g
+1 0 0 1 176.024 255.208 Tm (shown) Tj
+0 g
+1 0 0 1 210.872 255.208 Tm (in) Tj
+0 g
+1 0 0 1 222.488 255.208 Tm (the) Tj
+0 g
+1 0 0 1 240.836 255.208 Tm (next) Tj
+0 g
+1 0 0 1 264.684 255.208 Tm (panel.) Tj
+0 g
+1 0 0 1 297.706 255.208 Tm (The) Tj
+0 g
+1 0 0 1 319.717 255.208 Tm (messages,) Tj
+0 g
+1 0 0 1 375.96 255.208 Tm (portTypes,) Tj
+0 g
+1 0 0 1 430.982 255.208 Tm (bindings) Tj
+0 g
+1 0 0 1 475.004 255.208 Tm (and) Tj
+0 g
+1 0 0 1 70.875 242.033 Tm (services) Tj
+0 g
+1 0 0 1 114.27 242.033 Tm (are) Tj
+0 g
+1 0 0 1 133.223 242.033 Tm (all) Tj
+0 g
+1 0 0 1 147.281 242.033 Tm (stored) Tj
+0 g
+1 0 0 1 180.908 242.033 Tm (as) Tj
+0 g
+1 0 0 1 195.582 242.033 Tm (instance) Tj
+0 g
+1 0 0 1 239.604 242.033 Tm (variables) Tj
+0 g
+1 0 0 1 286.673 242.033 Tm (in) Tj
+0 g
+1 0 0 1 298.289 242.033 Tm (the) Tj
+0 g
+1 0 0 1 316.637 242.033 Tm (form) Tj
+0 g
+1 0 0 1 341.695 242.033 Tm (of) Tj
+0 g
+1 0 0 1 353.927 242.033 Tm (objects) Tj
+0 g
+1 0 0 1 391.833 242.033 Tm (that) Tj
+0 g
+1 0 0 1 413.239 242.033 Tm (act) Tj
+0 g
+1 0 0 1 430.971 242.033 Tm (like) Tj
+0 g
+1 0 0 1 450.529 242.033 Tm (Python) Tj
+0 g
+1 0 0 1 70.875 228.858 Tm (dictionaries.) Tj
+0 g
+1 0 0 1 132.618 228.858 Tm (The) Tj
+0 g
+1 0 0 1 154.629 228.858 Tm (key) Tj
+0 g
+1 0 0 1 174.803 228.858 Tm (of) Tj
+0 g
+1 0 0 1 187.035 228.858 Tm (each) Tj
+0 g
+1 0 0 1 213.941 228.858 Tm (dictionary) Tj
+0 g
+1 0 0 1 264.068 228.858 Tm (entry) Tj
+0 g
+1 0 0 1 291.579 228.858 Tm (corresponds) Tj
+0 g
+1 0 0 1 355.159 228.858 Tm (to) Tj
+0 g
+1 0 0 1 367.391 228.858 Tm (the) Tj
+0 g
+1 0 0 1 385.739 228.858 Tm (name) Tj
+0 g
+1 0 0 1 416.308 228.858 Tm (attribute) Tj
+0 g
+1 0 0 1 459.109 228.858 Tm (in) Tj
+0 g
+1 0 0 1 470.725 228.858 Tm (the) Tj
+0 g
+1 0 0 1 489.073 228.858 Tm (XML) Tj
+0 g
+1 0 0 1 70.875 215.683 Tm (source.) Tj
+0 g
+1 0 0 1 110.002 215.683 Tm (The) Tj
+0 g
+1 0 0 1 132.013 215.683 Tm (value) Tj
+0 g
+1 0 0 1 161.361 215.683 Tm (is) Tj
+0 g
+1 0 0 1 172.361 215.683 Tm (an) Tj
+0 g
+1 0 0 1 187.651 215.683 Tm (instance) Tj
+0 g
+1 0 0 1 231.673 215.683 Tm (of) Tj
+0 g
+1 0 0 1 243.905 215.683 Tm (class) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 272.021 215.683 Tm (Message) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 318.221 215.683 Tm (,) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 324.337 215.683 Tm (PortType) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 377.137 215.683 Tm (,) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 383.253 215.683 Tm (Binding) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 429.453 215.683 Tm (,) Tj
+0 g
+1 0 0 1 435.569 215.683 Tm (or) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 448.406 215.683 Tm (Service) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 202.508 Tm (respectively.) Tj
+0 g
+1 0 0 1 135.06 202.508 Tm (These) Tj
+0 g
+1 0 0 1 168.687 202.508 Tm (classes) Tj
+0 g
+1 0 0 1 208.419 202.508 Tm (in) Tj
+0 g
+1 0 0 1 220.035 202.508 Tm (turn) Tj
+0 g
+1 0 0 1 242.046 202.508 Tm (encapsulate) Tj
+0 g
+1 0 0 1 304.416 202.508 Tm (the) Tj
+0 g
+1 0 0 1 322.764 202.508 Tm (data) Tj
+0 g
+1 0 0 1 347.228 202.508 Tm (specific) Tj
+0 g
+1 0 0 1 386.96 202.508 Tm (to) Tj
+0 g
+1 0 0 1 399.192 202.508 Tm (each) Tj
+0 g
+1 0 0 1 426.098 202.508 Tm (element.) Tj
+ET
+q
+0 G
+70.875 181.731 m 524.475 181.731 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 152.307 Tm (Diagram) Tj
+0 g
+1 0 0 1 143.883 152.307 Tm (of) Tj
+0 g
+1 0 0 1 163.899 152.307 Tm (a) Tj
+0 g
+1 0 0 1 178.911 152.307 Tm (Wsdl) Tj
+0 g
+1 0 0 1 223.911 152.307 Tm (instance) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 128.683 Tm (The) Tj
+0 g
+1 0 0 1 92.886 128.683 Tm (type) Tj
+0 g
+1 0 0 1 116.734 128.683 Tm (information) Tj
+0 g
+1 0 0 1 174.198 128.683 Tm (is) Tj
+0 g
+1 0 0 1 185.198 128.683 Tm (stored) Tj
+0 g
+1 0 0 1 218.825 128.683 Tm (as) Tj
+0 g
+1 0 0 1 233.499 128.683 Tm (an) Tj
+0 g
+1 0 0 1 248.789 128.683 Tm (instance) Tj
+0 g
+1 0 0 1 292.811 128.683 Tm (of) Tj
+0 g
+1 0 0 1 305.043 128.683 Tm (class) Tj
+0 g
+1 0 0 1 333.159 128.683 Tm (Types,) Tj
+0 g
+1 0 0 1 369.228 128.683 Tm (which) Tj
+0 g
+1 0 0 1 400.402 128.683 Tm (stores) Tj
+0 g
+1 0 0 1 433.413 128.683 Tm (a) Tj
+0 g
+1 0 0 1 442.587 128.683 Tm (Python) Tj
+0 g
+1 0 0 1 479.888 128.683 Tm (list) Tj
+0 g
+1 0 0 1 496.388 128.683 Tm (of) Tj
+0 g
+1 0 0 1 508.62 128.683 Tm (the) Tj
+0 g
+1 0 0 1 70.875 115.508 Tm (XML) Tj
+0 g
+1 0 0 1 96.549 115.508 Tm (schema) Tj
+0 g
+1 0 0 1 138.118 115.508 Tm (fragments) Tj
+0 g
+1 0 0 1 190.082 115.508 Tm (included) Tj
+0 g
+1 0 0 1 234.104 115.508 Tm (in) Tj
+0 g
+1 0 0 1 245.72 115.508 Tm (the) Tj
+0 g
+1 0 0 1 264.068 115.508 Tm (description.) Tj
+0 g
+1 0 0 1 70.875 88.333 Tm (This) Tj
+0 g
+1 0 0 1 94.712 88.333 Tm (leads) Tj
+0 g
+1 0 0 1 124.06 88.333 Tm (to) Tj
+0 g
+1 0 0 1 136.292 88.333 Tm (very) Tj
+0 g
+1 0 0 1 160.129 88.333 Tm ("pythonic") Tj
+0 g
+1 0 0 1 211.961 88.333 Tm (access) Tj
+0 g
+1 0 0 1 249.251 88.333 Tm (to) Tj
+0 g
+1 0 0 1 261.483 88.333 Tm (the) Tj
+0 g
+1 0 0 1 279.831 88.333 Tm (guts) Tj
+0 g
+1 0 0 1 303.679 88.333 Tm (of) Tj
+0 g
+1 0 0 1 315.911 88.333 Tm (a) Tj
+0 g
+1 0 0 1 325.085 88.333 Tm (WSDL) Tj
+0 g
+1 0 0 1 359.922 88.333 Tm (description.) Tj
+0 g
+1 0 0 1 419.223 88.333 Tm (For) Tj
+0 g
+1 0 0 1 438.781 88.333 Tm (instance,) Tj
+0 g
+1 0 0 1 485.861 88.333 Tm (the) Tj
+0 g
+1 0 0 1 70.875 75.158 Tm (program) Tj
+0 g
+1 0 0 1 114.886 75.158 Tm (in) Tj
+0 g
+1 0 0 1 126.502 75.158 Tm (Listing) Tj
+0 g
+1 0 0 1 161.35 75.158 Tm (1) Tj
+0 g
+1 0 0 1 170.524 75.158 Tm (displays) Tj
+0 g
+1 0 0 1 213.314 75.158 Tm (the) Tj
+0 g
+1 0 0 1 231.662 75.158 Tm (names) Tj
+0 g
+1 0 0 1 267.731 75.158 Tm (of) Tj
+0 g
+1 0 0 1 279.963 75.158 Tm (all) Tj
+0 g
+1 0 0 1 294.021 75.158 Tm (the) Tj
+0 g
+1 0 0 1 312.369 75.158 Tm (messages) Tj
+0 g
+1 0 0 1 365.554 75.158 Tm (and) Tj
+0 g
+1 0 0 1 386.96 75.158 Tm (message) Tj
+0 g
+1 0 0 1 434.645 75.158 Tm (parts) Tj
+0 g
+1 0 0 1 462.156 75.158 Tm (for) Tj
+0 g
+1 0 0 1 478.051 75.158 Tm (a) Tj
+0 g
+1 0 0 1 487.225 75.158 Tm (WSDL) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (4) Tj
+ET
+
+endstream
+endobj
+68 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 67 0 R
+>>
+endobj
+69 0 obj
+<< /Length 9617 >>
+stream
+BT
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 761.722 Tm (description) Tj
+0 g
+1 0 0 1 127.118 761.722 Tm (at) Tj
+0 g
+1 0 0 1 139.35 761.722 Tm (a) Tj
+0 g
+1 0 0 1 148.524 761.722 Tm (URL) Tj
+0 g
+1 0 0 1 173.582 761.722 Tm (given) Tj
+0 g
+1 0 0 1 202.93 761.722 Tm (on) Tj
+0 g
+1 0 0 1 218.22 761.722 Tm (the) Tj
+0 g
+1 0 0 1 236.568 761.722 Tm (command) Tj
+0 g
+1 0 0 1 287.916 761.722 Tm (line.) Tj
+/F3 11 Tf
+0 g
+1 0 0 1 70.875 734.547 Tm (Figure) Tj
+0 g
+1 0 0 1 107.549 734.547 Tm (1:) Tj
+0 g
+1 0 0 1 120.386 734.547 Tm (An) Tj
+0 g
+1 0 0 1 138.107 734.547 Tm (example) Tj
+0 g
+1 0 0 1 185.187 734.547 Tm (of) Tj
+0 g
+1 0 0 1 198.629 734.547 Tm (a) Tj
+0 g
+1 0 0 1 207.803 734.547 Tm (WSDL) Tj
+0 g
+1 0 0 1 243.245 734.547 Tm (instance) Tj
+ET
+q
+215.5 0 0 143.0 189.925 587.77 cm
+/Im1 Do
+Q
+BT
+ET
+q
+0 G
+70.875 556.77 m 524.475 556.77 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 527.346 Tm (Listing) Tj
+0 g
+1 0 0 1 127.899 527.346 Tm (1:) Tj
+0 g
+1 0 0 1 147.915 527.346 Tm (Display) Tj
+0 g
+1 0 0 1 211.923 527.346 Tm (a) Tj
+0 g
+1 0 0 1 226.935 527.346 Tm (summary) Tj
+0 g
+1 0 0 1 305.937 527.346 Tm (of) Tj
+0 g
+1 0 0 1 325.953 527.346 Tm (messages) Tj
+0 g
+1 0 0 1 412.983 527.346 Tm (and) Tj
+0 g
+1 0 0 1 448.011 527.346 Tm (message) Tj
+0 g
+1 0 0 1 70.875 507.696 Tm (parts) Tj
+0 g
+1 0 0 1 115.893 507.696 Tm (from) Tj
+0 g
+1 0 0 1 156.897 507.696 Tm (a) Tj
+0 g
+1 0 0 1 171.909 507.696 Tm (WSDL) Tj
+0 g
+1 0 0 1 228.915 507.696 Tm (description) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 486.938 Tm (import) Tj
+0 g
+1 0 0 1 109.275 486.938 Tm (sys) Tj
+0 g
+1 0 0 1 75.675 477.65 Tm (import) Tj
+0 g
+1 0 0 1 109.275 477.65 Tm (wsdllib) Tj
+0 g
+1 0 0 1 75.675 459.074 Tm (def) Tj
+0 g
+1 0 0 1 94.875 459.074 Tm (SummarizeMessages\(url\):) Tj
+0 g
+1 0 0 1 94.875 449.786 Tm (#Read) Tj
+0 g
+1 0 0 1 123.675 449.786 Tm (in) Tj
+0 g
+1 0 0 1 138.075 449.786 Tm (the) Tj
+0 g
+1 0 0 1 157.275 449.786 Tm (WSDL) Tj
+0 g
+1 0 0 1 94.875 440.498 Tm (wsdl) Tj
+0 g
+1 0 0 1 118.875 440.498 Tm (=) Tj
+0 g
+1 0 0 1 128.475 440.498 Tm (wsdllib.ReadFromUri\(url\)) Tj
+0 g
+1 0 0 1 94.875 431.21 Tm (#Python) Tj
+0 g
+1 0 0 1 133.275 431.21 Tm (idiom) Tj
+0 g
+1 0 0 1 162.075 431.21 Tm (for) Tj
+0 g
+1 0 0 1 181.275 431.21 Tm (iterating) Tj
+0 g
+1 0 0 1 229.275 431.21 Tm (over) Tj
+0 g
+1 0 0 1 253.275 431.21 Tm (the) Tj
+0 g
+1 0 0 1 272.475 431.21 Tm (key/value) Tj
+0 g
+1 0 0 1 320.475 431.21 Tm (pairs) Tj
+0 g
+1 0 0 1 349.275 431.21 Tm (in) Tj
+0 g
+1 0 0 1 363.675 431.21 Tm (a) Tj
+0 g
+1 0 0 1 373.275 431.21 Tm (dict) Tj
+0 g
+1 0 0 1 94.875 421.922 Tm (for) Tj
+0 g
+1 0 0 1 114.075 421.922 Tm (mname,) Tj
+0 g
+1 0 0 1 147.675 421.922 Tm (message) Tj
+0 g
+1 0 0 1 186.075 421.922 Tm (in) Tj
+0 g
+1 0 0 1 200.475 421.922 Tm (wsdl.messages.items\(\):) Tj
+0 g
+1 0 0 1 114.075 412.634 Tm (#Print) Tj
+0 g
+1 0 0 1 147.675 412.634 Tm (out) Tj
+0 g
+1 0 0 1 166.875 412.634 Tm (the) Tj
+0 g
+1 0 0 1 186.075 412.634 Tm (current) Tj
+0 g
+1 0 0 1 224.475 412.634 Tm (message) Tj
+0 g
+1 0 0 1 262.875 412.634 Tm (name) Tj
+0 g
+1 0 0 1 114.075 403.346 Tm (print) Tj
+0 g
+1 0 0 1 142.875 403.346 Tm ("Message:) Tj
+0 g
+1 0 0 1 190.875 403.346 Tm (%s"%mname) Tj
+0 g
+1 0 0 1 114.075 394.058 Tm (for) Tj
+0 g
+1 0 0 1 133.275 394.058 Tm (pname,) Tj
+0 g
+1 0 0 1 166.875 394.058 Tm (part) Tj
+0 g
+1 0 0 1 190.875 394.058 Tm (in) Tj
+0 g
+1 0 0 1 205.275 394.058 Tm (message.parts.items\(\):) Tj
+0 g
+1 0 0 1 133.275 384.77 Tm (#Print) Tj
+0 g
+1 0 0 1 166.875 384.77 Tm (out) Tj
+0 g
+1 0 0 1 186.075 384.77 Tm (the) Tj
+0 g
+1 0 0 1 205.275 384.77 Tm (current) Tj
+0 g
+1 0 0 1 243.675 384.77 Tm (part) Tj
+0 g
+1 0 0 1 267.675 384.77 Tm (name) Tj
+0 g
+1 0 0 1 291.675 384.77 Tm (in) Tj
+0 g
+1 0 0 1 306.075 384.77 Tm (the) Tj
+0 g
+1 0 0 1 325.275 384.77 Tm (current) Tj
+0 g
+1 0 0 1 363.675 384.77 Tm (message) Tj
+0 g
+1 0 0 1 133.275 375.482 Tm (print) Tj
+0 g
+1 0 0 1 162.075 375.482 Tm ("\\tPart:) Tj
+0 g
+1 0 0 1 205.275 375.482 Tm (%s"%pname) Tj
+0 g
+1 0 0 1 94.875 366.194 Tm (return) Tj
+0 g
+1 0 0 1 75.675 347.618 Tm (if) Tj
+0 g
+1 0 0 1 90.075 347.618 Tm (__name__) Tj
+0 g
+1 0 0 1 133.275 347.618 Tm (==) Tj
+0 g
+1 0 0 1 147.675 347.618 Tm ("__main__":) Tj
+0 g
+1 0 0 1 94.875 338.33 Tm (usage) Tj
+0 g
+1 0 0 1 123.675 338.33 Tm (=) Tj
+0 g
+1 0 0 1 133.275 338.33 Tm ("Usage:) Tj
+0 g
+1 0 0 1 171.675 338.33 Tm (%s) Tj
+0 g
+1 0 0 1 186.075 338.33 Tm (uri"%sys.argv[0]) Tj
+0 g
+1 0 0 1 94.875 329.042 Tm (if) Tj
+0 g
+1 0 0 1 109.275 329.042 Tm (len\(sys.argv\)) Tj
+0 g
+1 0 0 1 176.475 329.042 Tm (<) Tj
+0 g
+1 0 0 1 186.075 329.042 Tm (2:) Tj
+0 g
+1 0 0 1 114.075 319.754 Tm (print) Tj
+0 g
+1 0 0 1 142.875 319.754 Tm (usage) Tj
+0 g
+1 0 0 1 114.075 310.466 Tm (sys.exit\(-1\)) Tj
+0 g
+1 0 0 1 94.875 301.178 Tm (SummarizeMessages\(sys.argv[1]\)) Tj
+ET
+q
+0 G
+70.875 275.134 m 524.475 275.134 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 245.71 Tm (Displaying) Tj
+0 g
+1 0 0 1 158.895 245.71 Tm (a) Tj
+0 g
+1 0 0 1 173.907 245.71 Tm (summary) Tj
+0 g
+1 0 0 1 252.909 245.71 Tm (from) Tj
+0 g
+1 0 0 1 293.913 245.71 Tm (a) Tj
+0 g
+1 0 0 1 308.925 245.71 Tm (WSDL) Tj
+0 g
+1 0 0 1 365.931 245.71 Tm (description) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 222.086 Tm (You're) Tj
+0 g
+1 0 0 1 105.382 222.086 Tm (probably) Tj
+0 g
+1 0 0 1 150.625 222.086 Tm (familiar) Tj
+0 g
+1 0 0 1 189.125 222.086 Tm (with) Tj
+0 g
+1 0 0 1 211.741 222.086 Tm (the) Tj
+0 g
+1 0 0 1 230.089 222.086 Tm (general) Tj
+0 g
+1 0 0 1 269.832 222.086 Tm (form) Tj
+0 g
+1 0 0 1 294.89 222.086 Tm (of) Tj
+0 g
+1 0 0 1 307.122 222.086 Tm (this) Tj
+0 g
+1 0 0 1 327.296 222.086 Tm (script) Tj
+0 g
+1 0 0 1 356.633 222.086 Tm (\(if) Tj
+0 g
+1 0 0 1 368.854 222.086 Tm (not,) Tj
+0 g
+1 0 0 1 390.26 222.086 Tm (get) Tj
+0 g
+1 0 0 1 408.608 222.086 Tm (ye) Tj
+0 g
+1 0 0 1 423.282 222.086 Tm (to) Tj
+0 g
+1 0 0 1 435.514 222.086 Tm (a) Tj
+0 g
+1 0 0 1 444.688 222.086 Tm (Python) Tj
+0 g
+1 0 0 1 481.989 222.086 Tm (tutorial\).) Tj
+0 g
+1 0 0 1 70.875 208.911 Tm (All) Tj
+0 g
+1 0 0 1 86.154 208.911 Tm (the) Tj
+0 g
+1 0 0 1 104.502 208.911 Tm (action) Tj
+0 g
+1 0 0 1 136.908 208.911 Tm (is) Tj
+0 g
+1 0 0 1 147.908 208.911 Tm (in) Tj
+0 g
+1 0 0 1 159.524 208.911 Tm (the) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 177.872 208.911 Tm (SummarizeMessages) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 293.13 208.911 Tm (function.) Tj
+0 g
+1 0 0 1 337.768 208.911 Tm (You) Tj
+0 g
+1 0 0 1 360.395 208.911 Tm (can) Tj
+0 g
+1 0 0 1 381.185 208.911 Tm (see) Tj
+0 g
+1 0 0 1 401.975 208.911 Tm (from) Tj
+0 g
+1 0 0 1 427.033 208.911 Tm (the) Tj
+0 g
+1 0 0 1 445.381 208.911 Tm (sparseness) Tj
+0 g
+1 0 0 1 504.682 208.911 Tm (of) Tj
+0 g
+1 0 0 1 70.875 195.736 Tm (this) Tj
+0 g
+1 0 0 1 91.049 195.736 Tm (function) Tj
+0 g
+1 0 0 1 132.629 195.736 Tm (how) Tj
+0 g
+1 0 0 1 155.861 195.736 Tm (simple) Tj
+0 g
+1 0 0 1 190.698 195.736 Tm (it) Tj
+0 g
+1 0 0 1 199.256 195.736 Tm (is) Tj
+0 g
+1 0 0 1 210.256 195.736 Tm (to) Tj
+0 g
+1 0 0 1 222.488 195.736 Tm (use) Tj
+0 g
+1 0 0 1 243.278 195.736 Tm (the) Tj
+0 g
+1 0 0 1 261.626 195.736 Tm (WSDL4Py) Tj
+0 g
+1 0 0 1 315.416 195.736 Tm (library.) Tj
+0 g
+1 0 0 1 351.474 195.736 Tm (Hopefully) Tj
+0 g
+1 0 0 1 400.38 195.736 Tm (the) Tj
+0 g
+1 0 0 1 418.728 195.736 Tm (in-line) Tj
+0 g
+1 0 0 1 453.884 195.736 Tm (comments) Tj
+0 g
+1 0 0 1 70.875 182.561 Tm (clearly) Tj
+0 g
+1 0 0 1 105.712 182.561 Tm (explain) Tj
+0 g
+1 0 0 1 143.618 182.561 Tm (the) Tj
+0 g
+1 0 0 1 161.966 182.561 Tm (logic.) Tj
+0 g
+1 0 0 1 190.698 182.561 Tm (The) Tj
+0 g
+1 0 0 1 212.709 182.561 Tm (result) Tj
+0 g
+1 0 0 1 242.662 182.561 Tm (of) Tj
+0 g
+1 0 0 1 254.894 182.561 Tm (running) Tj
+0 g
+1 0 0 1 294.637 182.561 Tm (this) Tj
+0 g
+1 0 0 1 314.811 182.561 Tm (program) Tj
+0 g
+1 0 0 1 358.822 182.561 Tm (against) Tj
+0 g
+1 0 0 1 397.344 182.561 Tm (an) Tj
+0 g
+1 0 0 1 412.634 182.561 Tm (online) Tj
+0 g
+1 0 0 1 445.04 182.561 Tm (WSDL) Tj
+0 g
+1 0 0 1 70.875 169.386 Tm (document) Tj
+0 g
+1 0 0 1 122.234 169.386 Tm (follows:) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 145.077 Tm ($) Tj
+0 g
+1 0 0 1 85.275 145.077 Tm (python) Tj
+0 g
+1 0 0 1 118.875 145.077 Tm (listing2.py) Tj
+0 g
+1 0 0 1 176.475 145.077 Tm (http://uche.ogbuji.net/articles/wsdl/endorsementservice.xml) Tj
+0 g
+1 0 0 1 75.675 135.789 Tm (Message:) Tj
+0 g
+1 0 0 1 118.875 135.789 Tm (GetEndorsingBoarderRequest) Tj
+0 g
+1 0 0 1 114.075 126.501 Tm (Part:) Tj
+0 g
+1 0 0 1 142.875 126.501 Tm (body) Tj
+0 g
+1 0 0 1 75.675 117.213 Tm (Message:) Tj
+0 g
+1 0 0 1 118.875 117.213 Tm (GetEndorsingBoarderResponse) Tj
+0 g
+1 0 0 1 114.075 107.925 Tm (Part:) Tj
+0 g
+1 0 0 1 142.875 107.925 Tm (body) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 75.483 Tm (Most) Tj
+0 g
+1 0 0 1 97.77 75.483 Tm (of) Tj
+0 g
+1 0 0 1 110.002 75.483 Tm (the) Tj
+0 g
+1 0 0 1 128.35 75.483 Tm (API) Tj
+0 g
+1 0 0 1 149.14 75.483 Tm (for) Tj
+0 g
+1 0 0 1 165.035 75.483 Tm (examining) Tj
+0 g
+1 0 0 1 218.22 75.483 Tm (the) Tj
+0 g
+1 0 0 1 236.568 75.483 Tm (details) Tj
+0 g
+1 0 0 1 271.416 75.483 Tm (of) Tj
+0 g
+1 0 0 1 283.648 75.483 Tm (WSDL) Tj
+0 g
+1 0 0 1 318.485 75.483 Tm (follows) Tj
+0 g
+1 0 0 1 355.159 75.483 Tm (this) Tj
+0 g
+1 0 0 1 375.333 75.483 Tm (simple) Tj
+0 g
+1 0 0 1 410.17 75.483 Tm (pattern) Tj
+0 g
+1 0 0 1 447.471 75.483 Tm (of) Tj
+0 g
+1 0 0 1 459.703 75.483 Tm (accessing) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (5) Tj
+ET
+
+endstream
+endobj
+70 0 obj
+<</Type /XObject
+/Subtype /Image
+/Name /Im1
+/Width 431
+/Height 286
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Length 19440
+/Filter [/ASCIIHexDecode /FlateDecode]
+>>
+stream
+789ced9d2d78ab3c18862b2b9158241289adac44d6562291b5959595b5939595b5939393b393471eb9ef0eefc6d7d3bf958dd0b03dcff55cbd680881b670f70d09c9db9b244992244992244992244992244992244992244992247daea22812490a52abd5eaded787f48b34994c66cbdd7cf324cb41399f2dd0bdaf0fe917493094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3deb07c370325f625b9eadf6d9743ead36f6b6583cf076be7ebc5ec27b362baa5c1daea2a87c56ddfd33fe600b8652cffac1308463e37164cbd3723d1a8d926c626fd3c92c8a934f4b80816cc5429ce6493efdf752ade2346b753ca74495af5830947ad60f8621711d28e3755ed36f1cc5e3e89d8d7192a679f169095760f8057752c8efb16028f5ac1f0c436ac1e3f1d82ab3d02f2f2ac7c6e5967416881549cf8a1248f2960c933a85b50490a444f536976048d819c5b12d8c4663b0497e574e9a5325a710b6252e651529ec94cd47b55c39ac9dd85ab7df62b1a5d2cd721d6de6b66b63381bc64956a7c4c0a1d93554ffd8f6e1fedfb31f0b8652cffac93034885135aee9578325855a56650659a4b0400adf800b1da953d710833cd009ce18dfe69fc3102e65e4af99067e17608dd2480174d4a6932c3f2c840cacad77e158c7111a0c411cc74622fbb5c3b6058e9302ed23b86dc956ad5976448de24fef7c0ed482a1d4b37e360c1d941c3a3676f310d061f00515e775dc65f115d95cdb4a4d1572124336d7e32d306413170dd6e9249262f56b36a104178bd6ab9a42c8cc770e2a2d9e24dd60d8b4ef90cdc59307d5fc79dd64335bed6063045ea7730cc00f33fc300b8652cffad930349ec0156b3a79874f925a1bb16520be22c52aa71643366dd057ee191ec2d016cc0643b76db962138b2dedfe645308f571223af64bf9048d0d0c9b1fc26078946826bd81a1f9a7fe7c82a1d4b37e360c717d7b6d9c1525cb7cd2fabedd986ae6bc6e62b6dae8fc039bf007d4346d2bf0ea6b3064770d6fed5ee56121ef95f77a2dd5e44b30240e6cc84c306995f7f776f08f63269baac992d4897e3c0cad35a4a9818214606800e18353c3857e16c2196488e8ac1d8498cdda29e6ed61f87f21f99442d27adbba86ebda41eafb936347bc24652d51a2d5c78f6038afebf596d3025a0ecf1d7314b97b89943c8ec0f5ddbf614f160ca59ef5e36108060ffb57136835cdb2731771ed786b77f99a3caeaf755192724ba7eba3ded7efb71f5d21db9cf8b028add97a5eb3f7fd2dc89d2f8d991c8025ba0aefc78d47d2ffafaa97aba3c3239b3b66b6aad677ff7afd5930947ad68f87a13c500b8652cf120ce5302d184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d4b3094c3b46028f5ac2fc0d00d2b9a4f65b995054329707d0186d36a1da759b5d9cbf28d8ea258309402d7d760986693cdd39b2cdfe85be622140ca5fb4a30947bb06028852fc150eec182a114be0443b9070b8652f8120ce51e2c184ae14b30947bb06028852fc150eec182a114be04c323cf970fd3f9a2daecfbdc29bb63a7ecfaee1fdf930543297c0986474ef3095c5a3c3c1d264e66d5514ab7a67076caaeeffef13d593094c29760786488546d1e6f49ecd6942f180a86d21d25181ef9947b8485e3f1388ae359b51e8dc6cbdd8ba52719d7ebda412c9be4d3599ca4b8d996ccbc050214b8dabd6eea0ab8a5f05aae7747fb150c0543e9be120c8f7c3d326401cab1001201e36aff4afa6834b27b8c208eabdeaddd3e43bcd5fe0fcb0033cda72c8ca3c8404aa518901eed4230140ca5fb4a303cf27518ce161be31848cc26c5a6865892664d4e18b8d83e0340b24de70b33186415d928a7a856676f3f0a8682a1745f098647be0e43823daacc0478b0ce1a7f8f20463aac83786ed0aae543e37adbd7a25c920e1bf3627eb40bc1503094ee2bc1f0c89f36a01010da5dc4f5e3df4d0db1288e6d9957400730cbd5aef98a20a7a16f5294960d2ab2f9d12e0443c150baaf04c3235f80e114942db7ee8e1f61de6834cea7335b45e67114f39674b625dba6a6629c6630d055abd38c5712c963e1220b56c53eb46028184af7956078e4b3305c6c9fa7f3c572fbbcb1f06f3c6e9a830d62ae6a5c2e019dc57e960d0692d894468af5e83eccd65830140ca5fb4a303cf2a75d0aa9f636f5e24d7710130c0543e9be120c8f0c91ac4be1d9b545b57223d81f3c37d709c4d81d3b150c0543e98e120ce51e2c184ae14b30947bb06028852fc150eec182a114be0443b9070b8652f8120ce51e2c184ae14b30947bb06028852fc150eec182a114be0443b9070b8652f8120ce51e2c184ae1eb6b308c9374b6d8c8f28d1e4791602805ae2fc0b0586ed37c2acbad2c184a81eb0b3094e51e2c184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d18b6d2c3c343225d505555b77c8782a11ca605c356da6c3649e6ae65f9c87951cee7f35bbe43c1500ed382612b01c32f3cf3f81bcc892418ca83b660d84a82e19513493094076dc1b09504c32b279260280fda82612b0986574e24c1501eb405c356120caf9c4882a13c680b86ad24185e3991fcc190fcd9742ecbad2c187a95607817184eab751427d3f942966fb486fdf72dc1f05e30d48450722b6b4228df120c05437910160c7d4b30140ce5415830f42dc15030940761c1d0b70443c1501e840543df120c05437910160c7d4b30140ce5415830f42dc15030940761c1d0b70443c1501e840543df120c05c3db5d6d1ea7f3c56affe7ee47f26573f07c043ec8dd8fa4ad0543dfea0a86719a8f3e14c5713a99cdd78fef6bd78fbc1d4731ab783d5c655b1d3e7499152529a40b86a179b97b198fc7b36abd7efc7bf783f9b239783e021f848f73f7836965c1d0b73a8461337d003f014073d0ab4908ffc65194cfaa69b5e19565528c870643f7b62927c904c3304d3495e6033be64be6830c2e38140c7dab4b181e9443b0471808f10c8cc5e2a159c532290e35f556463f83c96cb577244c32c130405f8221b5ce6c52c469c6df5c51adf2621e27eeef8f006c53476293a2e442c62c585439995596c297b0dc3e9f4d29ca25ef48a1e4065cec8b7a07e9f97466e967cb9f2f1fdeb74dd272bd3b3d66c1503a95271872b11b03091739218f332729e9cd56fccac6c6c97cc93229826180be0243d0c4c2e2e1c9fdaf2dd6b63c8e6216668b0d6b6114e6040171ace204306a01ccc9ac3c4d81879c090dd980ad2dc04abb6309e2d81787745a3e6b41b1d5822939c9f2d363160ca5537983e18673955717fb9d90ad49b4ada85073c6f2164212520a8601da0560b392a8ef74950d3065cbfce84dba2dc33160657958e0ed6af7ea6e9b4c6760d390759a627b845700907483300bbc6dca4feac8f0b47c5bc52684a9c0f0ecc7e183f0718675f35330f42d5f302c5b4486751839a68e3c1e8fe1a76018a0395a176ed515d8235f872167d7745e0131b3555a17db6736e11fd0b5c82c36a729602a764063db056f0d86bcad36fbff0fa98eeece96bfdabf1222b2ca31f61cc0f920ac1ad64f2018fa962718a6796163517e7acfd06db57ee412702dcee38865c1304c5381b5b8ebc8d761389955cdda72b5b3d8ef2065cbe9779a02e580a1a5004083e1e18ea025d570b29d96ef76fa71f3102a726a9d1e331fc46e690ec882a16f7508c3b83e8971dd7a32ca8bcaadfaac35d9104aa0c826efcb826190be72cff00a0c011dbf37711af0a146400408a65c63c7ac24e42314b4be3a4729abfd1f6b82a1aacb69c586cbed8b2bca0d0f5ed5b1e2d460785afea6ae50bbb3baae629f05b8ee194aa7f2d1cfd035f6d581dfbbaff63334004ee64bd6f22a1806eb4b3024726b6aaf0d150f97e1154cc3cdfd400236423808d66c789a02d61ce2ea2a33a033caad76af2c5bafe90668a7e5b30924241baf676f0c0a86d2a9f4048a6078a30fabaef73a00206670733dc0a3e86bcfc2b81b92492a184a47120c05c3db19421d368ae37b3dbb612ddad6a5d0b5ca1db42cdfeebaae1df34186d594bc110cfd4b30140ce5415830f42dc15030940761c1d0b70443c1501e840543df120c05437910160c7d4b30140ce5415830f42dc15030940761c1d0b77a82e1fa715a6d26f32566e1ff715f03b660280765c1d0b77cc3104ab8e794c7e338cdb2e92c9fce9234734f22e7455b80fc30182669bedcbdc8f28d8ee25830f42aaf30240e7403d1cc17cb7fbbe9ae76af248ea3c89ebf0bd39e61b81947b12cb7b260e855fe60c80f1145f1a501e536f5c09b64f8e729e690ec1586b2dc8305c356f204c362b925f05b3c9c19feee5f1eba61e5c87cf7d3e6ec892418ca83b660d84a9e6098646e9ce15b6e0b93cd067a0dcd82a13c740b86ade40386f598d5d18d0fc2bb513ac7e300612218ca43b760d84a3e6038992fcf8ea879c9640eb025453094876ec1b0957cc0302bcac3413e3fb59b6bf2601ef9402c18ca43b760d84a5e60389d0b86b27c770b86ade40386f9acaa8bbc158679316793bb9f39a7279260280fda82612bf98061b17888e2b8d57346ee19bd7b9f39a7279260280fda82612b79ea5a03dfcad5f6161292ed0b0f5df673220986f2a02d18b69227184ee6cb38493fed5d6353f304d8943c170ce5e15b306c257f8fe325f99492aff09055d9a448421d404c309487ee1f03c3bf7fffbe7c88e54eca7cad75589ac7811ad68f493689d3ecece3c924b2ca3d7b12ea705e82a13c740f0886cfcfcf0f0f0f97d63e3e3eba715d6a4551349d4ee1d877764781b3d9ece9e9e9f0fbf13d841781df68344ab2dc26049f2f1f5848b3899b4f3e49ef7eb65c3f91044379d01e100c57ab55599697d6aed7eba2286c9958ce5d71b3d997f70548b32c339c525493ee1786ebc7288e27e50aa793595a579c59e0ad7b640fc287d7887c78220986f2a03d14182e97cb388e9324d96eb7b08e63ce6a916e192021b46cf2ef763be2435b26c62350645b5e092f4921c264436849220bbcb5d228dc366115dcb365d2fffcf963cb5e619817559ce6577e296aca773f61ae1c9e60280fda438121411a30dceff77009a671ddb140629aa65677066bac6df20340ea9bb6c086bcbed5d123f9df6a72b20018a905530325e0a434d65a10483a9b34b70a49249b2dfb83a10dd7502c1e2ee6717163429478f773e6d289e40f86b3d58ef265b9957f2a0c5f5e5ec675a467706b48c5c1730d4245d0d7c46f6f75ec47361620e761c448368a829c8647024896ad348ab26a38b1e2e175cdc56b99df7cc290eaf0a72dc590d00d661e641b4aee79d87f37b0ed742ecb377a3c1eff5418422d0bdb205b736f10812f8e9fb516f235a29e6bd9406813d719331baebe1d0010e5796e41261b3675640454ad72fde60d86c0e1c681b9a8297fe12fef07c0501342c9adfc832784aaaaca8ef310868482567766d5617309eca2f20b21df6a183628635baec486ab6f75dc68dc2338044796f33014849ccdbdc7377f83bbe6d31bc75ea8670389020c0e05433928ff6018422d8ed3ba114227a0040389e58c815c5f10f2a116d92024f0b40db942d996cc909074eb2ad37c644b6181d7067a14d5c0d0aae1cd61787a36d98585abfd8df9936cf2db46ad110ce5b6fec1308466d6ebefad0efca8db72e935dd0e01dde243ebf5ba0905dfea900f82b1adb1f4adbe9d68e558abb46523a5298d446b5626f2a4f66d5b997cc0d0d57c8b16a3d0b809531c3cc36a90150ce5a0fc8361d8a7a8475b8f1d900b5a0f57750ec369b9fe429b48dd0bb1b83b00054339580b869d8888914892e0b0a96b37ea1886aeb7cc57065e78ef8713d2347982a11c940543dfea16867cf9f1571fb2cb8a32a869f2044339280b86bed5250cd78fe328e632bfcfe682a1fca32d18fa568730fc7e68f79dc05230ecc7d5e6713a5facf67f3a2c7356ad29f3d0f3e5838f835f3c3c15e572b97bb9fbd7f8057708437b3c2dcff3ae86c31a96ac474dd35bbb515730ece6a6df576f390a86fd188cb876ff6a7de3a4d8d70df10c7a06c3c9ac1c8d465e61b8dcbeb017a872f76ff20bee0486d671851f91affad7068d2f2f2fa35af6584af38fd0150cbb6a0efe5a63b460d88f090bd3bcb3c336ee356f2115e7670f9fa29fbd74eeefc090eb7dbbdd72a28e0ef4cd210107ada2289aef218ee3e572c9b7d1090c090847dd75146cdb4d5130eccd976008d33889f844fc919161b57bddd42399e7d319295cc52c58306939e324e5571e47911bb1735659210d0c090bc960896c4518b3dc3ebb5d6713ca71db26296f6deda470919e1bf1a3286d17b63929bc96ebdde9d1fe2a181207da0059a37f75f808f02f948d7b73a4344dbfdf86dbed2324f5032cd1ed0fb00886bdf90a0c819e31b0c6dd6c53cf006b803264d5f586f79c306ab5ff7329323400da00e98e6c6966bb666db5d9b3cce656d59d2d3686d91abcf3a25c920860edae202524597e7ab4bf04865c47fc339d5ef2a6e691b45fab2ccbce7e335192ba6bff4b95531f0f17dffe68b360d89b1dd366ef4c3bb2ddf1b365906813c572f11a1e3f1293a39c57aac920ce5665936256ad37350c939a8a66a2bec5f699b596d308cc5b56910d6217d5eaec7c13b6ada77b925e7d2b0cd78f361ddb250c223700ceafd725187e7c45513a99b5bdae7d0c3b73fba03782616fe6805dd0b57d3e5d7588358beb58e0b5696769120f735e8121b19fcdaee8eac8759877149412f2c1ba349f4ee79535c460ab14aff6af6e6a897ccad19e45373929b6a99e0fc537c29028824bf9ca652edd2e4ec2b39776b1dcf28f93cf2a28312dd7160afa1b90f09fe110d78fd0a31edfb2e218ae0d182b18fa34419a455f4786694d3a35590be178add6fba3c41b61e83018c580ae012030e44c33bad66b232ada00ad29a15ced660b174336370fa1a211f8842af1a5a03164df5e4d9eadf67951f2055eb9cc17bf5e5723c331f0393b2909fc71f7a8a398139ed38f938d5a35a719bcf23754b5f5d5e178d80bfbe252028deea273f7e4dd0d73dfa3200a86a7be7acf30815de0c85db37525d4eeec515d05a12c58d876084056f1255853c8e6a43599a08e7372b6d834bb1ebbe1706714ce3170126eeaae3e9c966eaeb16a6d15e74d5dc5766d82cb87a6e27ce4d1efb8674808419478da74623a1ce0f417eaefdfbf51149d81e038ca8af27c5bb04df799a4e56a7bf4d3701ed6a7ebc8dfa44e75c03fe294e63239da7bb9de533d7713ac78eb8423189efa0a0c312709af0ddc30748278c06af151b92644b44690cd477db669f0b52695c37df127d8f4eeb65d5baf6940d754c0390fdd2eaa55d3959a5564b0ce8a67fb43fe16187e74adb1be8547d73e71916fe0842cfe0b8e306833ee5dec5ab37e8436fcb75ee961cbf9ef69923b1b14f1ca8d6eebb9112799271e0a86a78648f1412b46e3a30a6f2726263c8cebbaeae268fdc6effe4d7ec1dfec746d4f9da4e9ff0d2bbfb941b9a9235b5b923d8d72a59f61ee1eafcb3f7dd6c0dd8e8ebabe6d58cf1565b780ae9863e302f1d4ee2c189efdc23925a2383e7aa2ad731882414e80c541634d2730e4bfdbcd5dfbd19c3d2c77f538de7ebfb72ec7df997a78d0b24e86fc2fac56abc379a62ec1d06ed99dd64f2f9dba54b4bb05d18dac58ed5e3d0d0c2b18ca41b9db811a5e5e5e58f53b9f4d067a3685ca69fa5918f2359ebdf97cd68b8727d7a6dc1d88a8fc9e7d76e0acf362de2d8a054339406bd41adfba0443129b86bc5b3c8eba7b6664fd78d845ed5353f7492e4f552f18ca3fc382a16f5d82619c664dabdf2de6d2eeaa1905b0b41a5784bafc17ce13c1501e960543dfea1486dd8ccbfa0518ba161cc150fed1ee1086cfcfcf9cdb67ef9bb5525996b35a2c34d3cf7d47e0e8e9e9e95e7d202fc1d08dded0e6f94dd7f7b5a3194ceab69b76d564d02d18ca3fdb1dc2703a9ddaa055df41079b8f46a3fd7efff8f808469224b9f17ab9240a01aa7678df29e73b0770a101a5b2b1476ef1e2e1c98dd5d01d88f8dd0ffbee5ef76456fae85d2318ca41b92b18c2ae288a08e4a019cbbc5a88f8f7ef5fc8467a339530ab58268cb444329073bbdd5a7714960f7b6ed7fd55c64d4f15db8a3c4d83351958bbabf556376737731cdbdb344d6df3660ee59e75b96b8d1b2aa11975e4badd035093598720ca8af2c6b6ecd5fe0f1cf631ad9e602807e5ae6058140530043846338be88c45361b7b1cc7c62be23432904806d6729e5755654f6abc7d0c9e7f5872d3919b55e4e79518cf26178072f084b724b2478ec196b9786d5278529ada31e977a9295fe9740ddf6e2152b5d9d7c30f76dad3af9e1ceaf419c053bf3f88da350905433934770543423b1bd9d590659565906553ab230236de5aa26d4e9c46d467d45aafd7b639a7fde124ec10cf604878094e9b10915d80564bb47db179d3df9b440a271d3e379bd8400a5fe2d9b7746da4ebf56394a4d7bbeb5b0f431f6335b86112c7d1f5461c1b1fc0d330b0be6178654411493aab4e60487467dce3bcb5568f7a4e90ff6bb8800b8201376239c3179468eee381b2d56ac502f83aacccda631d14c25573b853db0b7bb4fb8188c8d03684ae44866f359f0fef13dae8dc6d30d68dae0ffb4fbc17272931cce99047ebc7bf45b572c3b6cfbd8c5a33afc707e3e728cae56963ca72fb42d4ca97ef69cc1cdf3094e51e7c16869cae560be6e2b5db83700c4035190011c4835720d152b8101a3a91135ab2966bf3f00116f2583cd930f6ed637018a007eb1af0361b021f32db1e1b541e1e61cffa7c0e94f56356940469891b436b315b6c60209553bec9041e79b85977b8ebb19b5423e3dbcba6333752d362c331b85146c751369d7b9d5a54309487eeb330844ec47bd0ac01206f1b30f24ad515dc51056e2ab3599691f2f6d1824cf807370c7d6f35f178cb456a370ccb5ab6caee31bed5d561ab6543b96643ae2f32bcfd5b2f3eaa32f7a95b27845a3f4ecb35544cf3c228d4c3e55f4fc4ec1e2d615feef1c0e93cad1f8276d1e0c7b810fea616150ce5a1fbec54a1c6402efcc339a1a8f9c22bce64d65ae30524b45b82f5cdc0f1510b3297860b876ab1217c335abed538cd6a115812100237764a1e5bcbf134a8248f4580048dcd717224dfeca2f3657538897cb77e9f88f9b341adfd4d2d2a18ca4377ab2750805ed3a9e6fb8281b74777d0d2c8cc564d9b4eff0a1686ff0cfb7fd5719afb985a54309487ee013d8e67b569ebf073af63081386ad2662f634b5a860280fdd0382210c243ebc2309df428561db89988921bbedf53d170ce5e17b40300c4101c2d0457a2d0704f331b5a860280fdd82612b0508c37a22e6d6f70089246fbcc778fb892418ca83b660d84aa1c1f0cb1331db58371d4ea92c18ca43b760d84a61c1b09e07eacb0f95e445157737e4b560280fdd82612b0505c3fa89926f8c4ce8581a4fcb6ec698150ce5a15b306ca58060e81ebefbee14cc93f9328ad34efa600b86f2d02d18b6523830742d20d9e4fbe5c449ea38d6c5892418ca83b660d84a81c0d0c692ed64d88769b5ee64527bc1501eba05c3560a0486695ea493a2abd25c9fed6fcfa42c18ca43b760d84a21c09080b0dbb1b23f0afcd6037a7e61b87e6413596e65c1d0ab428061db87ef6e711d6a7eeb013ddf235d8fe1759cc8f28dee6aa46be992ee0e4337bc7f14753e061771e6e87b372135078a1c94234d22ef59778761578dbfa7fe66f3b460280765c1d0b7ee0bc3ba5b60e2636856e7ef755c140ce5a02c18fad63d61583f30e26f46273b19e234abe1b3c98b8a58d1e62cb8a5fa2c18ca415930f4ad3e60b87e2402a4c6caaf398e625e59e667aa1f25fec6c377b7ed9ae0d0769a17f3e97c816d36ab38cdaf8fea2018ca415930f42ddf30b4394a123728d77af1f0b4dcbd2cb7cfb385dbe96834fa7e6fc0eb244cf2699ca4e57a77745ead1fffce166b907865ac30c1500eca82a16f798521b11f5159b9da9efd71abcd9e00cdc7f42566e24f80733ae77263b0ec22c60bcd3782a11c940543dff207438b0901ce95df77b57be527f631d727655207bf42423387477c78f616a260280765c1d0b77cc1b09efffdb47e7aea6af3d8fd744ef5de29f99673ac2897677be008867250160c7dcb130cf91528f6c65f399fcebabd7948509aa4f98d7b5fedff8cc7e3d3ee3d82e1754fe70b82eaa37b20fc01a5f9f1e73a9b78d64d4e6beaeaea5027b3ca0d9fbe7cb8fb97f61d0b86bee509862ed6baf9dcab36fb38493bdc3b686d7529c125e82418b632ff20cbddcbc94f79867bfcdd2c1e9e6e3b13de37770d6d27857fc79c8db7ff3b8769c1d0b73cc1905aea6aff7ae3afbc7efc3b1a8d3bdc3b9f68b6d8dc7e9ae575e743c1b09547a3d169a2d16cb17d2eca65f36f08d66c997f3d32b0cc5f15cbcd568497a4904ea2c1b0cee932904869b36a4d81cdfd674e98f742d6fb2627bc254f51adcedea6be3d3a0dd682a16f7982e1d92be58a5d4555301c942fc1900a295f7f1d894d2645b9f9b7f2ebe665982fea7e4d3128b3c424cd48016554108eaac9bc756b6b187292106442c224cbb349c12ef262ee1e32aad10a2b5c21d58a85d3dbc582a1f4a97c4586eebc6d1519b61e91e38ab3e97c32ab6e3fcdb8dc4e674e110caf981f979ff834dd60688df8bc422af0750843c3e3a6be8f07dfec862daf9648ca290c9bdb92499a5354b9da01c3668f6420270c048f560e21e2e2243864c338cdeefebd7dc782a16f7982e1d9aece97ccd9ebee6f77b777c876fb996fd7b51a506e3774024180eb74d5510006b5f871cf368bd8326b0fc9769a93b74d9867cb70eff086b0e55ced5e41257fa99c781cd869972a5238cf5d8de1b6bb97015a30f42d4f30cc8a9213efc65f9920e19b630f1ebb7eeaf9f0aed415bb6a9abad6b43144723716cefdbeac4a0efe86401341da35186e9fc9d3e437cc6eaec2d06ac787278f83e1fe8ff3ee95b8317695eee39b24c0d038b9dc76d92ed3a70543dff204439bd3e47a8f6bf372f772a9dbf3776ce3e17cdae99a38e1d2dc2b82e1155b9bd7693ab0223cb3bf21aa06fc049b0b1d669a65d791a06e5e816644899fc2b03e6162ab08b36c3721dd2dca8fa78da82f9fc2d0513abbb5b75598160c7dcbdf132879517efa0cc8fbcdf0ae87b93627f994c29bfb51a75e3c3cbbe701f538de977ca901851f3dad1f09c7c6b1eb307435e534b307d849f914869b3a80b4c19fd917012a39399158b044164ecf3a35a0489fcaebb3c9543f9334bfd4616cb57fe5fc7755546fe319a679c12974fa7034174b51adea811a2e8e2b2b185e77db0e035dd9fad5346f2745395bac3fdd4a30943e95ef516bb2a21c8f5de787c32a3378743d25a2c8dd2af444c2063be53a4a52028fac0e2130d5280e09085faf9b0b869f5e9bf5cf7a875b706e74f4620e12398b388cd5ee937e0b3509a7b7dfc40ed382a16ff5309e21cc49e14f1443bf7a48c3c861302fae0f27d8f9314ce64b37b86b51b270cba3d082e1755bcfeabb34ce369dae67d5fa53126eea6ab5cb79735faf302d18fa569f235d832037e361b7633278b360280765c1d0b7ee3e2154b0160ce5a02c18fa96602818ca83b060e85b82a160280fc282a16f098682a13c080b86be25180a86f2202c18fa96602818ca83b060e85b82a160280fc282a16f0986f782a1eb795e4f662acbb7f80b03200b86ad2418de0586f3f5a3eb7f2ecb6d2c187a9560781f18cab27f0b86ad24185e3991044379d0160c5b4930bc72220986f2a02d18b6926078e544120ce5415b306c25c1f0ca892418ca83b660d84a82e19513493094076dc1b09504c32b279260280fda82612b01c3284edd10d0f2bf7693b30886f2902d18b6d2d3d3d342baa0ed767bcb772818ca615a30947a9660288769c150ea5982a11ca60543a96709867298160ca59e2518ca615a30947a9660288769c150ea5982a11ca60543a96709867298160ca59ef5b591ae4792d45282a114b834078adc8335078a14be0443b9070b8652f8120ce51e2c184ae14b30947bb06028852fc150eec182a114be0443b9070b8652f8120ce51e2c184ae14b30947bb06028852fc150eec182a114be7e2d0ce7cb87288e27b3aaf392d37c526d1e3b292ac9f2384917dbe7bb7f5ddfb4602885af5f0b433795d8f2c147c98b87a7d5fe4f57a5719845b9bcfbd7f54d0b8652f8fac5303c1fbf8132e05354abe5473c06d9668b0d894dfe6ab3c7b0946c874425cf6aff4aca72f7c2dbf5e35f369cce17e57a67194829575b97b2dab26c89e56a47ca6cb166dbd3e36115befbd7f54d0b8652f8120c0f0de2b86ce1129463810c20ab9e80b1026b499acdaaf5a60614b5d724cda1df783c36ac91994d9a924924ffa428dd86596e40cb8b3949d0329fceb015452e52d8059b37846c2c184a523ffab5300471a7308481c0ca2ab984888bed33619b510b13efc1c08d112c7fff064022611e0b935969d43218b261f32db1615dec2b9b37b86379b57ba5b60e512d914d4e8343d642d4bb7f5ddfb4602885af5f08432807dfa0d06918069d80db68348254c62817fb4511d772e3cdbfd11ab1a2d19255d6d2613084ab47111d89849187459162f1e46834267a3c7b0f1390ba08735675781fb27f0b8652f8fa85305c6e5f40dc6190d618e038ef5e09d2081da9e162eab6b696fc164c1ec290580e5a56eb3df92dc560485dfb7043772371fb6c81a5192693cebe78651519286779d2704c36b6a2b4d3a31d900543297cfd42189a89c44eabc910898f66d8a1620b0909cca238b606118844e2e6e43e1e41a68b24abd5c75b0743b00601de37fcf8c6c8668d298b7a2d3b02985614cb2eff090ce1b6ee194a520ffab5303cdb80e2e8349d591d9605a32248b414362190db9cc0108452b336ee1d960c039b0d8d722ecc4b3352928f3b966cc597498a55cc4f8f530d2892d48f04c3c02d184a523ffab53024f0a3ce1b380fcbd5d661c44fe7f03e2d184ae1ebd7c270b57fa51a6bbd62823547080907dd7462160ca5f0f56b6128f769c1500a5f82a1dc830543297c0986720f160ca5f02518ca3d583094c2976028f760c1500a5f82a1dc830543297c0986720f160ca5f02518ca3d583094c2d7d7601845713e9dcbf28d1e8fc782a114b8be00c3d96ac7892acbad2c184a81eb0b3094e51e2c184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d4b3094c3b46028f52cc1500ed382a1d4b30443394c0b8652cf120ce5302d184a3d0b184eab0d3c94e5a09c17a56028f5a9b22c279214a4369bcdbdaf0f49922449922449922449922449922449922449fa2dfa0ff89b639c
+endstream
+endobj
+71 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 69 0 R
+>>
+endobj
+72 0 obj
+<< /Length 914 >>
+stream
+BT
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 761.722 Tm (objects) Tj
+0 g
+1 0 0 1 108.781 761.722 Tm (representing) Tj
+0 g
+1 0 0 1 172.977 761.722 Tm (the) Tj
+0 g
+1 0 0 1 191.325 761.722 Tm (element) Tj
+0 g
+1 0 0 1 233.51 761.722 Tm (information.) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (6) Tj
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 72 0 R
+>>
+endobj
+74 0 obj
+<< /Length 13551 >>
+stream
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 756.696 Tm (Section) Tj
+0 g
+1 0 0 1 135.909 756.696 Tm (4.) Tj
+0 g
+1 0 0 1 155.925 756.696 Tm (Generating) Tj
+0 g
+1 0 0 1 249.975 756.696 Tm (and) Tj
+0 g
+1 0 0 1 285.003 756.696 Tm (modifying) Tj
+0 g
+1 0 0 1 367.029 756.696 Tm (WSDL) Tj
+0 g
+1 0 0 1 70.875 725.046 Tm (Generating) Tj
+0 g
+1 0 0 1 164.925 725.046 Tm (and) Tj
+0 g
+1 0 0 1 199.953 725.046 Tm (modifying) Tj
+0 g
+1 0 0 1 281.979 725.046 Tm (WSDL) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 701.422 Tm (The) Tj
+0 g
+1 0 0 1 92.886 701.422 Tm (initializer) Tj
+0 g
+1 0 0 1 138.723 701.422 Tm (for) Tj
+0 g
+1 0 0 1 154.618 701.422 Tm (the) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 172.966 701.422 Tm (Wsdl) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 202.424 701.422 Tm (class) Tj
+0 g
+1 0 0 1 230.54 701.422 Tm (allows) Tj
+0 g
+1 0 0 1 264.156 701.422 Tm (you) Tj
+0 g
+1 0 0 1 284.946 701.422 Tm (to) Tj
+0 g
+1 0 0 1 297.178 701.422 Tm (create) Tj
+0 g
+1 0 0 1 330.805 701.422 Tm ("empty") Tj
+0 g
+1 0 0 1 371.626 701.422 Tm (descriptions) Tj
+0 g
+1 0 0 1 433.369 701.422 Tm (to) Tj
+0 g
+1 0 0 1 445.601 701.422 Tm (which) Tj
+0 g
+1 0 0 1 476.775 701.422 Tm (elements) Tj
+0 g
+1 0 0 1 70.875 688.247 Tm (can) Tj
+0 g
+1 0 0 1 91.665 688.247 Tm (be) Tj
+0 g
+1 0 0 1 106.955 688.247 Tm (added) Tj
+0 g
+1 0 0 1 140.593 688.247 Tm (as) Tj
+0 g
+1 0 0 1 155.267 688.247 Tm (needed) Tj
+0 g
+1 0 0 1 195.021 688.247 Tm (to) Tj
+0 g
+1 0 0 1 207.253 688.247 Tm (build) Tj
+0 g
+1 0 0 1 233.543 688.247 Tm (the) Tj
+0 g
+1 0 0 1 251.891 688.247 Tm (description) Tj
+0 g
+1 0 0 1 308.134 688.247 Tm (dynamically.) Tj
+0 g
+1 0 0 1 371.703 688.247 Tm (Each) Tj
+0 g
+1 0 0 1 399.83 688.247 Tm (of) Tj
+0 g
+1 0 0 1 412.062 688.247 Tm (the) Tj
+0 g
+1 0 0 1 430.41 688.247 Tm (element) Tj
+0 g
+1 0 0 1 472.595 688.247 Tm (classes,) Tj
+0 g
+1 0 0 1 70.875 675.072 Tm (such) Tj
+0 g
+1 0 0 1 97.165 675.072 Tm (as) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 111.839 675.072 Tm (Message) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 161.097 675.072 Tm (or) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 173.934 675.072 Tm (PortType) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 229.792 675.072 Tm (provides) Tj
+0 g
+1 0 0 1 274.419 675.072 Tm (convenient) Tj
+0 g
+1 0 0 1 330.673 675.072 Tm (methods) Tj
+0 g
+1 0 0 1 375.916 675.072 Tm (to) Tj
+0 g
+1 0 0 1 388.148 675.072 Tm (add) Tj
+0 g
+1 0 0 1 409.554 675.072 Tm (sub-elements.) Tj
+0 g
+1 0 0 1 484.453 675.072 Tm (The) Tj
+0 g
+1 0 0 1 70.875 661.897 Tm (function) Tj
+0 g
+1 0 0 1 112.455 661.897 Tm (in) Tj
+0 0 1  rg 
+1 0 0 1 124.071 661.897 Tm (Listing) Tj
+0 0 1  rg 
+1 0 0 1 158.919 661.897 Tm (2:) Tj
+0 0 1  rg 
+1 0 0 1 171.151 661.897 Tm (A) Tj
+0 0 1  rg 
+1 0 0 1 181.546 661.897 Tm (function) Tj
+0 0 1  rg 
+1 0 0 1 223.126 661.897 Tm (to) Tj
+0 0 1  rg 
+1 0 0 1 235.358 661.897 Tm (create) Tj
+0 0 1  rg 
+1 0 0 1 268.985 661.897 Tm (a) Tj
+0 0 1  rg 
+1 0 0 1 278.159 661.897 Tm (WSDL) Tj
+0 0 1  rg 
+1 0 0 1 312.996 661.897 Tm (object) Tj
+0 0 1  rg 
+1 0 0 1 345.402 661.897 Tm (from) Tj
+0 0 1  rg 
+1 0 0 1 370.46 661.897 Tm (scratch) Tj
+0 g
+1 0 0 1 408.971 661.897 Tm (on) Tj
+0 g
+1 0 0 1 424.261 661.897 Tm (page) Tj
+0 0 1  rg 
+1 0 0 1 451.783 661.897 Tm (7) Tj
+0 g
+1 0 0 1 464.015 661.897 Tm (illustrates) Tj
+0 g
+1 0 0 1 70.875 648.722 Tm (this) Tj
+0 g
+1 0 0 1 91.049 648.722 Tm (dynamic) Tj
+0 g
+1 0 0 1 135.06 648.722 Tm (building) Tj
+0 g
+1 0 0 1 176.024 648.722 Tm (of) Tj
+0 g
+1 0 0 1 188.256 648.722 Tm (descriptions.) Tj
+ET
+q
+0 G
+70.875 627.945 m 524.475 627.945 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 598.521 Tm (Listing) Tj
+0 g
+1 0 0 1 127.899 598.521 Tm (2:) Tj
+0 g
+1 0 0 1 147.915 598.521 Tm (A) Tj
+0 g
+1 0 0 1 164.925 598.521 Tm (function) Tj
+0 g
+1 0 0 1 232.965 598.521 Tm (to) Tj
+0 g
+1 0 0 1 252.981 598.521 Tm (create) Tj
+0 g
+1 0 0 1 308.007 598.521 Tm (a) Tj
+0 g
+1 0 0 1 323.019 598.521 Tm (WSDL) Tj
+0 g
+1 0 0 1 380.025 598.521 Tm (object) Tj
+0 g
+1 0 0 1 433.053 598.521 Tm (from) Tj
+0 g
+1 0 0 1 70.875 578.871 Tm (scratch) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 558.113 Tm (def) Tj
+0 g
+1 0 0 1 94.875 558.113 Tm (GenerateEsWsdl\(\):) Tj
+0 g
+1 0 0 1 94.875 548.825 Tm (#Create) Tj
+0 g
+1 0 0 1 133.275 548.825 Tm (a) Tj
+0 g
+1 0 0 1 142.875 548.825 Tm (new) Tj
+0 g
+1 0 0 1 162.075 548.825 Tm ("empty") Tj
+0 g
+1 0 0 1 200.475 548.825 Tm (description) Tj
+0 g
+1 0 0 1 94.875 539.537 Tm (wsdl) Tj
+0 g
+1 0 0 1 118.875 539.537 Tm (=) Tj
+0 g
+1 0 0 1 128.475 539.537 Tm (wsdllib.Wsdl\(\)) Tj
+0 g
+1 0 0 1 94.875 520.961 Tm (#Add) Tj
+0 g
+1 0 0 1 118.875 520.961 Tm (a) Tj
+0 g
+1 0 0 1 128.475 520.961 Tm (message) Tj
+0 g
+1 0 0 1 166.875 520.961 Tm (element) Tj
+0 g
+1 0 0 1 205.275 520.961 Tm (to) Tj
+0 g
+1 0 0 1 219.675 520.961 Tm (the) Tj
+0 g
+1 0 0 1 238.875 520.961 Tm (description,) Tj
+0 g
+1 0 0 1 301.275 520.961 Tm (by) Tj
+0 g
+1 0 0 1 315.675 520.961 Tm (name) Tj
+0 g
+1 0 0 1 94.875 511.673 Tm (#Also) Tj
+0 g
+1 0 0 1 123.675 511.673 Tm (return) Tj
+0 g
+1 0 0 1 157.275 511.673 Tm (the) Tj
+0 g
+1 0 0 1 176.475 511.673 Tm (new) Tj
+0 g
+1 0 0 1 195.675 511.673 Tm (message) Tj
+0 g
+1 0 0 1 234.075 511.673 Tm (object) Tj
+0 g
+1 0 0 1 94.875 502.385 Tm (msg) Tj
+0 g
+1 0 0 1 114.075 502.385 Tm (=) Tj
+0 g
+1 0 0 1 123.675 502.385 Tm (wsdl.addMessage\("GetEndorsingBoarderRequest"\)) Tj
+0 g
+1 0 0 1 94.875 483.809 Tm (#Add) Tj
+0 g
+1 0 0 1 118.875 483.809 Tm (standard) Tj
+0 g
+1 0 0 1 162.075 483.809 Tm (documentation) Tj
+0 g
+1 0 0 1 229.275 483.809 Tm (to) Tj
+0 g
+1 0 0 1 243.675 483.809 Tm (the) Tj
+0 g
+1 0 0 1 262.875 483.809 Tm (message) Tj
+0 g
+1 0 0 1 301.275 483.809 Tm (element) Tj
+0 g
+1 0 0 1 94.875 474.521 Tm (msg.documentation) Tj
+0 g
+1 0 0 1 181.275 474.521 Tm (=) Tj
+0 g
+1 0 0 1 190.875 474.521 Tm ("Query) Tj
+0 g
+1 0 0 1 224.475 474.521 Tm (the) Tj
+0 g
+1 0 0 1 243.675 474.521 Tm (pro) Tj
+0 g
+1 0 0 1 262.875 474.521 Tm (who) Tj
+0 g
+1 0 0 1 282.075 474.521 Tm (endorses) Tj
+0 g
+1 0 0 1 325.275 474.521 Tm (the) Tj
+0 g
+1 0 0 1 344.475 474.521 Tm (given) Tj
+0 g
+1 0 0 1 373.275 474.521 Tm (gear") Tj
+0 g
+1 0 0 1 94.875 455.945 Tm (#Add) Tj
+0 g
+1 0 0 1 118.875 455.945 Tm (a) Tj
+0 g
+1 0 0 1 128.475 455.945 Tm (new) Tj
+0 g
+1 0 0 1 147.675 455.945 Tm (part) Tj
+0 g
+1 0 0 1 171.675 455.945 Tm (to) Tj
+0 g
+1 0 0 1 186.075 455.945 Tm (the) Tj
+0 g
+1 0 0 1 205.275 455.945 Tm (message,) Tj
+0 g
+1 0 0 1 248.475 455.945 Tm (specifying) Tj
+0 g
+1 0 0 1 301.275 455.945 Tm (the) Tj
+0 g
+1 0 0 1 94.875 446.657 Tm (#message) Tj
+0 g
+1 0 0 1 138.075 446.657 Tm (body) Tj
+0 g
+1 0 0 1 162.075 446.657 Tm (element) Tj
+0 g
+1 0 0 1 200.475 446.657 Tm (it) Tj
+0 g
+1 0 0 1 214.875 446.657 Tm (represents) Tj
+0 g
+1 0 0 1 94.875 437.369 Tm (part) Tj
+0 g
+1 0 0 1 118.875 437.369 Tm (=) Tj
+0 g
+1 0 0 1 128.475 437.369 Tm (msg.addPart\("body",) Tj
+0 g
+1 0 0 1 224.475 437.369 Tm ("esxsd:GetEndorsingBoarder"\)) Tj
+0 g
+1 0 0 1 94.875 418.793 Tm (return) Tj
+0 g
+1 0 0 1 128.475 418.793 Tm (wsdl) Tj
+ET
+q
+0 G
+70.875 392.749 m 524.475 392.749 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 363.325 Tm (Creating) Tj
+0 g
+1 0 0 1 143.901 363.325 Tm (a) Tj
+0 g
+1 0 0 1 158.913 363.325 Tm (WSDL) Tj
+0 g
+1 0 0 1 215.919 363.325 Tm (object) Tj
+0 g
+1 0 0 1 268.947 363.325 Tm (from) Tj
+0 g
+1 0 0 1 309.951 363.325 Tm (scratch) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 339.701 Tm (After) Tj
+0 g
+1 0 0 1 97.165 339.701 Tm (you) Tj
+0 g
+1 0 0 1 117.955 339.701 Tm (make) Tj
+0 g
+1 0 0 1 147.908 339.701 Tm (your) Tj
+0 g
+1 0 0 1 172.361 339.701 Tm (modifications) Tj
+0 g
+1 0 0 1 239.604 339.701 Tm (to) Tj
+0 g
+1 0 0 1 251.836 339.701 Tm (the) Tj
+0 g
+1 0 0 1 270.184 339.701 Tm (descriptions,) Tj
+0 g
+1 0 0 1 334.985 339.701 Tm (WSDL) Tj
+0 g
+1 0 0 1 369.822 339.701 Tm (allows) Tj
+0 g
+1 0 0 1 403.438 339.701 Tm (you) Tj
+0 g
+1 0 0 1 424.228 339.701 Tm (to) Tj
+0 g
+1 0 0 1 436.46 339.701 Tm (turn) Tj
+0 g
+1 0 0 1 458.471 339.701 Tm (the) Tj
+0 g
+1 0 0 1 476.819 339.701 Tm (resulting) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 70.875 327.505 Tm (Wsdl) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 100.333 327.505 Tm (instance) Tj
+0 g
+1 0 0 1 144.355 327.505 Tm (into) Tj
+0 g
+1 0 0 1 165.145 327.505 Tm (an) Tj
+0 g
+1 0 0 1 180.435 327.505 Tm (XML) Tj
+0 g
+1 0 0 1 206.109 327.505 Tm (DOM) Tj
+0 g
+1 0 0 1 234.83 327.505 Tm (document) Tj
+0 g
+1 0 0 1 286.189 327.505 Tm (for) Tj
+0 g
+1 0 0 1 302.084 327.505 Tm (processing) Tj
+0 g
+1 0 0 1 358.327 327.505 Tm (in) Tj
+0 g
+1 0 0 1 369.943 327.505 Tm (XML) Tj
+0 g
+1 0 0 1 395.617 327.505 Tm (form.) Tj
+0 g
+1 0 0 1 423.733 327.505 Tm (For) Tj
+0 g
+1 0 0 1 443.291 327.505 Tm (example,) Tj
+0 g
+1 0 0 1 490.976 327.505 Tm (the) Tj
+0 g
+1 0 0 1 70.875 314.88 Tm (following) Tj
+0 g
+1 0 0 1 116.723 314.88 Tm (code) Tj
+0 g
+1 0 0 1 143.629 314.88 Tm (would) Tj
+0 g
+1 0 0 1 175.419 314.88 Tm (take) Tj
+0 g
+1 0 0 1 199.267 314.88 Tm (a) Tj
+0 g
+1 0 0 1 208.441 314.88 Tm (Wsdl) Tj
+0 g
+1 0 0 1 235.941 314.88 Tm (instance) Tj
+0 g
+1 0 0 1 279.963 314.88 Tm (and) Tj
+0 g
+1 0 0 1 301.369 314.88 Tm (print) Tj
+0 g
+1 0 0 1 325.822 314.88 Tm (its) Tj
+0 g
+1 0 0 1 339.88 314.88 Tm (XML) Tj
+0 g
+1 0 0 1 365.554 314.88 Tm (serialization) Tj
+0 g
+1 0 0 1 426.681 314.88 Tm (to) Tj
+0 g
+1 0 0 1 438.913 314.88 Tm (standard) Tj
+0 g
+1 0 0 1 484.772 314.88 Tm (output:) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 290.571 Tm (#wsdl) Tj
+0 g
+1 0 0 1 104.475 290.571 Tm (is) Tj
+0 g
+1 0 0 1 118.875 290.571 Tm (an) Tj
+0 g
+1 0 0 1 133.275 290.571 Tm (object) Tj
+0 g
+1 0 0 1 166.875 290.571 Tm (created,) Tj
+0 g
+1 0 0 1 210.075 290.571 Tm (say) Tj
+0 g
+1 0 0 1 229.275 290.571 Tm (by) Tj
+0 g
+1 0 0 1 243.675 290.571 Tm (calling) Tj
+0 g
+1 0 0 1 282.075 290.571 Tm (GenerateEsWsdl\(\)) Tj
+0 g
+1 0 0 1 75.675 281.283 Tm (#the) Tj
+0 g
+1 0 0 1 99.675 281.283 Tm (toDom\(\)) Tj
+0 g
+1 0 0 1 138.075 281.283 Tm (method) Tj
+0 g
+1 0 0 1 171.675 281.283 Tm (returns) Tj
+0 g
+1 0 0 1 210.075 281.283 Tm (an) Tj
+0 g
+1 0 0 1 224.475 281.283 Tm (XML) Tj
+0 g
+1 0 0 1 243.675 281.283 Tm (DOM) Tj
+0 g
+1 0 0 1 262.875 281.283 Tm (representing) Tj
+0 g
+1 0 0 1 325.275 281.283 Tm (the) Tj
+0 g
+1 0 0 1 344.475 281.283 Tm (document) Tj
+0 g
+1 0 0 1 75.675 271.995 Tm (doc) Tj
+0 g
+1 0 0 1 94.875 271.995 Tm (=) Tj
+0 g
+1 0 0 1 104.475 271.995 Tm (wsdl.toDom\(\)) Tj
+0 g
+1 0 0 1 75.675 262.707 Tm (#Import) Tj
+0 g
+1 0 0 1 114.075 262.707 Tm (the) Tj
+0 g
+1 0 0 1 133.275 262.707 Tm (machinery) Tj
+0 g
+1 0 0 1 181.275 262.707 Tm (for) Tj
+0 g
+1 0 0 1 200.475 262.707 Tm (printing) Tj
+0 g
+1 0 0 1 243.675 262.707 Tm (the) Tj
+0 g
+1 0 0 1 262.875 262.707 Tm (XML) Tj
+0 g
+1 0 0 1 282.075 262.707 Tm (serialization) Tj
+0 g
+1 0 0 1 349.275 262.707 Tm (of) Tj
+0 g
+1 0 0 1 363.675 262.707 Tm (DOMs) Tj
+0 g
+1 0 0 1 75.675 253.419 Tm (from) Tj
+0 g
+1 0 0 1 99.675 253.419 Tm (xml.dom.ext) Tj
+0 g
+1 0 0 1 157.275 253.419 Tm (import) Tj
+0 g
+1 0 0 1 190.875 253.419 Tm (PrettyPrint) Tj
+0 g
+1 0 0 1 75.675 244.131 Tm (#Pretty-print) Tj
+0 g
+1 0 0 1 142.875 244.131 Tm (the) Tj
+0 g
+1 0 0 1 162.075 244.131 Tm (document,) Tj
+0 g
+1 0 0 1 210.075 244.131 Tm (and) Tj
+0 g
+1 0 0 1 229.275 244.131 Tm (presto:) Tj
+0 g
+1 0 0 1 267.675 244.131 Tm (familiar) Tj
+0 g
+1 0 0 1 310.875 244.131 Tm (WSDL) Tj
+0 g
+1 0 0 1 75.675 234.843 Tm (PrettyPrint\(doc\)) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 202.401 Tm (The) Tj
+0 g
+1 0 0 1 92.886 202.401 Tm (program) Tj
+0 g
+1 0 0 1 136.897 202.401 Tm (in) Tj
+0 0 1  rg 
+1 0 0 1 148.513 202.401 Tm (Listing) Tj
+0 0 1  rg 
+1 0 0 1 183.361 202.401 Tm (3:) Tj
+0 0 1  rg 
+1 0 0 1 195.593 202.401 Tm (A) Tj
+0 0 1  rg 
+1 0 0 1 205.988 202.401 Tm (complete) Tj
+0 0 1  rg 
+1 0 0 1 253.673 202.401 Tm (program) Tj
+0 0 1  rg 
+1 0 0 1 297.684 202.401 Tm (for) Tj
+0 0 1  rg 
+1 0 0 1 313.579 202.401 Tm (generating) Tj
+0 0 1  rg 
+1 0 0 1 368.612 202.401 Tm (and) Tj
+0 0 1  rg 
+1 0 0 1 390.018 202.401 Tm (displaying) Tj
+0 0 1  rg 
+1 0 0 1 441.982 202.401 Tm (a) Tj
+0 0 1  rg 
+1 0 0 1 451.156 202.401 Tm (WSDL) Tj
+0 0 1  rg 
+1 0 0 1 70.875 189.226 Tm (document) Tj
+0 g
+1 0 0 1 122.234 189.226 Tm (on) Tj
+0 g
+1 0 0 1 137.524 189.226 Tm (page) Tj
+0 0 1  rg 
+1 0 0 1 165.046 189.226 Tm (7) Tj
+0 g
+1 0 0 1 177.278 189.226 Tm (illustrates) Tj
+0 g
+1 0 0 1 226.789 189.226 Tm (this) Tj
+0 g
+1 0 0 1 246.963 189.226 Tm (whole) Tj
+0 g
+1 0 0 1 278.753 189.226 Tm (process) Tj
+0 g
+1 0 0 1 320.322 189.226 Tm (of) Tj
+0 g
+1 0 0 1 332.554 189.226 Tm (generating) Tj
+0 g
+1 0 0 1 387.587 189.226 Tm (and) Tj
+0 g
+1 0 0 1 408.993 189.226 Tm (printing) Tj
+0 g
+1 0 0 1 448.12 189.226 Tm (a) Tj
+0 g
+1 0 0 1 457.294 189.226 Tm (description.) Tj
+ET
+q
+0 G
+70.875 168.449 m 524.475 168.449 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 139.025 Tm (Listing) Tj
+0 g
+1 0 0 1 127.899 139.025 Tm (3:) Tj
+0 g
+1 0 0 1 147.915 139.025 Tm (A) Tj
+0 g
+1 0 0 1 164.925 139.025 Tm (complete) Tj
+0 g
+1 0 0 1 242.955 139.025 Tm (program) Tj
+0 g
+1 0 0 1 314.973 139.025 Tm (for) Tj
+0 g
+1 0 0 1 340.983 139.025 Tm (generating) Tj
+0 g
+1 0 0 1 431.037 139.025 Tm (and) Tj
+0 g
+1 0 0 1 70.875 119.375 Tm (displaying) Tj
+0 g
+1 0 0 1 155.907 119.375 Tm (a) Tj
+0 g
+1 0 0 1 170.919 119.375 Tm (WSDL) Tj
+0 g
+1 0 0 1 227.925 119.375 Tm (document) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 98.617 Tm (import) Tj
+0 g
+1 0 0 1 109.275 98.617 Tm (wsdllib) Tj
+0 g
+1 0 0 1 75.675 89.329 Tm (from) Tj
+0 g
+1 0 0 1 99.675 89.329 Tm (xml.dom.ext) Tj
+0 g
+1 0 0 1 157.275 89.329 Tm (import) Tj
+0 g
+1 0 0 1 190.875 89.329 Tm (PrettyPrint) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (7) Tj
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 74 0 R
+/Annots 76 0 R
+>>
+endobj
+76 0 obj
+[
+77 0 R
+79 0 R
+80 0 R
+81 0 R
+82 0 R
+83 0 R
+84 0 R
+85 0 R
+86 0 R
+87 0 R
+88 0 R
+89 0 R
+90 0 R
+92 0 R
+93 0 R
+94 0 R
+95 0 R
+96 0 R
+97 0 R
+98 0 R
+99 0 R
+100 0 R
+101 0 R
+102 0 R
+103 0 R
+]
+endobj
+77 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 124.071 669.795 155.861 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+78 0 obj
+<<
+/S /GoTo
+/D [75 0 R /XYZ 65.875 616.945 null]
+>>
+endobj
+79 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 158.919 669.795 168.093 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+80 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 171.151 669.795 178.488 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+81 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 181.546 669.795 220.068 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+82 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 223.126 669.795 232.3 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+83 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 235.358 669.795 265.927 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+84 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 268.985 669.795 275.101 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+85 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 278.159 669.795 309.938 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+86 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 312.996 669.795 342.344 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+87 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 345.402 669.795 367.402 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+88 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 370.46 669.795 405.913 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+89 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 451.783 669.795 460.957 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 78 0 R
+/H /I
+>>
+endobj
+90 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 148.513 208.299 180.303 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+91 0 obj
+<<
+/S /GoTo
+/D [75 0 R /XYZ 65.875 155.449 null]
+>>
+endobj
+92 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 183.361 208.299 192.535 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+93 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 195.593 208.299 202.93 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+94 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 205.988 208.299 250.615 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+95 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 253.673 208.299 294.626 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+96 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 297.684 208.299 310.521 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+97 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 313.579 208.299 365.554 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+98 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 368.612 208.299 386.96 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+99 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 390.018 208.299 438.924 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+100 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 441.982 208.299 448.098 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+101 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 451.156 208.299 482.935 197.299 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+102 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 195.124 119.176 184.124 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+103 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 165.046 195.124 174.22 184.124 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A 91 0 R
+/H /I
+>>
+endobj
+104 0 obj
+<< /Length 6239 >>
+stream
+BT
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 764.588 Tm (def) Tj
+0 g
+1 0 0 1 94.875 764.588 Tm (GenerateEsWsdl\(\):) Tj
+0 g
+1 0 0 1 94.875 755.3 Tm (wsdl) Tj
+0 g
+1 0 0 1 118.875 755.3 Tm (=) Tj
+0 g
+1 0 0 1 128.475 755.3 Tm (wsdllib.Wsdl\(\)) Tj
+0 g
+1 0 0 1 94.875 746.012 Tm (msg) Tj
+0 g
+1 0 0 1 114.075 746.012 Tm (=) Tj
+0 g
+1 0 0 1 123.675 746.012 Tm (wsdl.addMessage\("GetEndorsingBoarderRequest"\)) Tj
+0 g
+1 0 0 1 94.875 736.724 Tm (msg.documentation) Tj
+0 g
+1 0 0 1 181.275 736.724 Tm (=) Tj
+0 g
+1 0 0 1 190.875 736.724 Tm ("Query) Tj
+0 g
+1 0 0 1 224.475 736.724 Tm (the) Tj
+0 g
+1 0 0 1 243.675 736.724 Tm (pro) Tj
+0 g
+1 0 0 1 262.875 736.724 Tm (who) Tj
+0 g
+1 0 0 1 282.075 736.724 Tm (endorses) Tj
+0 g
+1 0 0 1 325.275 736.724 Tm (the) Tj
+0 g
+1 0 0 1 344.475 736.724 Tm (given) Tj
+0 g
+1 0 0 1 373.275 736.724 Tm (gear") Tj
+0 g
+1 0 0 1 94.875 727.436 Tm (part) Tj
+0 g
+1 0 0 1 118.875 727.436 Tm (=) Tj
+0 g
+1 0 0 1 128.475 727.436 Tm (msg.addPart\("body",) Tj
+0 g
+1 0 0 1 224.475 727.436 Tm ("esxsd:GetEndorsingBoarder"\)) Tj
+0 g
+1 0 0 1 94.875 718.148 Tm (return) Tj
+0 g
+1 0 0 1 128.475 718.148 Tm (wsdl) Tj
+0 g
+1 0 0 1 75.675 699.572 Tm (wsdl) Tj
+0 g
+1 0 0 1 99.675 699.572 Tm (=) Tj
+0 g
+1 0 0 1 109.275 699.572 Tm (GenerateEsWsdl\(\)) Tj
+0 g
+1 0 0 1 75.675 690.284 Tm (doc) Tj
+0 g
+1 0 0 1 94.875 690.284 Tm (=) Tj
+0 g
+1 0 0 1 104.475 690.284 Tm (wsdl.toDom\(\)) Tj
+0 g
+1 0 0 1 75.675 680.996 Tm (PrettyPrint\(doc\)) Tj
+ET
+q
+0 G
+70.875 654.952 m 524.475 654.952 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 625.528 Tm (Generating) Tj
+0 g
+1 0 0 1 164.925 625.528 Tm (a) Tj
+0 g
+1 0 0 1 179.937 625.528 Tm (WSDL) Tj
+0 g
+1 0 0 1 236.943 625.528 Tm (document) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 601.904 Tm (The) Tj
+0 g
+1 0 0 1 92.886 601.904 Tm (following) Tj
+0 g
+1 0 0 1 138.734 601.904 Tm (is) Tj
+0 g
+1 0 0 1 149.734 601.904 Tm (the) Tj
+0 g
+1 0 0 1 168.082 601.904 Tm (result) Tj
+0 g
+1 0 0 1 198.035 601.904 Tm (of) Tj
+0 g
+1 0 0 1 210.267 601.904 Tm (running) Tj
+0 g
+1 0 0 1 250.01 601.904 Tm (the) Tj
+0 g
+1 0 0 1 268.358 601.904 Tm (program) Tj
+0 g
+1 0 0 1 312.369 601.904 Tm (from) Tj
+0 g
+1 0 0 1 337.427 601.904 Tm (Listing) Tj
+0 g
+1 0 0 1 372.275 601.904 Tm (3:) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 577.595 Tm ($) Tj
+0 g
+1 0 0 1 85.275 577.595 Tm (python) Tj
+0 g
+1 0 0 1 118.875 577.595 Tm (listing3.py) Tj
+0 g
+1 0 0 1 75.675 568.307 Tm (<) Tj
+0 g
+1 0 0 1 80.475 568.307 Tm (wsdl:definitions) Tj
+0 g
+1 0 0 1 162.075 568.307 Tm (xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/') Tj
+0 g
+1 0 0 1 378.075 568.307 Tm (>) Tj
+0 g
+1 0 0 1 85.275 559.019 Tm (<) Tj
+0 g
+1 0 0 1 90.075 559.019 Tm (wsdl:message) Tj
+0 g
+1 0 0 1 152.475 559.019 Tm (name='GetEndorsingBoarderRequest') Tj
+0 g
+1 0 0 1 310.875 559.019 Tm (>) Tj
+0 g
+1 0 0 1 94.875 549.731 Tm (<) Tj
+0 g
+1 0 0 1 99.675 549.731 Tm (wsdl:documentation) Tj
+0 g
+1 0 0 1 186.075 549.731 Tm (>) Tj
+0 g
+1 0 0 1 190.875 549.731 Tm (Query) Tj
+0 g
+1 0 0 1 219.675 549.731 Tm (the) Tj
+0 g
+1 0 0 1 238.875 549.731 Tm (pro) Tj
+0 g
+1 0 0 1 258.075 549.731 Tm (who) Tj
+0 g
+1 0 0 1 277.275 549.731 Tm (endorses) Tj
+0 g
+1 0 0 1 320.475 549.731 Tm (the) Tj
+0 g
+1 0 0 1 339.675 549.731 Tm (given) Tj
+0 g
+1 0 0 1 368.475 549.731 Tm (gear) Tj
+0 g
+1 0 0 1 387.675 549.731 Tm (<) Tj
+0 g
+1 0 0 1 392.475 549.731 Tm (/wsdl:documentation) Tj
+0 g
+1 0 0 1 483.675 549.731 Tm (>) Tj
+0 g
+1 0 0 1 94.875 540.443 Tm (<) Tj
+0 g
+1 0 0 1 99.675 540.443 Tm (wsdl:part) Tj
+0 g
+1 0 0 1 147.675 540.443 Tm (name='body') Tj
+0 g
+1 0 0 1 205.275 540.443 Tm (element='esxsd:GetEndorsingBoarder'/) Tj
+0 g
+1 0 0 1 378.075 540.443 Tm (>) Tj
+0 g
+1 0 0 1 85.275 531.155 Tm (<) Tj
+0 g
+1 0 0 1 90.075 531.155 Tm (/wsdl:message) Tj
+0 g
+1 0 0 1 152.475 531.155 Tm (>) Tj
+0 g
+1 0 0 1 75.675 521.867 Tm (<) Tj
+0 g
+1 0 0 1 80.475 521.867 Tm (/wsdl:definitions) Tj
+0 g
+1 0 0 1 162.075 521.867 Tm (>) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 489.425 Tm (Of) Tj
+0 g
+1 0 0 1 85.549 489.425 Tm (course,) Tj
+0 g
+1 0 0 1 124.676 489.425 Tm (the) Tj
+0 g
+1 0 0 1 143.024 489.425 Tm (result) Tj
+0 g
+1 0 0 1 172.977 489.425 Tm (is) Tj
+0 g
+1 0 0 1 183.977 489.425 Tm (missing) Tj
+0 g
+1 0 0 1 224.314 489.425 Tm (some) Tj
+0 g
+1 0 0 1 254.267 489.425 Tm (of) Tj
+0 g
+1 0 0 1 266.499 489.425 Tm (the) Tj
+0 g
+1 0 0 1 284.847 489.425 Tm (good) Tj
+0 g
+1 0 0 1 312.369 489.425 Tm (stuff) Tj
+0 g
+1 0 0 1 336.217 489.425 Tm (that) Tj
+0 g
+1 0 0 1 357.623 489.425 Tm (goes) Tj
+0 g
+1 0 0 1 384.529 489.425 Tm (with) Tj
+0 g
+1 0 0 1 407.145 489.425 Tm (WSDL) Tj
+0 g
+1 0 0 1 441.982 489.425 Tm (descriptions,) Tj
+0 g
+1 0 0 1 70.875 476.25 Tm (such) Tj
+0 g
+1 0 0 1 97.165 476.25 Tm (as) Tj
+0 g
+1 0 0 1 111.839 476.25 Tm (types,) Tj
+0 g
+1 0 0 1 144.245 476.25 Tm (port) Tj
+0 g
+1 0 0 1 166.256 476.25 Tm (types,) Tj
+0 g
+1 0 0 1 198.662 476.25 Tm (and) Tj
+0 g
+1 0 0 1 220.068 476.25 Tm (bindings,) Tj
+0 g
+1 0 0 1 267.148 476.25 Tm (but) Tj
+0 g
+1 0 0 1 285.496 476.25 Tm (these) Tj
+0 g
+1 0 0 1 315.46 476.25 Tm (can) Tj
+0 g
+1 0 0 1 336.25 476.25 Tm (be) Tj
+0 g
+1 0 0 1 351.54 476.25 Tm (added) Tj
+0 g
+1 0 0 1 385.178 476.25 Tm (to) Tj
+0 g
+1 0 0 1 397.41 476.25 Tm (the) Tj
+/F9 11 Tf
+0 g
+1 0 0 1 415.758 476.25 Tm (Wsdl) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 445.216 476.25 Tm (instance) Tj
+0 g
+1 0 0 1 489.238 476.25 Tm (in) Tj
+0 g
+1 0 0 1 70.875 463.075 Tm (similar) Tj
+0 g
+1 0 0 1 105.701 463.075 Tm (fashion) Tj
+0 g
+1 0 0 1 144.223 463.075 Tm (to) Tj
+0 g
+1 0 0 1 156.455 463.075 Tm (how) Tj
+0 g
+1 0 0 1 179.687 463.075 Tm (we) Tj
+0 g
+1 0 0 1 196.803 463.075 Tm (added) Tj
+0 g
+1 0 0 1 230.441 463.075 Tm (the) Tj
+0 g
+1 0 0 1 248.789 463.075 Tm (elements) Tj
+0 g
+1 0 0 1 296.474 463.075 Tm (and) Tj
+0 g
+1 0 0 1 317.88 463.075 Tm (parts.) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (8) Tj
+ET
+
+endstream
+endobj
+105 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 104 0 R
+>>
+endobj
+106 0 obj
+<< /Length 11548 >>
+stream
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 756.696 Tm (Section) Tj
+0 g
+1 0 0 1 135.909 756.696 Tm (5.) Tj
+0 g
+1 0 0 1 155.925 756.696 Tm (Notes) Tj
+0 g
+1 0 0 1 207.945 756.696 Tm (from) Tj
+0 g
+1 0 0 1 248.949 756.696 Tm (implementation) Tj
+0 g
+1 0 0 1 70.875 725.046 Tm (Notes) Tj
+0 g
+1 0 0 1 122.895 725.046 Tm (from) Tj
+0 g
+1 0 0 1 163.899 725.046 Tm (implementation) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 701.422 Tm (Since) Tj
+0 g
+1 0 0 1 101.444 701.422 Tm (WSDL) Tj
+0 g
+1 0 0 1 136.281 701.422 Tm (is) Tj
+0 g
+1 0 0 1 147.281 701.422 Tm (completely) Tj
+0 g
+1 0 0 1 202.908 701.422 Tm (defined) Tj
+0 g
+1 0 0 1 242.046 701.422 Tm (by) Tj
+0 g
+1 0 0 1 256.72 701.422 Tm (its) Tj
+0 g
+1 0 0 1 270.778 701.422 Tm (XML) Tj
+0 g
+1 0 0 1 296.452 701.422 Tm (representation,) Tj
+0 g
+1 0 0 1 372.88 701.422 Tm (one) Tj
+0 g
+1 0 0 1 394.286 701.422 Tm (possible) Tj
+0 g
+1 0 0 1 437.692 701.422 Tm (approach) Tj
+0 g
+1 0 0 1 486.609 701.422 Tm (to) Tj
+0 g
+1 0 0 1 70.875 688.247 Tm (creating) Tj
+0 g
+1 0 0 1 113.06 688.247 Tm (a) Tj
+0 g
+1 0 0 1 122.234 688.247 Tm (WSDL) Tj
+0 g
+1 0 0 1 157.071 688.247 Tm (library) Tj
+0 g
+1 0 0 1 190.071 688.247 Tm (would) Tj
+0 g
+1 0 0 1 221.861 688.247 Tm (be) Tj
+0 g
+1 0 0 1 237.151 688.247 Tm (to) Tj
+0 g
+1 0 0 1 249.383 688.247 Tm (mimic) Tj
+0 g
+1 0 0 1 281.151 688.247 Tm (the) Tj
+0 g
+1 0 0 1 299.499 688.247 Tm (DOM) Tj
+0 g
+1 0 0 1 328.22 688.247 Tm (itself.) Tj
+0 g
+1 0 0 1 356.952 688.247 Tm (Complications) Tj
+0 g
+1 0 0 1 429.079 688.247 Tm (such) Tj
+0 g
+1 0 0 1 455.369 688.247 Tm (as) Tj
+0 g
+1 0 0 1 470.043 688.247 Tm (adding) Tj
+0 g
+1 0 0 1 506.123 688.247 Tm (a) Tj
+0 g
+1 0 0 1 70.875 675.072 Tm (path) Tj
+0 g
+1 0 0 1 95.339 675.072 Tm (to) Tj
+0 g
+1 0 0 1 107.571 675.072 Tm (a) Tj
+0 g
+1 0 0 1 116.745 675.072 Tm (message) Tj
+0 g
+1 0 0 1 164.43 675.072 Tm (can) Tj
+0 g
+1 0 0 1 185.22 675.072 Tm (be) Tj
+0 g
+1 0 0 1 200.51 675.072 Tm (avoided) Tj
+0 g
+1 0 0 1 242.09 675.072 Tm (by) Tj
+0 g
+1 0 0 1 256.764 675.072 Tm (subclassing) Tj
+0 g
+1 0 0 1 317.286 675.072 Tm (the) Tj
+0 g
+1 0 0 1 335.634 675.072 Tm (DOM) Tj
+0 g
+1 0 0 1 364.355 675.072 Tm (with) Tj
+0 g
+1 0 0 1 386.971 675.072 Tm (special) Tj
+0 g
+1 0 0 1 424.261 675.072 Tm (helper) Tj
+0 g
+1 0 0 1 457.888 675.072 Tm (methods) Tj
+0 g
+1 0 0 1 503.131 675.072 Tm (for) Tj
+0 g
+1 0 0 1 70.875 661.897 Tm (WSDL) Tj
+0 g
+1 0 0 1 105.712 661.897 Tm (such) Tj
+0 g
+1 0 0 1 132.002 661.897 Tm (as) Tj
+0 g
+1 0 0 1 146.676 661.897 Tm (the) Tj
+0 g
+1 0 0 1 165.024 661.897 Tm (following) Tj
+0 g
+1 0 0 1 210.872 661.897 Tm (code:) Tj
+/F9 8 Tf
+0 g
+1 0 0 1 75.675 637.588 Tm (WSDL_NS) Tj
+0 g
+1 0 0 1 114.075 637.588 Tm (=) Tj
+0 g
+1 0 0 1 123.675 637.588 Tm ('http://schemas.xmlsoap.org/wsdl/') Tj
+0 g
+1 0 0 1 75.675 628.3 Tm (new_part_node) Tj
+0 g
+1 0 0 1 142.875 628.3 Tm (=) Tj
+0 g
+1 0 0 1 152.475 628.3 Tm (wsdl_doc.createElementNS\(WSDL_NS,) Tj
+0 g
+1 0 0 1 315.675 628.3 Tm ("wsdl:part"\)) Tj
+0 g
+1 0 0 1 75.675 619.012 Tm (new_part_node.setAttributeNS\(None,) Tj
+0 g
+1 0 0 1 243.675 619.012 Tm ("name",) Tj
+0 g
+1 0 0 1 282.075 619.012 Tm ("body"\)) Tj
+0 g
+1 0 0 1 75.675 609.724 Tm (new_part_node.setAttributeNS\(None,) Tj
+0 g
+1 0 0 1 243.675 609.724 Tm ("element",) Tj
+0 g
+1 0 0 1 296.475 609.724 Tm ("esxsd:GetEndorsingBoarder"\)) Tj
+0 g
+1 0 0 1 75.675 600.436 Tm (message_node.appendChild\(new_part_node\)) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 567.994 Tm (However,) Tj
+0 g
+1 0 0 1 120.386 567.994 Tm (even) Tj
+0 g
+1 0 0 1 147.292 567.994 Tm (then,) Tj
+0 g
+1 0 0 1 174.814 567.994 Tm (the) Tj
+0 g
+1 0 0 1 193.162 567.994 Tm (resulting) Tj
+0 g
+1 0 0 1 237.789 567.994 Tm (interface) Tj
+0 g
+1 0 0 1 283.032 567.994 Tm (would) Tj
+0 g
+1 0 0 1 314.822 567.994 Tm (be) Tj
+0 g
+1 0 0 1 330.112 567.994 Tm (far) Tj
+0 g
+1 0 0 1 346.007 567.994 Tm (from) Tj
+0 g
+1 0 0 1 371.065 567.994 Tm (the) Tj
+0 g
+1 0 0 1 389.413 567.994 Tm (most) Tj
+0 g
+1 0 0 1 416.308 567.994 Tm (natural) Tj
+0 g
+1 0 0 1 452.993 567.994 Tm (way) Tj
+0 g
+1 0 0 1 475.609 567.994 Tm (to) Tj
+0 g
+1 0 0 1 487.841 567.994 Tm (view) Tj
+0 g
+1 0 0 1 70.875 554.819 Tm (the) Tj
+0 g
+1 0 0 1 89.223 554.819 Tm (organization) Tj
+0 g
+1 0 0 1 152.198 554.819 Tm (of) Tj
+0 g
+1 0 0 1 164.43 554.819 Tm (the) Tj
+0 g
+1 0 0 1 182.778 554.819 Tm (WSDL) Tj
+0 g
+1 0 0 1 217.615 554.819 Tm (model) Tj
+0 g
+1 0 0 1 250.626 554.819 Tm (in) Tj
+0 g
+1 0 0 1 262.242 554.819 Tm (Python.) Tj
+0 g
+1 0 0 1 70.875 527.644 Tm (Since) Tj
+0 g
+1 0 0 1 101.444 527.644 Tm (most) Tj
+0 g
+1 0 0 1 128.339 527.644 Tm (of) Tj
+0 g
+1 0 0 1 140.571 527.644 Tm (WSDL) Tj
+0 g
+1 0 0 1 175.408 527.644 Tm (consists) Tj
+0 g
+1 0 0 1 218.198 527.644 Tm (of) Tj
+0 g
+1 0 0 1 230.43 527.644 Tm (named) Tj
+0 g
+1 0 0 1 267.115 527.644 Tm (structures,) Tj
+0 g
+1 0 0 1 321.521 527.644 Tm (Python's) Tj
+0 g
+1 0 0 1 366.423 527.644 Tm (dictionaries) Tj
+0 g
+1 0 0 1 425.108 527.644 Tm (are) Tj
+0 g
+1 0 0 1 444.061 527.644 Tm (a) Tj
+0 g
+1 0 0 1 453.235 527.644 Tm (natural) Tj
+0 g
+1 0 0 1 489.92 527.644 Tm (fit) Tj
+0 g
+1 0 0 1 501.536 527.644 Tm (for) Tj
+0 g
+1 0 0 1 70.875 514.469 Tm (handling) Tj
+0 g
+1 0 0 1 115.513 514.469 Tm (them.) Tj
+0 g
+1 0 0 1 146.082 514.469 Tm (However,) Tj
+0 g
+1 0 0 1 195.593 514.469 Tm (this) Tj
+0 g
+1 0 0 1 215.767 514.469 Tm (means) Tj
+0 g
+1 0 0 1 251.836 514.469 Tm (a) Tj
+0 g
+1 0 0 1 261.01 514.469 Tm (complete) Tj
+0 g
+1 0 0 1 308.695 514.469 Tm (break) Tj
+0 g
+1 0 0 1 339.264 514.469 Tm (from) Tj
+0 g
+1 0 0 1 364.322 514.469 Tm (the) Tj
+0 g
+1 0 0 1 382.67 514.469 Tm (DOM) Tj
+0 g
+1 0 0 1 411.391 514.469 Tm (for) Tj
+0 g
+1 0 0 1 427.286 514.469 Tm (the) Tj
+0 g
+1 0 0 1 445.634 514.469 Tm (WSDL) Tj
+0 g
+1 0 0 1 480.471 514.469 Tm (model) Tj
+0 g
+1 0 0 1 70.875 501.294 Tm (and) Tj
+0 g
+1 0 0 1 92.281 501.294 Tm (API.) Tj
+0 g
+1 0 0 1 70.875 474.119 Tm (However,) Tj
+0 g
+1 0 0 1 120.386 474.119 Tm (since) Tj
+0 g
+1 0 0 1 149.118 474.119 Tm (XML) Tj
+0 g
+1 0 0 1 174.792 474.119 Tm (is) Tj
+0 g
+1 0 0 1 185.792 474.119 Tm (the) Tj
+0 g
+1 0 0 1 204.14 474.119 Tm (actual) Tj
+0 g
+1 0 0 1 236.546 474.119 Tm (currency) Tj
+0 g
+1 0 0 1 281.778 474.119 Tm (of) Tj
+0 g
+1 0 0 1 294.01 474.119 Tm (WSDL) Tj
+0 g
+1 0 0 1 328.847 474.119 Tm (descriptions,) Tj
+0 g
+1 0 0 1 393.648 474.119 Tm (conversion) Tj
+0 g
+1 0 0 1 449.891 474.119 Tm (to) Tj
+0 g
+1 0 0 1 462.123 474.119 Tm (and) Tj
+0 g
+1 0 0 1 483.529 474.119 Tm (from) Tj
+0 g
+1 0 0 1 70.875 460.944 Tm (XML) Tj
+0 g
+1 0 0 1 96.549 460.944 Tm (forms) Tj
+0 g
+1 0 0 1 127.107 460.944 Tm (is) Tj
+0 g
+1 0 0 1 138.107 460.944 Tm (essential.) Tj
+0 g
+1 0 0 1 187.629 460.944 Tm (We) Tj
+0 g
+1 0 0 1 207.187 460.944 Tm (chose) Tj
+0 g
+1 0 0 1 239.593 460.944 Tm (to) Tj
+0 g
+1 0 0 1 251.825 460.944 Tm (use) Tj
+0 g
+1 0 0 1 272.615 460.944 Tm (DOM) Tj
+0 g
+1 0 0 1 301.336 460.944 Tm (as) Tj
+0 g
+1 0 0 1 316.01 460.944 Tm (the) Tj
+0 g
+1 0 0 1 334.358 460.944 Tm (basis) Tj
+0 g
+1 0 0 1 363.09 460.944 Tm (for) Tj
+0 g
+1 0 0 1 378.985 460.944 Tm (this) Tj
+0 g
+1 0 0 1 399.159 460.944 Tm (conversion) Tj
+0 g
+1 0 0 1 455.402 460.944 Tm (since) Tj
+0 g
+1 0 0 1 484.134 460.944 Tm (it) Tj
+0 g
+1 0 0 1 492.692 460.944 Tm (is) Tj
+0 g
+1 0 0 1 503.692 460.944 Tm (so) Tj
+0 g
+1 0 0 1 70.875 447.769 Tm (widely) Tj
+0 g
+1 0 0 1 104.491 447.769 Tm (implemented) Tj
+0 g
+1 0 0 1 170.513 447.769 Tm (and) Tj
+0 g
+1 0 0 1 191.919 447.769 Tm (would) Tj
+0 g
+1 0 0 1 223.709 447.769 Tm (fit) Tj
+0 g
+1 0 0 1 235.325 447.769 Tm (into) Tj
+0 g
+1 0 0 1 256.115 447.769 Tm (a) Tj
+0 g
+1 0 0 1 265.289 447.769 Tm (large) Tj
+0 g
+1 0 0 1 292.8 447.769 Tm (number) Tj
+0 g
+1 0 0 1 333.148 447.769 Tm (of) Tj
+0 g
+1 0 0 1 345.38 447.769 Tm (toolki) Tj
+0 g
+1 0 0 1 371.054 447.769 Tm (ts.) Tj
+0 g
+1 0 0 1 385.728 447.769 Tm (Serialized) Tj
+0 g
+1 0 0 1 437.076 447.769 Tm (XML) Tj
+0 g
+1 0 0 1 462.75 447.769 Tm (can) Tj
+0 g
+1 0 0 1 483.54 447.769 Tm (easily) Tj
+0 g
+1 0 0 1 70.875 434.594 Tm (be) Tj
+0 g
+1 0 0 1 86.165 434.594 Tm (obtained) Tj
+0 g
+1 0 0 1 131.419 434.594 Tm (from) Tj
+0 g
+1 0 0 1 156.477 434.594 Tm (DOM.) Tj
+0 g
+1 0 0 1 70.875 407.419 Tm (For) Tj
+0 g
+1 0 0 1 90.433 407.419 Tm (conversion) Tj
+0 g
+1 0 0 1 146.676 407.419 Tm (from) Tj
+0 g
+1 0 0 1 171.734 407.419 Tm (DOM) Tj
+0 g
+1 0 0 1 200.455 407.419 Tm (to) Tj
+0 g
+1 0 0 1 212.687 407.419 Tm (WSDL4Py) Tj
+0 g
+1 0 0 1 266.477 407.419 Tm (model,) Tj
+0 g
+1 0 0 1 302.546 407.419 Tm (standalone) Tj
+0 g
+1 0 0 1 359.416 407.419 Tm (XPath) Tj
+0 g
+1 0 0 1 392.438 407.419 Tm (expressions) Tj
+0 g
+1 0 0 1 454.181 407.419 Tm (\(in) Tj
+0 g
+1 0 0 1 469.46 407.419 Tm (4XPath\)) Tj
+0 g
+1 0 0 1 70.875 394.244 Tm (are) Tj
+0 g
+1 0 0 1 89.828 394.244 Tm (used) Tj
+0 g
+1 0 0 1 116.734 394.244 Tm (to) Tj
+0 g
+1 0 0 1 128.966 394.244 Tm (extract) Tj
+0 g
+1 0 0 1 165.035 394.244 Tm (key) Tj
+0 g
+1 0 0 1 185.209 394.244 Tm (elements) Tj
+0 g
+1 0 0 1 232.894 394.244 Tm (at) Tj
+0 g
+1 0 0 1 245.126 394.244 Tm (the) Tj
+0 g
+1 0 0 1 263.474 394.244 Tm (top) Tj
+0 g
+1 0 0 1 281.822 394.244 Tm (level,) Tj
+0 g
+1 0 0 1 310.554 394.244 Tm (and) Tj
+0 g
+1 0 0 1 331.96 394.244 Tm (the) Tj
+0 g
+1 0 0 1 350.308 394.244 Tm (class) Tj
+0 g
+1 0 0 1 378.424 394.244 Tm (for) Tj
+0 g
+1 0 0 1 394.319 394.244 Tm (each) Tj
+0 g
+1 0 0 1 421.225 394.244 Tm (type) Tj
+0 g
+1 0 0 1 445.073 394.244 Tm (of) Tj
+0 g
+1 0 0 1 457.305 394.244 Tm (element) Tj
+0 g
+1 0 0 1 499.49 394.244 Tm (is) Tj
+0 g
+1 0 0 1 70.875 381.069 Tm (invoked) Tj
+0 g
+1 0 0 1 111.839 381.069 Tm (for) Tj
+0 g
+1 0 0 1 127.734 381.069 Tm (specialized) Tj
+0 g
+1 0 0 1 185.198 381.069 Tm (deserialization) Tj
+0 g
+1 0 0 1 258.557 381.069 Tm (of) Tj
+0 g
+1 0 0 1 270.789 381.069 Tm (each) Tj
+0 g
+1 0 0 1 297.695 381.069 Tm (component) Tj
+0 g
+1 0 0 1 355.17 381.069 Tm (of) Tj
+0 g
+1 0 0 1 367.402 381.069 Tm (the) Tj
+0 g
+1 0 0 1 385.75 381.069 Tm (description,) Tj
+0 g
+1 0 0 1 445.051 381.069 Tm (using) Tj
+0 g
+1 0 0 1 474.399 381.069 Tm (further) Tj
+0 g
+1 0 0 1 70.875 367.894 Tm (XPath) Tj
+0 g
+1 0 0 1 103.897 367.894 Tm (expressions.) Tj
+0 g
+1 0 0 1 168.698 367.894 Tm (This) Tj
+0 g
+1 0 0 1 192.535 367.894 Tm (approach) Tj
+0 g
+1 0 0 1 241.452 367.894 Tm (is) Tj
+0 g
+1 0 0 1 252.452 367.894 Tm (much) Tj
+0 g
+1 0 0 1 282.405 367.894 Tm (more) Tj
+0 g
+1 0 0 1 310.521 367.894 Tm (readable) Tj
+0 g
+1 0 0 1 356.38 367.894 Tm (than) Tj
+0 g
+1 0 0 1 380.844 367.894 Tm (direct) Tj
+0 g
+1 0 0 1 410.797 367.894 Tm (DOM) Tj
+0 g
+1 0 0 1 439.518 367.894 Tm (manipulation,) Tj
+0 g
+1 0 0 1 70.875 354.719 Tm (although) Tj
+0 g
+1 0 0 1 116.129 354.719 Tm (we) Tj
+0 g
+1 0 0 1 133.245 354.719 Tm (do) Tj
+0 g
+1 0 0 1 148.535 354.719 Tm (manipulate) Tj
+0 g
+1 0 0 1 205.394 354.719 Tm (DOM) Tj
+0 g
+1 0 0 1 234.115 354.719 Tm (for) Tj
+0 g
+1 0 0 1 250.01 354.719 Tm (things) Tj
+0 g
+1 0 0 1 282.416 354.719 Tm (such) Tj
+0 g
+1 0 0 1 308.706 354.719 Tm (as) Tj
+0 g
+1 0 0 1 323.38 354.719 Tm (iterating) Tj
+0 g
+1 0 0 1 365.565 354.719 Tm (over) Tj
+0 g
+1 0 0 1 390.018 354.719 Tm (node) Tj
+0 g
+1 0 0 1 417.54 354.719 Tm (lists) Tj
+0 g
+1 0 0 1 439.54 354.719 Tm (that) Tj
+0 g
+1 0 0 1 460.946 354.719 Tm (result) Tj
+0 g
+1 0 0 1 490.899 354.719 Tm (from) Tj
+0 g
+1 0 0 1 70.875 341.544 Tm (XPath) Tj
+0 g
+1 0 0 1 103.897 341.544 Tm (evaluation.) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 491.405 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 517.535 47.32 Tm (9) Tj
+ET
+
+endstream
+endobj
+107 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 106 0 R
+>>
+endobj
+108 0 obj
+<< /Length 4489 >>
+stream
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 756.696 Tm (Section) Tj
+0 g
+1 0 0 1 135.909 756.696 Tm (6.) Tj
+0 g
+1 0 0 1 155.925 756.696 Tm (Web) Tj
+0 g
+1 0 0 1 197.937 756.696 Tm (services) Tj
+0 g
+1 0 0 1 268.947 756.696 Tm (easy) Tj
+0 g
+1 0 0 1 311.967 756.696 Tm (as) Tj
+0 g
+1 0 0 1 335.979 756.696 Tm (py) Tj
+0 g
+1 0 0 1 70.875 725.046 Tm (Web) Tj
+0 g
+1 0 0 1 112.887 725.046 Tm (services) Tj
+0 g
+1 0 0 1 183.897 725.046 Tm (easy) Tj
+0 g
+1 0 0 1 226.917 725.046 Tm (as) Tj
+0 g
+1 0 0 1 250.929 725.046 Tm (py) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 701.422 Tm (Please) Tj
+0 g
+1 0 0 1 107.56 701.422 Tm (feel) Tj
+0 g
+1 0 0 1 128.35 701.422 Tm (free) Tj
+0 g
+1 0 0 1 150.361 701.422 Tm (to) Tj
+0 g
+1 0 0 1 162.593 701.422 Tm (use,) Tj
+0 g
+1 0 0 1 186.441 701.422 Tm (comment) Tj
+0 g
+1 0 0 1 234.731 701.422 Tm (on,) Tj
+0 g
+1 0 0 1 253.079 701.422 Tm (and) Tj
+0 g
+1 0 0 1 274.485 701.422 Tm (contribute) Tj
+0 g
+1 0 0 1 325.844 701.422 Tm (to) Tj
+0 g
+1 0 0 1 338.076 701.422 Tm (WSDL4Py.) Tj
+0 g
+1 0 0 1 394.924 701.422 Tm (The) Tj
+0 g
+1 0 0 1 416.935 701.422 Tm (project) Tj
+0 g
+1 0 0 1 453.004 701.422 Tm (home) Tj
+0 g
+1 0 0 1 483.573 701.422 Tm (page) Tj
+0 g
+1 0 0 1 70.875 688.247 Tm (includes) Tj
+0 g
+1 0 0 1 114.281 688.247 Tm (a) Tj
+0 g
+1 0 0 1 123.455 688.247 Tm (newsgroup) Tj
+0 g
+1 0 0 1 180.314 688.247 Tm (and) Tj
+0 g
+1 0 0 1 201.72 688.247 Tm (public) Tj
+0 g
+1 0 0 1 233.51 688.247 Tm (CVS.) Tj
+0 g
+1 0 0 1 262.242 688.247 Tm (In) Tj
+0 g
+1 0 0 1 274.474 688.247 Tm (general,) Tj
+0 g
+1 0 0 1 317.275 688.247 Tm (Python) Tj
+0 g
+1 0 0 1 354.576 688.247 Tm (is) Tj
+0 g
+1 0 0 1 365.576 688.247 Tm (the) Tj
+0 g
+1 0 0 1 383.924 688.247 Tm (perfect) Tj
+0 g
+1 0 0 1 420.609 688.247 Tm (language) Tj
+0 g
+1 0 0 1 468.921 688.247 Tm (for) Tj
+0 g
+1 0 0 1 484.816 688.247 Tm (Web) Tj
+0 g
+1 0 0 1 70.875 675.072 Tm (services) Tj
+0 g
+1 0 0 1 114.27 675.072 Tm (development.) Tj
+0 g
+1 0 0 1 183.361 675.072 Tm (A) Tj
+0 g
+1 0 0 1 193.756 675.072 Tm (mailing) Tj
+0 g
+1 0 0 1 231.651 675.072 Tm (list) Tj
+0 g
+1 0 0 1 248.151 675.072 Tm (for) Tj
+0 g
+1 0 0 1 264.046 675.072 Tm (Python) Tj
+0 g
+1 0 0 1 301.347 675.072 Tm (Web) Tj
+0 g
+1 0 0 1 327.021 675.072 Tm (services) Tj
+0 g
+1 0 0 1 370.416 675.072 Tm (activity) Tj
+0 g
+1 0 0 1 407.09 675.072 Tm (is) Tj
+0 g
+1 0 0 1 418.09 675.072 Tm (in) Tj
+0 g
+1 0 0 1 429.706 675.072 Tm (the) Tj
+0 g
+1 0 0 1 448.054 675.072 Tm (works,) Tj
+0 g
+1 0 0 1 482.891 675.072 Tm (and) Tj
+0 g
+1 0 0 1 504.297 675.072 Tm (the) Tj
+0 g
+1 0 0 1 70.875 661.897 Tm (number) Tj
+0 g
+1 0 0 1 111.223 661.897 Tm (of) Tj
+0 g
+1 0 0 1 123.455 661.897 Tm (libraries) Tj
+0 g
+1 0 0 1 165.013 661.897 Tm (to) Tj
+0 g
+1 0 0 1 177.245 661.897 Tm (choose) Tj
+0 g
+1 0 0 1 215.767 661.897 Tm (from) Tj
+0 g
+1 0 0 1 240.825 661.897 Tm (is) Tj
+0 g
+1 0 0 1 251.825 661.897 Tm (always) Tj
+0 g
+1 0 0 1 288.499 661.897 Tm (expanding.) Tj
+0 g
+1 0 0 1 345.369 661.897 Tm (See) Tj
+0 g
+1 0 0 1 367.996 661.897 Tm (the) Tj
+0 g
+1 0 0 1 386.344 661.897 Tm (column) Tj
+0 g
+1 0 0 1 424.855 661.897 Tm (") Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 431.818 661.897 Tm (The) Tj
+0 0 1  rg 
+1 0 0 1 453.829 661.897 Tm (Python) Tj
+0 0 1  rg 
+1 0 0 1 491.13 661.897 Tm (Web) Tj
+0 0 1  rg 
+1 0 0 1 70.875 648.722 Tm (services) Tj
+0 0 1  rg 
+1 0 0 1 114.27 648.722 Tm (developer) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 165.629 648.722 Tm (,") Tj
+0 g
+1 0 0 1 175.65 648.722 Tm (also) Tj
+0 g
+1 0 0 1 198.882 648.722 Tm (by) Tj
+0 g
+1 0 0 1 213.556 648.722 Tm (the) Tj
+0 g
+1 0 0 1 231.904 648.722 Tm (authors) Tj
+0 g
+1 0 0 1 271.647 648.722 Tm (of) Tj
+0 g
+1 0 0 1 283.879 648.722 Tm (this) Tj
+0 g
+1 0 0 1 304.053 648.722 Tm (article,) Tj
+0 g
+1 0 0 1 339.506 648.722 Tm (for) Tj
+0 g
+1 0 0 1 355.401 648.722 Tm (more) Tj
+0 g
+1 0 0 1 383.517 648.722 Tm (information) Tj
+0 g
+1 0 0 1 440.981 648.722 Tm (on) Tj
+0 g
+1 0 0 1 456.271 648.722 Tm (the) Tj
+0 g
+1 0 0 1 474.619 648.722 Tm (topic.) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 485.845 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 511.975 47.32 Tm (10) Tj
+ET
+
+endstream
+endobj
+109 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 108 0 R
+/Annots 110 0 R
+>>
+endobj
+110 0 obj
+[
+111 0 R
+112 0 R
+113 0 R
+114 0 R
+115 0 R
+]
+endobj
+111 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 431.818 669.795 450.771 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth1.html)
+/S /URI >>
+/H /I
+>>
+endobj
+112 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 453.829 669.795 488.072 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth1.html)
+/S /URI >>
+/H /I
+>>
+endobj
+113 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 491.13 669.795 513.746 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth1.html)
+/S /URI >>
+/H /I
+>>
+endobj
+114 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 70.875 656.62 111.212 645.62 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth1.html)
+/S /URI >>
+/H /I
+>>
+endobj
+115 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 114.27 656.62 162.571 645.62 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth1.html)
+/S /URI >>
+/H /I
+>>
+endobj
+116 0 obj
+<< /Length 12723 >>
+stream
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 756.696 Tm (Section) Tj
+0 g
+1 0 0 1 135.909 756.696 Tm (7.) Tj
+0 g
+1 0 0 1 155.925 756.696 Tm (resources) Tj
+0 g
+1 0 0 1 70.875 725.046 Tm (Resources) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 701.422 Tm (*) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 94.875 701.422 Tm (Python) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 132.176 701.422 Tm (is) Tj
+0 g
+1 0 0 1 143.176 701.422 Tm (a) Tj
+0 g
+1 0 0 1 152.35 701.422 Tm (popular) Tj
+0 g
+1 0 0 1 192.093 701.422 Tm (general-purpose) Tj
+0 g
+1 0 0 1 278.003 701.422 Tm (application-development) Tj
+0 g
+1 0 0 1 403.04 701.422 Tm (language) Tj
+0 g
+1 0 0 1 451.352 701.422 Tm (famed) Tj
+0 g
+1 0 0 1 484.979 701.422 Tm (for) Tj
+0 g
+1 0 0 1 500.874 701.422 Tm (its) Tj
+0 g
+1 0 0 1 94.875 688.247 Tm (readability,) Tj
+0 g
+1 0 0 1 151.118 688.247 Tm (sensible) Tj
+0 g
+1 0 0 1 194.524 688.247 Tm (design) Tj
+0 g
+1 0 0 1 229.988 688.247 Tm (and) Tj
+0 g
+1 0 0 1 251.394 688.247 Tm (comprehensive) Tj
+0 g
+1 0 0 1 329.032 688.247 Tm (standard) Tj
+0 g
+1 0 0 1 374.891 688.247 Tm (library.) Tj
+0 g
+1 0 0 1 70.875 675.072 Tm (*) Tj
+0 g
+1 0 0 1 94.875 675.072 Tm (There) Tj
+0 g
+1 0 0 1 126.665 675.072 Tm (are) Tj
+0 g
+1 0 0 1 145.618 675.072 Tm (many) Tj
+0 g
+1 0 0 1 175.571 675.072 Tm (online) Tj
+0 g
+1 0 0 1 207.977 675.072 Tm (Python) Tj
+0 g
+1 0 0 1 245.278 675.072 Tm (introductions) Tj
+0 g
+1 0 0 1 310.695 675.072 Tm (and) Tj
+0 g
+1 0 0 1 332.101 675.072 Tm (tutorials.) Tj
+0 g
+1 0 0 1 376.728 675.072 Tm (IBM) Tj
+0 g
+1 0 0 1 399.344 675.072 Tm (developerWorks) Tj
+0 g
+1 0 0 1 481.866 675.072 Tm (presents) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 94.875 661.897 Tm (Python) Tj
+0 0 1  rg 
+1 0 0 1 132.176 661.897 Tm (101) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 153.582 661.897 Tm (by) Tj
+0 g
+1 0 0 1 168.256 661.897 Tm (Evelyn) Tj
+0 g
+1 0 0 1 204.325 661.897 Tm (Mitchell.) Tj
+0 g
+1 0 0 1 70.875 648.722 Tm (*) Tj
+0 g
+1 0 0 1 94.875 648.722 Tm (There) Tj
+0 g
+1 0 0 1 126.665 648.722 Tm (is) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 137.665 648.722 Tm (Python) Tj
+0 0 1  rg 
+1 0 0 1 174.966 648.722 Tm (Programming) Tj
+0 0 1  rg 
+1 0 0 1 244.035 648.722 Tm (for) Tj
+0 0 1  rg 
+1 0 0 1 259.93 648.722 Tm (Beginners) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 312.51 648.722 Tm (on) Tj
+0 g
+1 0 0 1 327.8 648.722 Tm (Linux) Tj
+0 g
+1 0 0 1 357.148 648.722 Tm (Journal.) Tj
+0 g
+1 0 0 1 70.875 635.547 Tm (*) Tj
+0 g
+1 0 0 1 94.875 635.547 Tm (The) Tj
+0 g
+1 0 0 1 116.886 635.547 Tm (Python) Tj
+0 g
+1 0 0 1 154.187 635.547 Tm (documentation) Tj
+0 g
+1 0 0 1 229.394 635.547 Tm (comes) Tj
+0 g
+1 0 0 1 264.847 635.547 Tm (with) Tj
+0 g
+1 0 0 1 287.463 635.547 Tm (a) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 296.637 635.547 Tm (tutorial) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 332.706 635.547 Tm (.) Tj
+0 g
+1 0 0 1 70.875 622.372 Tm (*) Tj
+0 g
+1 0 0 1 94.875 622.372 Tm (Magnus) Tj
+0 g
+1 0 0 1 137.06 622.372 Tm (Lie) Tj
+0 g
+1 0 0 1 154.792 622.372 Tm (Hetland) Tj
+0 g
+1 0 0 1 195.756 622.372 Tm (has) Tj
+0 g
+1 0 0 1 216.546 622.372 Tm (tutorials) Tj
+0 g
+1 0 0 1 258.115 622.372 Tm (for) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 274.01 622.372 Tm (programmers) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 342.463 622.372 Tm (and) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 363.869 622.372 Tm (non-programmers) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 457.094 622.372 Tm (,) Tj
+0 g
+1 0 0 1 463.21 622.372 Tm (which) Tj
+0 g
+1 0 0 1 494.384 622.372 Tm (have) Tj
+0 g
+1 0 0 1 94.875 609.197 Tm (been) Tj
+0 g
+1 0 0 1 122.397 609.197 Tm (translated) Tj
+0 g
+1 0 0 1 173.756 609.197 Tm (to) Tj
+0 g
+1 0 0 1 185.988 609.197 Tm (quite) Tj
+0 g
+1 0 0 1 212.894 609.197 Tm (a) Tj
+0 g
+1 0 0 1 222.068 609.197 Tm (few) Tj
+0 g
+1 0 0 1 242.242 609.197 Tm (languages.) Tj
+0 g
+1 0 0 1 70.875 596.022 Tm (*) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 94.875 596.022 Tm (Josh) Tj
+0 0 1  rg 
+1 0 0 1 121.165 596.022 Tm (Cogliati's) Tj
+0 0 1  rg 
+1 0 0 1 168.498 596.022 Tm (tutorial) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 204.567 596.022 Tm (is) Tj
+0 g
+1 0 0 1 215.567 596.022 Tm (also) Tj
+0 g
+1 0 0 1 238.799 596.022 Tm (a) Tj
+0 g
+1 0 0 1 247.973 596.022 Tm (very) Tj
+0 g
+1 0 0 1 271.81 596.022 Tm (gentle) Tj
+0 g
+1 0 0 1 304.832 596.022 Tm (introduction.) Tj
+0 g
+1 0 0 1 70.875 582.847 Tm (*) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 94.875 582.847 Tm (WSDL) Tj
+0 0 1  rg 
+1 0 0 1 129.712 582.847 Tm (1.1) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 148.06 582.847 Tm (is) Tj
+0 g
+1 0 0 1 159.06 582.847 Tm (a) Tj
+0 g
+1 0 0 1 168.234 582.847 Tm (W3C) Tj
+0 g
+1 0 0 1 195.734 582.847 Tm (Note.) Tj
+0 g
+1 0 0 1 70.875 569.672 Tm (*) Tj
+0 g
+1 0 0 1 94.875 569.672 Tm (Other) Tj
+0 g
+1 0 0 1 125.444 569.672 Tm (WSDL) Tj
+0 g
+1 0 0 1 160.281 569.672 Tm (tools) Tj
+0 g
+1 0 0 1 186.571 569.672 Tm (include) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 224.477 569.672 Tm (IBM's) Tj
+0 0 1  rg 
+1 0 0 1 254.694 569.672 Tm (WSDL) Tj
+0 0 1  rg 
+1 0 0 1 289.531 569.672 Tm (Toolkit) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 324.984 569.672 Tm (and) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 346.39 569.672 Tm (Using) Tj
+0 0 1  rg 
+1 0 0 1 377.564 569.672 Tm (SOAP) Tj
+0 0 1  rg 
+1 0 0 1 411.191 569.672 Tm (with) Tj
+0 0 1  rg 
+1 0 0 1 433.807 569.672 Tm (Tcl) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 451.528 569.672 Tm (.) Tj
+0 g
+1 0 0 1 70.875 556.497 Tm (*) Tj
+0 g
+1 0 0 1 94.875 556.497 Tm (The) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 116.886 556.497 Tm (inaugural) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 165.187 556.497 Tm (installment) Tj
+0 g
+1 0 0 1 220.814 556.497 Tm (of) Tj
+/F2 11 Tf
+0 g
+1 0 0 1 233.046 556.497 Tm (The) Tj
+0 g
+1 0 0 1 255.057 556.497 Tm (Python) Tj
+0 g
+1 0 0 1 292.358 556.497 Tm (Web) Tj
+0 g
+1 0 0 1 318.032 556.497 Tm (services) Tj
+0 g
+1 0 0 1 361.427 556.497 Tm (developer) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 412.786 556.497 Tm (listed) Tj
+0 g
+1 0 0 1 441.518 556.497 Tm (Python) Tj
+0 g
+1 0 0 1 478.819 556.497 Tm (tools) Tj
+0 g
+1 0 0 1 505.109 556.497 Tm (for) Tj
+0 g
+1 0 0 1 94.875 543.322 Tm (Web) Tj
+0 g
+1 0 0 1 120.549 543.322 Tm (service.) Tj
+0 g
+1 0 0 1 161.502 543.322 Tm (The) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 183.513 543.322 Tm (second) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 222.035 543.322 Tm (and) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 243.441 543.322 Tm (third) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 267.894 543.322 Tm (discuss) Tj
+0 g
+1 0 0 1 307.626 543.322 Tm (the) Tj
+0 g
+1 0 0 1 325.974 543.322 Tm (development) Tj
+0 g
+1 0 0 1 392.007 543.322 Tm (of) Tj
+0 g
+1 0 0 1 404.239 543.322 Tm (a) Tj
+0 g
+1 0 0 1 413.413 543.322 Tm (software) Tj
+0 g
+1 0 0 1 458.04 543.322 Tm (repository) Tj
+0 g
+1 0 0 1 94.875 530.147 Tm (Web) Tj
+0 g
+1 0 0 1 120.549 530.147 Tm (service) Tj
+0 g
+1 0 0 1 158.444 530.147 Tm (by) Tj
+0 g
+1 0 0 1 173.118 530.147 Tm (example.) Tj
+0 g
+1 0 0 1 70.875 516.972 Tm (*) Tj
+0 g
+1 0 0 1 94.875 516.972 Tm (Uche) Tj
+0 g
+1 0 0 1 123.607 516.972 Tm (Ogbuji's) Tj
+0 g
+1 0 0 1 166.056 516.972 Tm (earlier) Tj
+0 g
+1 0 0 1 199.672 516.972 Tm (articles) Tj
+0 g
+1 0 0 1 237.567 516.972 Tm (on) Tj
+0 g
+1 0 0 1 252.857 516.972 Tm (WSDL) Tj
+0 g
+1 0 0 1 287.694 516.972 Tm (include) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 325.6 516.972 Tm ("Using) Tj
+0 0 1  rg 
+1 0 0 1 360.679 516.972 Tm (WSDL) Tj
+0 0 1  rg 
+1 0 0 1 395.516 516.972 Tm (in) Tj
+0 0 1  rg 
+1 0 0 1 407.132 516.972 Tm (SOAP) Tj
+0 0 1  rg 
+1 0 0 1 440.759 516.972 Tm (applications") Tj
+/F1 11 Tf
+0 g
+1 0 0 1 505.802 516.972 Tm (,) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 94.875 503.797 Tm ("Supercharging) Tj
+0 0 1  rg 
+1 0 0 1 173.371 503.797 Tm (WSDL) Tj
+0 0 1  rg 
+1 0 0 1 208.208 503.797 Tm (with) Tj
+0 0 1  rg 
+1 0 0 1 230.824 503.797 Tm (RDF) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 256.487 503.797 Tm (,") Tj
+0 g
+1 0 0 1 266.508 503.797 Tm (and) Tj
+/F2 11 Tf
+0 0 1  rg 
+1 0 0 1 287.914 503.797 Tm ("WSDL) Tj
+0 0 1  rg 
+1 0 0 1 326.656 503.797 Tm (processing) Tj
+0 0 1  rg 
+1 0 0 1 382.899 503.797 Tm (with) Tj
+0 0 1  rg 
+1 0 0 1 405.515 503.797 Tm (XSLT) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 436.084 503.797 Tm (.") Tj
+ET
+q
+0 G
+70.875 469.02 m 524.475 469.02 l 1.0 w S
+Q
+BT
+/F1 18 Tf
+0 g
+1 0 0 1 70.875 439.596 Tm (Your) Tj
+0 g
+1 0 0 1 113.895 439.596 Tm (feedback) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 415.972 Tm (Please) Tj
+0 g
+1 0 0 1 107.56 415.972 Tm (let) Tj
+0 g
+1 0 0 1 122.234 415.972 Tm (us) Tj
+0 g
+1 0 0 1 136.908 415.972 Tm (know) Tj
+0 g
+1 0 0 1 165.64 415.972 Tm (whether) Tj
+0 g
+1 0 0 1 207.825 415.972 Tm (this) Tj
+0 g
+1 0 0 1 227.999 415.972 Tm (tutorial) Tj
+0 g
+1 0 0 1 264.068 415.972 Tm (was) Tj
+0 g
+1 0 0 1 286.684 415.972 Tm (helpful) Tj
+0 g
+1 0 0 1 322.148 415.972 Tm (to) Tj
+0 g
+1 0 0 1 334.38 415.972 Tm (you) Tj
+0 g
+1 0 0 1 355.17 415.972 Tm (and) Tj
+0 g
+1 0 0 1 376.576 415.972 Tm (how) Tj
+0 g
+1 0 0 1 399.808 415.972 Tm (we) Tj
+0 g
+1 0 0 1 416.924 415.972 Tm (could) Tj
+0 g
+1 0 0 1 446.272 415.972 Tm (make) Tj
+0 g
+1 0 0 1 476.225 415.972 Tm (it) Tj
+0 g
+1 0 0 1 484.783 415.972 Tm (better.) Tj
+0 g
+1 0 0 1 70.875 402.797 Tm (Feel) Tj
+0 g
+1 0 0 1 95.328 402.797 Tm (free) Tj
+0 g
+1 0 0 1 117.339 402.797 Tm (to) Tj
+0 g
+1 0 0 1 129.571 402.797 Tm (suggest) Tj
+0 g
+1 0 0 1 171.151 402.797 Tm (improvements) Tj
+0 g
+1 0 0 1 243.278 402.797 Tm (or) Tj
+0 g
+1 0 0 1 256.115 402.797 Tm (other) Tj
+0 g
+1 0 0 1 284.242 402.797 Tm (tutorial) Tj
+0 g
+1 0 0 1 320.311 402.797 Tm (topics) Tj
+0 g
+1 0 0 1 352.101 402.797 Tm (you'd) Tj
+0 g
+1 0 0 1 381.108 402.797 Tm (like) Tj
+0 g
+1 0 0 1 400.666 402.797 Tm (to) Tj
+0 g
+1 0 0 1 412.898 402.797 Tm (see) Tj
+0 g
+1 0 0 1 433.688 402.797 Tm (covered.) Tj
+0 g
+1 0 0 1 478.931 402.797 Tm (Thanks!) Tj
+ET
+q
+0 G
+70.875 373.02 m 524.475 373.02 l 1.0 w S
+Q
+BT
+ET
+q
+0 G
+70.875 367.02 m 524.475 367.02 l 1.0 w S
+Q
+BT
+/F1 14 Tf
+0 g
+1 0 0 1 70.875 333.968 Tm (Colophon) Tj
+/F1 11 Tf
+0 g
+1 0 0 1 70.875 311.672 Tm (This) Tj
+0 g
+1 0 0 1 94.712 311.672 Tm (tutorial) Tj
+0 g
+1 0 0 1 130.781 311.672 Tm (was) Tj
+0 g
+1 0 0 1 153.397 311.672 Tm (written) Tj
+0 g
+1 0 0 1 188.85 311.672 Tm (entirely) Tj
+0 g
+1 0 0 1 227.361 311.672 Tm (in) Tj
+0 g
+1 0 0 1 238.977 311.672 Tm (XML,) Tj
+0 g
+1 0 0 1 267.709 311.672 Tm (using) Tj
+0 g
+1 0 0 1 297.057 311.672 Tm (the) Tj
+0 g
+1 0 0 1 315.405 311.672 Tm (developerWorks) Tj
+0 g
+1 0 0 1 397.927 311.672 Tm (Toot-O-Matic) Tj
+0 g
+1 0 0 1 470.681 311.672 Tm (tutorial) Tj
+0 g
+1 0 0 1 70.875 298.497 Tm (generator.) Tj
+0 g
+1 0 0 1 124.071 298.497 Tm (The) Tj
+0 g
+1 0 0 1 146.082 298.497 Tm (Toot-O-Matic) Tj
+0 g
+1 0 0 1 218.836 298.497 Tm (tool) Tj
+0 g
+1 0 0 1 239.626 298.497 Tm (is) Tj
+0 g
+1 0 0 1 250.626 298.497 Tm (a) Tj
+0 g
+1 0 0 1 259.8 298.497 Tm (short) Tj
+0 g
+1 0 0 1 287.311 298.497 Tm (Java) Tj
+0 g
+1 0 0 1 313.601 298.497 Tm (program) Tj
+0 g
+1 0 0 1 357.612 298.497 Tm (that) Tj
+0 g
+1 0 0 1 379.018 298.497 Tm (uses) Tj
+0 g
+1 0 0 1 405.308 298.497 Tm (XSLT) Tj
+0 g
+1 0 0 1 435.877 298.497 Tm (stylesheets) Tj
+0 g
+1 0 0 1 493.957 298.497 Tm (to) Tj
+0 g
+1 0 0 1 70.875 285.322 Tm (convert) Tj
+0 g
+1 0 0 1 110.002 285.322 Tm (the) Tj
+0 g
+1 0 0 1 128.35 285.322 Tm (XML) Tj
+0 g
+1 0 0 1 154.024 285.322 Tm (source) Tj
+0 g
+1 0 0 1 190.093 285.322 Tm (into) Tj
+0 g
+1 0 0 1 210.883 285.322 Tm (a) Tj
+0 g
+1 0 0 1 220.057 285.322 Tm (number) Tj
+0 g
+1 0 0 1 260.405 285.322 Tm (of) Tj
+0 g
+1 0 0 1 272.637 285.322 Tm (HTML) Tj
+0 g
+1 0 0 1 305.637 285.322 Tm (pages,) Tj
+0 g
+1 0 0 1 341.717 285.322 Tm (a) Tj
+0 g
+1 0 0 1 350.891 285.322 Tm (zip) Tj
+0 g
+1 0 0 1 368.007 285.322 Tm (file,) Tj
+0 g
+1 0 0 1 388.181 285.322 Tm (JPEG) Tj
+0 g
+1 0 0 1 419.971 285.322 Tm (heading) Tj
+0 g
+1 0 0 1 462.167 285.322 Tm (graphics,) Tj
+0 g
+1 0 0 1 70.875 272.147 Tm (and) Tj
+0 g
+1 0 0 1 92.281 272.147 Tm (PDF) Tj
+0 g
+1 0 0 1 117.339 272.147 Tm (files.) Tj
+0 g
+1 0 0 1 143.013 272.147 Tm (Our) Tj
+0 g
+1 0 0 1 164.408 272.147 Tm (ability) Tj
+0 g
+1 0 0 1 195.582 272.147 Tm (to) Tj
+0 g
+1 0 0 1 207.814 272.147 Tm (generate) Tj
+0 g
+1 0 0 1 254.289 272.147 Tm (multiple) Tj
+0 g
+1 0 0 1 295.242 272.147 Tm (text) Tj
+0 g
+1 0 0 1 316.032 272.147 Tm (and) Tj
+0 g
+1 0 0 1 337.438 272.147 Tm (binary) Tj
+0 g
+1 0 0 1 370.449 272.147 Tm (formats) Tj
+0 g
+1 0 0 1 410.181 272.147 Tm (from) Tj
+0 g
+1 0 0 1 435.239 272.147 Tm (a) Tj
+0 g
+1 0 0 1 444.413 272.147 Tm (single) Tj
+0 g
+1 0 0 1 476.203 272.147 Tm (source) Tj
+0 g
+1 0 0 1 70.875 258.972 Tm (file) Tj
+0 g
+1 0 0 1 87.991 258.972 Tm (illustrates) Tj
+0 g
+1 0 0 1 137.502 258.972 Tm (the) Tj
+0 g
+1 0 0 1 155.85 258.972 Tm (power) Tj
+0 g
+1 0 0 1 188.861 258.972 Tm (and) Tj
+0 g
+1 0 0 1 210.267 258.972 Tm (flexibility) Tj
+0 g
+1 0 0 1 254.883 258.972 Tm (of) Tj
+0 g
+1 0 0 1 267.115 258.972 Tm (XML.) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 804.265 Tm (Presented) Tj
+0 g
+1 0 0 1 119.235 804.265 Tm (by) Tj
+0 g
+1 0 0 1 132.575 804.265 Tm (developerWorks,) Tj
+0 g
+1 0 0 1 210.375 804.265 Tm (your) Tj
+0 g
+1 0 0 1 232.605 804.265 Tm (source) Tj
+0 g
+1 0 0 1 265.395 804.265 Tm (for) Tj
+0 g
+1 0 0 1 279.845 804.265 Tm (great) Tj
+0 g
+1 0 0 1 305.415 804.265 Tm (tutorials) Tj
+/F9 10 Tf
+0 g
+1 0 0 1 393.875 805.155 Tm (ibm.com/developerWorks) Tj
+/F1 10 Tf
+0 g
+1 0 0 1 70.875 47.32 Tm (Processing) Tj
+0 g
+1 0 0 1 123.115 47.32 Tm (WSDL) Tj
+0 g
+1 0 0 1 154.785 47.32 Tm (in) Tj
+0 g
+1 0 0 1 165.345 47.32 Tm (Python) Tj
+0 g
+1 0 0 1 485.845 47.32 Tm (Page) Tj
+0 g
+1 0 0 1 511.975 47.32 Tm (11) Tj
+ET
+
+endstream
+endobj
+117 0 obj
+<< /Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 595 841 ]
+/Resources 4 0 R
+/Contents 116 0 R
+/Annots 118 0 R
+>>
+endobj
+118 0 obj
+[
+119 0 R
+120 0 R
+121 0 R
+122 0 R
+123 0 R
+124 0 R
+125 0 R
+126 0 R
+127 0 R
+128 0 R
+129 0 R
+130 0 R
+131 0 R
+132 0 R
+133 0 R
+134 0 R
+135 0 R
+136 0 R
+137 0 R
+138 0 R
+139 0 R
+140 0 R
+141 0 R
+142 0 R
+143 0 R
+144 0 R
+145 0 R
+146 0 R
+147 0 R
+148 0 R
+149 0 R
+150 0 R
+151 0 R
+152 0 R
+153 0 R
+154 0 R
+155 0 R
+156 0 R
+]
+endobj
+119 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 94.875 709.32 129.118 698.32 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://python.org)
+/S /URI >>
+/H /I
+>>
+endobj
+120 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 94.875 669.795 129.118 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/library/python101.html)
+/S /URI >>
+/H /I
+>>
+endobj
+121 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 132.176 669.795 150.524 658.795 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/library/python101.html)
+/S /URI >>
+/H /I
+>>
+endobj
+122 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 137.665 656.62 171.908 645.62 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www2.linuxjournal.com/lj-issues/issue73/3946.html)
+/S /URI >>
+/H /I
+>>
+endobj
+123 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 174.966 656.62 240.977 645.62 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www2.linuxjournal.com/lj-issues/issue73/3946.html)
+/S /URI >>
+/H /I
+>>
+endobj
+124 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 244.035 656.62 256.872 645.62 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www2.linuxjournal.com/lj-issues/issue73/3946.html)
+/S /URI >>
+/H /I
+>>
+endobj
+125 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 259.93 656.62 309.452 645.62 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www2.linuxjournal.com/lj-issues/issue73/3946.html)
+/S /URI >>
+/H /I
+>>
+endobj
+126 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 296.637 643.445 329.648 632.445 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.python.org/doc/current/tut/tut.html)
+/S /URI >>
+/H /I
+>>
+endobj
+127 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 274.01 630.27 339.405 619.27 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.idi.ntnu.no/~mlh/python/instant.html)
+/S /URI >>
+/H /I
+>>
+endobj
+128 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 363.869 630.27 454.036 619.27 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.idi.ntnu.no/~mlh/python/programming.html)
+/S /URI >>
+/H /I
+>>
+endobj
+129 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 94.875 603.92 118.107 592.92 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.honors.montana.edu/~jjc/easytut/easytut/)
+/S /URI >>
+/H /I
+>>
+endobj
+130 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 121.165 603.92 165.44 592.92 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.honors.montana.edu/~jjc/easytut/easytut/)
+/S /URI >>
+/H /I
+>>
+endobj
+131 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 168.498 603.92 201.509 592.92 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.honors.montana.edu/~jjc/easytut/easytut/)
+/S /URI >>
+/H /I
+>>
+endobj
+132 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 94.875 590.745 126.654 579.745 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.w3.org/TR/wsdl)
+/S /URI >>
+/H /I
+>>
+endobj
+133 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 129.712 590.745 145.002 579.745 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www.w3.org/TR/wsdl)
+/S /URI >>
+/H /I
+>>
+endobj
+134 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 224.477 577.57 251.636 566.57 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/cgi-bin/click.cgi?url=www.alphaworks.ibm.com/tech/wsdltoolkit&origin=ws)
+/S /URI >>
+/H /I
+>>
+endobj
+135 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 254.694 577.57 286.473 566.57 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/cgi-bin/click.cgi?url=www.alphaworks.ibm.com/tech/wsdltoolkit&origin=ws)
+/S /URI >>
+/H /I
+>>
+endobj
+136 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 289.531 577.57 321.926 566.57 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/cgi-bin/click.cgi?url=www.alphaworks.ibm.com/tech/wsdltoolkit&origin=ws)
+/S /URI >>
+/H /I
+>>
+endobj
+137 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 346.39 577.57 374.506 566.57 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-105.ibm.com/developerworks/education.nsf/webservices-onlinecourse-bytitle/19E5B7B7641964C786256A610065361A?OpenDocument)
+/S /URI >>
+/H /I
+>>
+endobj
+138 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 377.564 577.57 408.133 566.57 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-105.ibm.com/developerworks/education.nsf/webservices-onlinecourse-bytitle/19E5B7B7641964C786256A610065361A?OpenDocument)
+/S /URI >>
+/H /I
+>>
+endobj
+139 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 411.191 577.57 430.749 566.57 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-105.ibm.com/developerworks/education.nsf/webservices-onlinecourse-bytitle/19E5B7B7641964C786256A610065361A?OpenDocument)
+/S /URI >>
+/H /I
+>>
+endobj
+140 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 433.807 577.57 448.47 566.57 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-105.ibm.com/developerworks/education.nsf/webservices-onlinecourse-bytitle/19E5B7B7641964C786256A610065361A?OpenDocument)
+/S /URI >>
+/H /I
+>>
+endobj
+141 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 116.886 564.395 162.129 553.395 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth1.html)
+/S /URI >>
+/H /I
+>>
+endobj
+142 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 183.513 551.22 218.977 540.22 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth2/)
+/S /URI >>
+/H /I
+>>
+endobj
+143 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 243.441 551.22 264.836 540.22 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-pyth3/)
+/S /URI >>
+/H /I
+>>
+endobj
+144 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 325.6 524.87 357.621 513.87 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-soap/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+145 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 360.679 524.87 392.458 513.87 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-soap/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+146 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 395.516 524.87 404.074 513.87 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-soap/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+147 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 407.132 524.87 437.701 513.87 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-soap/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+148 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 440.759 524.87 502.744 513.87 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-soap/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+149 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 94.875 511.695 170.313 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-rdf/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+150 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 173.371 511.695 205.15 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-rdf/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+151 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 208.208 511.695 227.766 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-rdf/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+152 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 230.824 511.695 253.429 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-rdf/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+153 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 287.914 511.695 323.598 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-trans/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+154 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 326.656 511.695 379.841 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-trans/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+155 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 382.899 511.695 402.457 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-trans/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+156 0 obj
+<< /Type /Annot
+/Subtype /Link
+/Rect [ 405.515 511.695 433.026 500.695 ]
+/C [ 0 0 0 ]
+/Border [ 0 0 0 ]
+/A << /URI (http://www-106.ibm.com/developerworks/webservices/library/ws-trans/index.html)
+/S /URI >>
+/H /I
+>>
+endobj
+xref
+0 157
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000192 00000 n 
+0000000248 00000 n 
+0000000498 00000 n 
+0000000609 00000 n 
+0000000723 00000 n 
+0000000828 00000 n 
+0000000942 00000 n 
+0000001050 00000 n 
+0000001161 00000 n 
+0000001271 00000 n 
+0000001391 00000 n 
+0000001504 00000 n 
+0000001620 00000 n 
+0000001728 00000 n 
+0000001841 00000 n 
+0000001948 00000 n 
+0000002067 00000 n 
+0000005658 00000 n 
+0000005781 00000 n 
+0000006039 00000 n 
+0000006176 00000 n 
+0000006243 00000 n 
+0000006381 00000 n 
+0000006520 00000 n 
+0000006657 00000 n 
+0000006724 00000 n 
+0000006862 00000 n 
+0000007001 00000 n 
+0000007140 00000 n 
+0000007277 00000 n 
+0000007344 00000 n 
+0000007482 00000 n 
+0000007621 00000 n 
+0000007760 00000 n 
+0000007899 00000 n 
+0000008038 00000 n 
+0000008175 00000 n 
+0000008242 00000 n 
+0000008380 00000 n 
+0000008519 00000 n 
+0000008658 00000 n 
+0000008797 00000 n 
+0000008936 00000 n 
+0000009073 00000 n 
+0000009141 00000 n 
+0000009279 00000 n 
+0000009418 00000 n 
+0000009557 00000 n 
+0000009696 00000 n 
+0000009833 00000 n 
+0000009901 00000 n 
+0000010039 00000 n 
+0000010178 00000 n 
+0000010317 00000 n 
+0000010456 00000 n 
+0000010595 00000 n 
+0000010734 00000 n 
+0000010871 00000 n 
+0000010939 00000 n 
+0000011077 00000 n 
+0000011216 00000 n 
+0000016763 00000 n 
+0000016871 00000 n 
+0000023836 00000 n 
+0000023944 00000 n 
+0000039831 00000 n 
+0000039939 00000 n 
+0000049608 00000 n 
+0000069248 00000 n 
+0000069356 00000 n 
+0000070321 00000 n 
+0000070429 00000 n 
+0000084033 00000 n 
+0000084156 00000 n 
+0000084355 00000 n 
+0000084494 00000 n 
+0000084562 00000 n 
+0000084701 00000 n 
+0000084840 00000 n 
+0000084979 00000 n 
+0000085116 00000 n 
+0000085255 00000 n 
+0000085394 00000 n 
+0000085533 00000 n 
+0000085672 00000 n 
+0000085811 00000 n 
+0000085949 00000 n 
+0000086088 00000 n 
+0000086227 00000 n 
+0000086295 00000 n 
+0000086434 00000 n 
+0000086572 00000 n 
+0000086711 00000 n 
+0000086850 00000 n 
+0000086989 00000 n 
+0000087128 00000 n 
+0000087266 00000 n 
+0000087405 00000 n 
+0000087545 00000 n 
+0000087685 00000 n 
+0000087824 00000 n 
+0000087963 00000 n 
+0000094255 00000 n 
+0000094365 00000 n 
+0000105967 00000 n 
+0000106077 00000 n 
+0000110619 00000 n 
+0000110745 00000 n 
+0000110806 00000 n 
+0000111032 00000 n 
+0000111258 00000 n 
+0000111483 00000 n 
+0000111706 00000 n 
+0000111929 00000 n 
+0000124706 00000 n 
+0000124832 00000 n 
+0000125157 00000 n 
+0000125326 00000 n 
+0000125540 00000 n 
+0000125755 00000 n 
+0000125964 00000 n 
+0000126173 00000 n 
+0000126382 00000 n 
+0000126590 00000 n 
+0000126791 00000 n 
+0000126990 00000 n 
+0000127194 00000 n 
+0000127397 00000 n 
+0000127600 00000 n 
+0000127804 00000 n 
+0000127983 00000 n 
+0000128163 00000 n 
+0000128425 00000 n 
+0000128687 00000 n 
+0000128949 00000 n 
+0000129231 00000 n 
+0000129514 00000 n 
+0000129797 00000 n 
+0000130079 00000 n 
+0000130305 00000 n 
+0000130525 00000 n 
+0000130745 00000 n 
+0000130972 00000 n 
+0000131201 00000 n 
+0000131430 00000 n 
+0000131659 00000 n 
+0000131888 00000 n 
+0000132117 00000 n 
+0000132346 00000 n 
+0000132576 00000 n 
+0000132806 00000 n 
+0000133038 00000 n 
+0000133270 00000 n 
+0000133502 00000 n 
+trailer
+<<
+/Size 157
+/Root 1 0 R
+/Info 3 0 R
+>>
+startxref
+133734
+%%EOF

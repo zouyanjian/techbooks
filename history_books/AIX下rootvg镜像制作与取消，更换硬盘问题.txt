@@ -1,0 +1,155 @@
+ROOTVG做镜像问题
+以下命令全部在AIX5.4上运行通过
+# lspv
+hdisk0      000a1ddc7f36a2f0      rootvg      active
+hdisk1      none                            None        
+#chdev -l hdisk1 -a pv=clear
+#chdev -l hdisk1 -a pv=yes
+hdisk1 changed
+# lspv
+hdisk0      000a1ddc7f36a2f0      rootvg      active
+hdisk1      000a1ddcd9e3cc9e      None
+#extendvg rootvg hdisk1      //如果hdisk1内有数据在做extend的时侯hdisk1里面的数据就没了
+#extendvg -f rootvg hdisk1   //强制把hdisk1加入到rootvg中
+#lspv
+hdisk0       000a1ddc7f36a2f0        rootvg                 active
+hdisk1       000a1ddcd9e3cc9e       rootvg                 active
+#mirrorvg rootvg hdisk1
+#mirrorvg rootvg
+0516-1124 mirrorvg: Quorum requirement turned off, reboot system for this
+to take effect for rootvg.
+0516-1126 mirrorvg: rootvg successfully mirrored, user should perform
+bosboot of system to initialize boot records.   Then, user must modify
+bootlist to include:   hdisk0 hdisk1.
+//查看mirror是否完成了
+//如何查看硬盘是否做过mirror?
+#lsvg -l rootvg 
+rootvg:
+LV NAME     TYPE     LPs     PPs     PVs    LV STATE       MOUNT POINT
+hd5              boot     1        2         2        closed/syncd N/A
+hd6              paging  2        4         2        open/syncd   N/A
+hd8              jfslog    1        2         2        open/syncd   N/A
+hd4              jfs        1         2         2        open/syncd   /
+hd2              jfs        33       66        2        open/syncd   /usr
+hd9var         jfs        1         2         2        open/syncd   /var
+hd3              jfs        1         2         2        open/syncd   /tmp
+hd1              jfs        1         2         2        open/syncd   /home
+Hd10opt      jfs        4         8         2        open/syncd   /opt
+说明： LPx2=PP 表示一份镜像，LP=PP表示没做镜像，LPx3=PP表示有二份镜像。
+LPx2=PP,是指一份LP的数据，对应两份PP的数据，物理上是有2份拷贝的
+# lsvg rootvg
+VOLUME GROUP:   rootvg              VG IDENTIFIER:   000a1ddc00004c00000001197f36bcd3
+VG STATE:               active               PP SIZE:              32 megabyte(s)
+VG PERMISSION:    read/write        TOTAL PPs:         1084 (34688 megabytes)
+MAX LVs:                256                  FREE PPs:            994 (31808 megabytes)
+LVs:                         9                     USED PPs:           90 (2880 megabytes)
+OPEN LVs:               8                     QUORUM:          1
+TOTAL PVs:              2                     VG DESCRIPTORS:  3
+STALE PVs:               0                     STALE PPs:         0
+ACTIVE PVs:             2                     AUTO ON:         yes
+MAX PPs per VG: 32512 0
+MAX PPs per PV: 1016                    MAX PVs:           32
+LTG size (Dynamic): 256 kilobyte(s) AUTO SYNC:       no
+HOT SPARE: no                           BB POLICY:             relocatable
+说明：
+QUORUM:       1 表示没有，
+QUORUM:       2 表示有。
+# bootlist -m normal -o
+hdisk0
+# bosboot -ad /dev/hdisk1
+# bootlist -m normal hdisk1 hdisk0
+# bootlist -m normal -o
+hdisk1
+hdisk0
+# shutdown -Fr
+说明：AIX：rootvg镜像。使两个硬盘均可启动。好处：主启动硬盘坏时，可以用另一硬盘启动机器.
+备注：
+chdev -l hdisk1 -a pv=yes是安全的，如果它运行不成功，那创建VG肯定失败，因为mkvg就是调用的它
+后记：
+# unmirrorvg rootvg hdisk1   //把rootvg 的mirror去掉
+# chpv -c hdisk1                   //去掉hdisk1的引导信息
+# reducevg rootvg hdisk1     //从rootvg中删除hdisk1
+#rmdev -dl hdisk1                 //删除硬件设备(加-R表示强制删除)
+# bootlist -m normal hdisk0
+备注：
+1、如果向unmirrorvg rootvg不指定盘是很危险的，一般不指定盘不要用此命令
+
+具体操作步骤如下 ：
+a)        查看一下当前可用的硬盘：
+# lspv
+hdisk0        0002d74f0e69d97a         rootvg
+hdisk1        0002d74fea8ad09d         none
+hdisk2        000214dadca3a694         dbbakvg
+hdisk3        0002d74f1e67ac3b         dbbakvg
+在此例中，hdisk0是系统安装后默认使用的硬盘，而hdisk1最后的一项属性显示为“none”，说明此硬盘未被任何VG使用，可以用它来做rootvg的
+镜像。
+b) 检查 hdisk1 是否可作为由 AIX 支持的引导设备： 
+# bootinfo -B hdisk1
+如果此命令返回值 1，则选择的磁盘可以由 AIX 引导。任何其它值表示 hdisk1 不是 rootvg 制作镜像的候选。
+c) 扩展rootvg以包含hdisk1：
+# extendvg rootvg hdisk1
+如果hisk1之前被其他VG用过，可以用 -f 参数#extendvg -f rootvg hdisk1
+d) 取消VG中的物理卷限额管理(在VG中只要有任一PV有效,此VG就可用)：
+# chvg -Qn rootvg
+运行之后，再用lsvg rootvg查看，QUORUM项的值将是1
+e) 对rootvg进行镜像操作
+# mirrorvg –c 2 rootvg
+此项工作所需要的时间与rootvg当前所用的空间大小有关，实际操作中，95 GB的大小，用了2个小时。
+f) 在rootvg的两块盘上创建引导信息
+# bosboot –ad hdisk0
+# bosboot –ad hdisk1
+g) 设备系统启动设备的顺序
+# bootlist–m normal hdisk0 hdisk1 cd0
+到此，rootvg的镜像工作就完成了。
+ 
+
+更换硬盘问题
+步骤1：先unmirror，然后把hdisk2从datavg中退出，再用rmdev把hdisk2删掉；
+步骤2：关机，取出hdisk2，把新的73G硬盘放入，开机；
+步骤3：把新的73G硬盘加入datavg，再migratepv -l hdisk1 hdisk2 把hdisk1的内容复制到新硬盘上；
+步骤4：然后用同样的办法把hdisk1替换掉。
+ 
+ 
+AIX下镜像的制作与取消
+
+前提：文中hdiskn代表新加入的磁盘
+大致步骤是：添加新硬盘、扫描设备、查看设备是否正常、添加pvid、加入卷组、做mirror、给新硬盘添加引导信息、重新设置引导顺序。
+1.lsp查看物理卷。这是没有发现新硬件，我们就开始扫描设备
+cfgmgr  -v
+2.发现新硬件后，这是我们要看下物理卷的属性。
+lsdev  -Cc  disk
+这时我们会发现新的物理卷没有pvid
+3.添加pvid。
+chdev -l   hdiskn  -a  pv=yes
+hdiskn里面的N表示一个变量，它代表新磁盘的标号
+我们也可以使用chdev  -l hdisk1 -a pv=clear来删除pvid
+4.加入卷组
+extendvg   rootvg  hdiskn //如果hdiskn内有数据在做extend的时侯，hdiskn里面的东西就没了
+这部也是两个磁盘做mirror的前提，因为做镜像的所有磁盘必须在同一个卷组里面。
+5.创建mirror
+mirrorvg  -c  2  rootvg 
+做mirror只有两种情况，就2个或3个盘做镜像。如果是两个的话我们也可以直接这样做：
+mirrorvg  rootvg 因为默认是两个也没有必要指定源和目的磁盘。但如果是3块磁盘做镜像就必须指定源和目的磁盘。
+mirrorvg  -c  3  rootvg  hdisk0  hdisk1
+6.验证mirror是否创建成功
+lsvg  -l  rootvg
+查看里面的pps和pvs的对应关系.1:1表示没有成功、1：2表示成功做双磁盘镜像、1：3表示成功做3磁盘镜像。
+也可以用lsvg  rootvg来查看，主要时看里面的QUORUM
+QUORUM:         1 表示没有，
+QUORUM:         2 表示有。
+7.给新磁盘做新的引导信息
+ 查看当前的引导顺序
+bootlist  -m  normal  -o
+给hdiskn添加引导信息
+bosboot  -ad  /dev/hdiskn
+重新设置引导顺序，让hdiskn为最优先。看能不启动系统
+bootlist  -m  normal hdiskn hdisk0 cdrom
+8.重新启动下系统
+shutdown  -Fr
+撤销mirror
+1.把rootvg 的mirror去掉
+unmirrorvg  rootvg hdiskn
+2.去掉hdiskn的引导信息
+chpv  -c  hdisk1
+3.重新设置下启动顺序
+bootlist  -m  normal hdisk0

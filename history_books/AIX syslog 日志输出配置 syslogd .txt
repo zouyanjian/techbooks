@@ -1,0 +1,63 @@
+AIX系统中的syslogd是记录系统日志的进程。根据syslogd的配置，它只记录关键性的错误或者调试信息。默认情况下是不错记录的。配置信息默认情况下写在/etc/syslog.conf里，可通过syslogd命令指定一个配置文件。   
+
+下面是 /etc/syslog.conf 文件用法的几个示例：
+
+    要将调试级或以上的所有邮件功能消息记录到文件 /tmp/mailsyslog，可以输入以下命令：
+
+      mail.debug /tmp/mailsyslog
+
+          其中：
+
+          mail 是功能。
+
+          debug 是优先级。
+
+          /tmp/mailsyslog 是目标。
+
+    要将除来自邮件功能以外的所有系统消息发送到名为 rigil 的主机（此处可以直接使用IP地址），可以输入以下命令：
+
+      *.debug;mail.none @rigil
+
+          其中：
+
+          * 和 mail 是功能。
+
+          debug 和 none 是优先级。
+
+          @rigil 是目标。
+
+    要将来自所有功能的 emerg 优先级的消息和来自邮件及守护进程的 crit 及以上优先级的消息发送到用户 nick 和 jam，可以输入以下命令：
+
+      *.emerg;mail,daemon.crit nick, jam
+
+          其中：
+
+          *、mail 和 daemon 是功能。
+
+          emerg 和 crit 是优先级。
+
+          nick 和 jam 是目标。
+
+    要将所有邮件功能消息发送到所有用户的终端屏幕，可以输入以下命令：
+
+    mail.debug *
+
+          其中：
+
+          mail 是功能。
+
+          debug 是优先级。
+
+          * 是目标。
+
+ 
+
+    配置文件修改完成后需要重启syslogd进程。操作如下：
+
+          #ps -ef|grep syslogd   --确定系统中运行syslogd进程
+
+          #stopsrc -s syslogd    --结束进程
+
+          #ps -ef|grep syslogd   --确认进程已经结束
+
+          #startsrc -s syslogd   --确定进程
